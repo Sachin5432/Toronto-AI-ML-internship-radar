@@ -32,12 +32,14 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Monday 14 September, 11:54 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Monday 14 September, 16:19 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 14 AI/ML matches
+### Strict &middot; 16 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Commercial Lending AI Engineer Intern - Winter 2027, Winter 2027](https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487/apply) | Equitable Bank | Toronto, ON, Canada | **Today** |
+| [Retail Lending AI Engineer Intern, Winter 2027](https://jobs.lever.co/eqbank/1c46930a-7ffe-4760-9d31-e08ea191ddea/apply) | Equitable Bank | Toronto, ON, Canada | **Today** |
 | [Machine Learning Engineer New Grad - AI Processors - Machine Learning Engineering](https://qualcomm.eightfold.ai/careers/job/446721063770) | Qualcomm | Markham, ON, Canada | 3 days ago |
 | [Machine Learning Systems Software Development Engineer Intern - Annapurna Labs, Summer 2027, Winter 2027, Fall 2027](https://amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027) | Amazon | Toronto, ON, Canada | 3 days ago |
 | [Data Scientist Co-op/Intern, Winter 2027](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39965) | Nokia | Ottawa, ON, Canada | 3 days ago |
@@ -53,16 +55,20 @@ _Updated Monday 14 September, 11:54 Toronto &middot; 12/13 sources healthy &midd
 | [Data Scientist Intern, Winter 2027](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Scientist---Winter-2027_R999619-1) | Capital One | Toronto, ON, Canada | 7 days ago |
 | [Data Engineer Intern/Co-op - Winter 2027, Winter 2027](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-Co-op---Intern---Winter-2027-_R_1509826) | TD Bank | Toronto, ON, Canada | 7 days ago |
 
-### Loose &middot; 70 to review
+### Loose &middot; 74 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Technology Business Administration Co-op Intern - IT Business Management, Winter 2027](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9345) | Definity Financial | Toronto, ON, Canada, Waterloo, ON, Canada | **Today** |
 | [Software Developer Intern, Summer 2027](https://boards.greenhouse.io/robinhood/jobs/8142930) | Robinhood | Toronto, ON, Canada | **Today** |
 | [Software Developer Intern, Summer 2027](https://boards.greenhouse.io/robinhood/jobs/8199744) | Robinhood | Toronto, ON, Canada | **Today** |
 | [Software Developer Intern/Co-op, Winter 2027](https://boards.greenhouse.io/robinhood/jobs/8194428) | Robinhood | Toronto, ON, Canada | **Today** |
 | [iOS Software Developer Intern, Summer 2027](https://boards.greenhouse.io/robinhood/jobs/8199729) | Robinhood | Toronto, ON, Canada | **Today** |
 | [Software Engineer Intern - Early Careers - Software Engineering, Summer 2027](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering-_R-574285) | Wells Fargo | Iselin, Woodbridge Township, NJ, Charlotte, NC, St. Louis, MO, Phoenix, AZ, Chandler, AZ, Irving, TX | Yesterday |
 | [Software Engineering Intern - Optical Transport and IP Networking, Winter 2027](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering--Optical-Transport-and-IP-Networking-Intern_R031631) | Ciena | Ottawa, ON, Canada | Yesterday |
+| [Software Engineer Co-op, N/A](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--Software-Engineer--Winter-2027-_JR00127612) | Sun Life | Waterloo, ON, Canada | Yesterday |
+| [Full-Stack Developer Co-op Intern, Winter 2027](https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Co-op-or-Intern--Full-Stack-Developer--January-2027-_JR7057) | BDO Canada | Toronto, ON, Canada, Oakville, ON, Canada, Ottawa, ON, Canada | Yesterday |
+| [Business Analyst New Grad - Data &amp; Analytics](https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Business-Analyst---Data---Analytics---New-Grad--January-2027-_JR7065) | BDO Canada | Montreal, QC, Canada, Toronto, ON, Canada, Calgary, AB, Canada, Oakville, ON, Canada, Edmonton, AB, Canada, Ottawa, ON, Canada, Halifax Regional Municipality, NS, Canada | Yesterday |
 | [Machine Learning Compiler &amp; Performance Engineering Intern - Systems, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721064018) | Qualcomm | Markham, ON, Canada | 3 days ago |
 | [Optical Test Intern Co-op, Winter 2027](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39964) | Nokia | Ottawa, ON, Canada | 3 days ago |
 | [Software Engineer Intern - Machine Learning, Summer 2027](https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002) | Lyft | Toronto, ON, Canada | 3 days ago |
@@ -135,14 +141,14 @@ _Updated Monday 14 September, 11:54 Toronto &middot; 12/13 sources healthy &midd
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
 | Canadian-Tech-Internships-2027 \[tracker\] | 264 | ok |
-| Cohere \[ashby\] | 145 | ok |
+| Cohere \[ashby\] | 144 | ok |
 | Faire \[greenhouse\] | 67 | ok |
-| New-Grad-Positions \[tracker\] | 2988 | ok |
-| Summer2027-Internships \[tracker\] | 3791 | ok |
-| Tenstorrent \[greenhouse\] | 129 | ok |
+| New-Grad-Positions \[tracker\] | 3016 | ok |
+| Summer2027-Internships \[tracker\] | 3816 | ok |
+| Tenstorrent \[greenhouse\] | 128 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 86 | ok |
-| Wealthsimple \[ashby\] | 57 | ok |
+| Wealthsimple \[ashby\] | 56 | ok |
 | Xanadu \[html\] | - | ok |
 | vansh-Summer2027 \[tracker\] | 371 | ok |
 
