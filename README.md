@@ -32,7 +32,7 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Tuesday 15 September, 15:02 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Tuesday 15 September, 18:17 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 9 AI/ML matches
 
@@ -48,7 +48,7 @@ _Updated Tuesday 15 September, 15:02 Toronto &middot; 12/13 sources healthy &mid
 | [Developer Intern - AI Solutions, Winter 2027](https://careers-kinaxis.icims.com/jobs/35343/job?mobile=true&needsRedirect=false) | Kinaxis | Ottawa, ON, Canada | 6 days ago |
 | [Artificial Intelligence Developer Intern Co-op - Winter 2027, Winter 2027](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/AI-Developer---4-Month-Internship-Co-op--Winter-2027--_R155234) | Intact | Toronto, ON, Canada | 7 days ago |
 
-### Loose &middot; 57 to review
+### Loose &middot; 55 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -107,8 +107,6 @@ _Updated Tuesday 15 September, 15:02 Toronto &middot; 12/13 sources healthy &mid
 | [Hardware Asset Management Analyst Co-op Intern - Multiple Teams, Winter 2027](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Hardware-Asset-Management-Analyst--Winter-2027--Co-op-Internship----8-months_R260026279-3) | Bank of Montreal | Toronto, ON, Canada | 7 days ago |
 | [Payments – Product &amp; Design Cash Management Student Analyst - Multiple Teams, N/A](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Payments--Product---Design-Cash-Management-----Winter-2027_2618519) | CIBC | Toronto, ON, Canada | 7 days ago |
 | [AI and Compiler Engineering Graduate Intern, Fall 2027](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/AI-and-Compiler-Engineering-Graduate-Intern_JR0286850) | Intel | Remote in Canada | 7 days ago |
-| [Electrical Engineer New Grad](https://jobs.smartrecruiters.com/AECOM2/744000148322240) | AECOM | Markham, ON, Canada | 7 days ago |
-| [Software Developer Intern, Winter 2027](https://job-boards.greenhouse.io/internshiplist2000/jobs/5414448008) | Geotab | Toronto, ON, Canada, Oakville, ON, Canada, Waterloo, ON, Canada | 7 days ago |
 
 ### Sources
 
@@ -119,12 +117,12 @@ _Updated Tuesday 15 September, 15:02 Toronto &middot; 12/13 sources healthy &mid
 | Canadian-Tech-Internships-2027 \[tracker\] | 262 | ok |
 | Cohere \[ashby\] | 143 | ok |
 | Faire \[greenhouse\] | 68 | ok |
-| New-Grad-Positions \[tracker\] | 3015 | ok |
-| Summer2027-Internships \[tracker\] | 3980 | ok |
-| Tenstorrent \[greenhouse\] | 127 | ok |
+| New-Grad-Positions \[tracker\] | 3006 | ok |
+| Summer2027-Internships \[tracker\] | 3972 | ok |
+| Tenstorrent \[greenhouse\] | 126 | ok |
 | Vector Institute \[html\] | 32 | ok |
-| Waabi \[lever\] | 87 | ok |
-| Wealthsimple \[ashby\] | 56 | ok |
+| Waabi \[lever\] | 85 | ok |
+| Wealthsimple \[ashby\] | 55 | ok |
 | Xanadu \[html\] | - | ok |
 | vansh-Summer2027 \[tracker\] | 371 | ok |
 
