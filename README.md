@@ -32,15 +32,15 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Thursday 17 September, 02:11 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Thursday 17 September, 07:48 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 11 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
 | [System AI Engineer New Grad - Display - ASICS Engineering](https://qualcomm.eightfold.ai/careers/job/446721129106) | Qualcomm | Markham, ON, Canada | Yesterday |
-| [Data Engineer Student, N/A](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Data-Engineer--Winter-and-Summer-2027-_JR00127385) | Sun Life | Montreal, QC, Canada, Toronto, ON, Canada, Waterloo, ON, Canada | 2 days ago |
 | [AI Engineer Intern - Winter 2027, Winter 2027](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI-Engineer-Intern--Winter-2027-_R031667) | Ciena | Ottawa, ON, Canada | 2 days ago |
+| [Data Engineer Student, N/A](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Data-Engineer--Winter-and-Summer-2027-_JR00127385) | Sun Life | Montreal, QC, Canada, Toronto, ON, Canada, Waterloo, ON, Canada | 2 days ago |
 | [Data Scientist Intern - Winter 2027, Winter 2027](https://jobs.lever.co/eqbank/b152bad3-df48-4049-9d44-ba7e57ea6499/apply) | Equitable Bank | Toronto, ON, Canada | 2 days ago |
 | [Commercial Lending AI Engineer Intern - Winter 2027, Winter 2027](https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487/apply) | Equitable Bank | Toronto, ON, Canada | 3 days ago |
 | [Retail Lending AI Engineer Intern, Winter 2027](https://jobs.lever.co/eqbank/1c46930a-7ffe-4760-9d31-e08ea191ddea/apply) | Equitable Bank | Toronto, ON, Canada | 3 days ago |
@@ -50,15 +50,17 @@ _Updated Thursday 17 September, 02:11 Toronto &middot; 12/13 sources healthy &mi
 | [Data Scientist New Grad](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1) | Capital One | Toronto, ON, Canada | 7 days ago |
 | [Machine Learning Compiler &amp; Performance Engineering Intern](https://img.shields.io/badge/-Apply-blue?style=for-the-badge) | Qualcomm | Markham, ON | 7 days ago |
 
-### Loose &middot; 56 to review
+### Loose &middot; 58 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Computer Science Intern Co-op, Winter 2027](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Ottawa---Palladium/Computer-Science-Intern-or-Coop_R0338233) | Thales | Ottawa, ON, Canada | Yesterday |
 | [Data Analyst Intern, N/A](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Investor-Services--PEY-Data-Analyst----12-16-months-_R-0000188126) | Royal Bank of Canada | Toronto, ON, Canada | 2 days ago |
 | [Software Engineer Intern - Investor Services - Months, N/A](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Investor-Services--PEY-Software-Engineer--12-months-_R-0000188109) | Royal Bank of Canada | Toronto, ON, Canada | 2 days ago |
 | [Data Analyst Student - Valuations, N/A](https://fccfac.wd3.myworkdayjobs.com/careers-carrieres/job/Regina-Saskatchewan/Student--Data-Analyst--Valuations-_R-1008821) | Farm Credit Canada | Drummondville, QC, Canada, Montreal, QC, Canada, Winnipeg, MB, Canada, Edmonton, AB, Canada, Regina, SK, Canada, Essex, ON, Canada, Rivière-du-Loup, QC, Canada | 2 days ago |
 | [Quantum and Chemistry Research Intern - Quantum and AI for Chemistry, Summer 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997) | NVIDIA | Toronto, ON, Canada | 2 days ago |
 | [ASIC Development Methodology and Automation New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ASIC-Development-Methodology-and-Automation---New-Grad_R031639) | Ciena | Ottawa, ON, Canada | 2 days ago |
+| [Product Management Intern Co-op, Winter 2027](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/L-H-Product-Management-Intern-Co-op--Winter-2027-_R_1506427) | TD Bank | Toronto, ON, Canada | 2 days ago |
 | [Sensors Subsystem Engineering Intern - Low-Power AI - Audio, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721109229) | Qualcomm | Markham, ON, Canada | 2 days ago |
 | [Sensors Subsystem Engineering Intern - Multiple Teams, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721109168) | Qualcomm | Markham, ON, Canada | 2 days ago |
 | [Credit Risk Intern, Winter 2027](https://jobs.lever.co/eqbank/de711d74-f78a-4cdd-a4a1-fdaa6e6602c3/apply) | Equitable Bank | Toronto, ON, Canada | 2 days ago |
@@ -120,8 +122,8 @@ _Updated Thursday 17 September, 02:11 Toronto &middot; 12/13 sources healthy &mi
 | Canadian-Tech-Internships-2027 \[tracker\] | 293 | ok |
 | Cohere \[ashby\] | 141 | ok |
 | Faire \[greenhouse\] | 68 | ok |
-| New-Grad-Positions \[tracker\] | 3083 | ok |
-| Summer2027-Internships \[tracker\] | 4201 | ok |
+| New-Grad-Positions \[tracker\] | 3090 | ok |
+| Summer2027-Internships \[tracker\] | 4181 | ok |
 | Tenstorrent \[greenhouse\] | 126 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 85 | ok |
