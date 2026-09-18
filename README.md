@@ -32,7 +32,7 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Friday 18 September, 14:31 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Friday 18 September, 17:43 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 11 AI/ML matches
 
@@ -50,12 +50,13 @@ _Updated Friday 18 September, 14:31 Toronto &middot; 12/13 sources healthy &midd
 | [Machine Learning Systems Software Development Engineer Intern - Annapurna Labs, Summer 2027, Winter 2027, Fall 2027](https://amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027) | Amazon | Toronto, ON, Canada | 7 days ago |
 | [Data Scientist Co-op/Intern, Winter 2027](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39965) | Nokia | Ottawa, ON, Canada | 7 days ago |
 
-### Loose &middot; 54 to review
+### Loose &middot; 55 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
 | [Low Power AI Software Development Intern - Interim Engineering Intern - Software, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721143440) | Qualcomm | Markham, ON, Canada | Yesterday |
 | [Silicon Validation Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721143274) | Qualcomm | Toronto, ON, Canada | Yesterday |
+| [Full Stack Developer Intern, N/A](https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Waterford-Waterford-Ireland/Student--Full-Stack-Developer_JR00126897) | Sun Life | Toronto, ON, Canada, Waterford, Ireland | Yesterday |
 | [Design Methodology Engineer Intern - MSIP - HW, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721140936) | Qualcomm | Toronto, ON, Canada | Yesterday |
 | [Firmware Engineer Intern - Embedded Software Engineering - Embedded Firmware and SDK Development, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721141411) | Qualcomm | Toronto, ON, Canada | Yesterday |
 | [Physical Mixed Layout Engineer Intern - Canada - Interim Engineering Intern - HW, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721142985) | Qualcomm | Toronto, ON, Canada | Yesterday |
@@ -116,10 +117,10 @@ _Updated Friday 18 September, 14:31 Toronto &middot; 12/13 sources healthy &midd
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
 | Canadian-Tech-Internships-2027 \[tracker\] | 292 | ok |
-| Cohere \[ashby\] | 142 | ok |
-| Faire \[greenhouse\] | 72 | ok |
-| New-Grad-Positions \[tracker\] | 3087 | ok |
-| Summer2027-Internships \[tracker\] | 4306 | ok |
+| Cohere \[ashby\] | 141 | ok |
+| Faire \[greenhouse\] | 74 | ok |
+| New-Grad-Positions \[tracker\] | 3090 | ok |
+| Summer2027-Internships \[tracker\] | 4340 | ok |
 | Tenstorrent \[greenhouse\] | 126 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 85 | ok |
