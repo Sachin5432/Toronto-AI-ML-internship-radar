@@ -32,9 +32,9 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Friday 18 September, 17:43 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Friday 18 September, 20:23 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 11 AI/ML matches
+### Strict &middot; 8 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -46,11 +46,8 @@ _Updated Friday 18 September, 17:43 Toronto &middot; 12/13 sources healthy &midd
 | [Data Scientist Intern - Winter 2027, Winter 2027](https://jobs.lever.co/eqbank/b152bad3-df48-4049-9d44-ba7e57ea6499/apply) | Equitable Bank | Toronto, ON, Canada | 3 days ago |
 | [Commercial Lending AI Engineer Intern - Winter 2027, Winter 2027](https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487/apply) | Equitable Bank | Toronto, ON, Canada | 4 days ago |
 | [Retail Lending AI Engineer Intern, Winter 2027](https://jobs.lever.co/eqbank/1c46930a-7ffe-4760-9d31-e08ea191ddea/apply) | Equitable Bank | Toronto, ON, Canada | 4 days ago |
-| [Machine Learning Engineer New Grad - AI Processors - Machine Learning Engineering](https://qualcomm.eightfold.ai/careers/job/446721063770) | Qualcomm | Markham, ON, Canada | 7 days ago |
-| [Machine Learning Systems Software Development Engineer Intern - Annapurna Labs, Summer 2027, Winter 2027, Fall 2027](https://amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027) | Amazon | Toronto, ON, Canada | 7 days ago |
-| [Data Scientist Co-op/Intern, Winter 2027](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39965) | Nokia | Ottawa, ON, Canada | 7 days ago |
 
-### Loose &middot; 55 to review
+### Loose &middot; 47 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -101,14 +98,6 @@ _Updated Friday 18 September, 17:43 Toronto &middot; 12/13 sources healthy &midd
 | [Data &amp; Analytics Co-op Intern, Winter 2027](https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Co-op-or-Intern--Data---Analytics--January-2027-_JR7061) | BDO Canada | Montreal, QC, Canada, Toronto, ON, Canada, Calgary, AB, Canada, Oakville, ON, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada, Halifax Regional Municipality, NS, Canada | 5 days ago |
 | [Quantitative Developer Co-op Intern - Alpha Research Team - Multiple Teams, Summer 2027](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715) | Bank of Montreal | Toronto, ON, Canada | 5 days ago |
 | [Quantitative Developer Co-op Intern - Alpha Research Team - Multiple Teams, Summer 2027](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-2) | Bank of Montreal | Toronto, ON, Canada | 5 days ago |
-| [Machine Learning Compiler &amp; Performance Engineering Intern - Systems, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721064018) | Qualcomm | Markham, ON, Canada | 7 days ago |
-| [Optical Test Intern Co-op, Winter 2027](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39964) | Nokia | Ottawa, ON, Canada | 7 days ago |
-| [Software Engineer Intern - Machine Learning, Summer 2027](https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002) | Lyft | Toronto, ON, Canada | 7 days ago |
-| [Software Engineer Intern, Summer 2027](https://app.careerpuck.com/job-board/lyft/job/8767710002?gh_jid=8767710002) | Lyft | Toronto, ON, Canada | 7 days ago |
-| [Software Engineer Intern - Fullstack, Summer 2027](https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002) | Lyft | Toronto, ON, Canada | 7 days ago |
-| [Data Engineer Intern, Summer 2027](https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002) | Lyft | Toronto, ON, Canada | 7 days ago |
-| [Data Science Intern - Algorithms, Summer 2027](https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002) | Lyft | Toronto, ON, Canada | 7 days ago |
-| [Software Engineer Co-op/Intern - Data Modeling &amp; Integration, Winter 2027](https://careers-kinaxis.icims.com/jobs/35349/job?mobile=true&needsRedirect=false) | Kinaxis | Ottawa, ON, Canada | 7 days ago |
 
 ### Sources
 
@@ -117,10 +106,10 @@ _Updated Friday 18 September, 17:43 Toronto &middot; 12/13 sources healthy &midd
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
 | Canadian-Tech-Internships-2027 \[tracker\] | 292 | ok |
-| Cohere \[ashby\] | 141 | ok |
-| Faire \[greenhouse\] | 74 | ok |
-| New-Grad-Positions \[tracker\] | 3090 | ok |
-| Summer2027-Internships \[tracker\] | 4340 | ok |
+| Cohere \[ashby\] | 142 | ok |
+| Faire \[greenhouse\] | 73 | ok |
+| New-Grad-Positions \[tracker\] | 3089 | ok |
+| Summer2027-Internships \[tracker\] | 4312 | ok |
 | Tenstorrent \[greenhouse\] | 126 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 85 | ok |
