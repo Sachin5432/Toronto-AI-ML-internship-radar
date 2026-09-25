@@ -32,7 +32,7 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Friday 25 September, 14:40 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Friday 25 September, 18:25 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 4 AI/ML matches
 
@@ -43,7 +43,7 @@ _Updated Friday 25 September, 14:40 Toronto &middot; 12/13 sources healthy &midd
 | [AI Solutions Co-op, Winter 2027](https://rodanenergysolutionsinc.applytojob.com/apply/CrbmvnkugD/AI-Solutions-Specialist-Coop-Student-Winter-2027) | Rodan Energy Solutions | Mississauga, ON, Canada | 4 days ago |
 | [Data Science Co-op, Winter 2027](https://rodanenergysolutionsinc.applytojob.com/apply/Bn4sqYBZPe/Data-Science-Coop-Student-Winter-2027) | Rodan Energy Solutions | Mississauga, ON, Canada | 4 days ago |
 
-### Loose &middot; 35 to review
+### Loose &middot; 32 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -79,9 +79,6 @@ _Updated Friday 25 September, 14:40 Toronto &middot; 12/13 sources healthy &midd
 | [Mixed Signal IP Integration Engineer New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Mixed-Signal-IP-Integration-Engineer---New-Grad_R031688) | Ciena | Ottawa, ON, Canada | 5 days ago |
 | [Software Engineer Co-op - Winter 2027, Winter 2027](https://jobs.lever.co/achievers/e0700fce-b33b-435a-ab90-84bbd677e181/apply) | Achievers | Toronto, ON, Canada | 7 days ago |
 | [Energy Analyst Intern - Economics - Multiple Teams, Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4736066005) | The Brattle Group | Toronto, ON, Canada | 7 days ago |
-| [IP Applications Engineering Intern - Interim Engineering Intern - HW, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721156615) | Qualcomm | Toronto, ON, Canada | 7 days ago |
-| [MSIP Digital Design Verification Engineering Intern - HW, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721156800) | Qualcomm | Toronto, ON, Canada | 7 days ago |
-| [Electrical and Optical Systems Intern - Silicon Validation Engineer - Interim Engineering Intern - Hardware, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721156176) | Qualcomm | Ottawa, ON, Canada | 7 days ago |
 
 ### Sources
 
@@ -89,15 +86,15 @@ _Updated Friday 25 September, 14:40 Toronto &middot; 12/13 sources healthy &midd
 |---|---|---|
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
-| Canadian-Tech-Internships-2027 \[tracker\] | 292 | ok |
+| Canadian-Tech-Internships-2027 \[tracker\] | 301 | ok |
 | Cohere \[ashby\] | 147 | ok |
-| Faire \[greenhouse\] | 77 | ok |
-| New-Grad-Positions \[tracker\] | 3080 | ok |
-| Summer2027-Internships \[tracker\] | 4581 | ok |
+| Faire \[greenhouse\] | 76 | ok |
+| New-Grad-Positions \[tracker\] | 3069 | ok |
+| Summer2027-Internships \[tracker\] | 4555 | ok |
 | Tenstorrent \[greenhouse\] | 123 | ok |
 | Vector Institute \[html\] | 32 | ok |
-| Waabi \[lever\] | 88 | ok |
-| Wealthsimple \[ashby\] | 43 | ok |
+| Waabi \[lever\] | 87 | ok |
+| Wealthsimple \[ashby\] | 42 | ok |
 | Xanadu \[html\] | - | ok |
 | vansh-Summer2027 \[tracker\] | 371 | ok |
 
