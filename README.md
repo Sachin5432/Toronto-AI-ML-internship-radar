@@ -32,7 +32,7 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Wednesday 30 September, 15:25 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Wednesday 30 September, 19:54 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 4 AI/ML matches
 
@@ -43,10 +43,12 @@ _Updated Wednesday 30 September, 15:25 Toronto &middot; 12/13 sources healthy &m
 | [Development Operations AI &amp; Automation Enablement Co-op Intern, Winter 2027](https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Canada---Mississauga/Co-Op--Development-Operations-AI---Automation-Enablement-Intern_R-260415) | Alexion | Mississauga, ON, Canada | 2 days ago |
 | [Software Engineer New Grad - Machine Learning Platform](https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0/application?embed=true) | Quora | Remote in USA, Remote in Canada | 5 days ago |
 
-### Loose &middot; 26 to review
+### Loose &middot; 25 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Software Developer Intern, Winter 2027](https://soti.wd3.myworkdayjobs.com/Careers/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551) | SOTI | Mississauga, ON, Canada | Yesterday |
+| [Business Analyst Student, N/A](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Mississauga-ON/Business-Analyst-Student-----12-months----Winter-Term-2027_JR166202) | Canadian Tire | Mississauga, ON, Canada | Yesterday |
 | [Performance Analyst Intern, N/A](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Performance-Analyst-Student_R26_00615) | OLG | Toronto, ON, Canada, Sault Ste. Marie, ON, Canada | 2 days ago |
 | [Data Analytics &amp; Insights Intern Co-op, Winter 2027](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Montral-Qubec/Data-Analytics---Insights-Intern---Co-op--Winter-2027-_R_1513914) | TD Bank | Montreal, QC, Canada, Toronto, ON, Canada | 2 days ago |
 | [Hardware Design and Verification Intern - PCBA, Winter 2027](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-Months-_R031787) | Ciena | Ottawa, ON, Canada | 2 days ago |
@@ -70,9 +72,6 @@ _Updated Wednesday 30 September, 15:25 Toronto &middot; 12/13 sources healthy &m
 | [Quantum Technologies Intern, Winter 2027](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Quantum-Computing-Specialist--8-Months_R-0000188860) | Royal Bank of Canada | Toronto, ON, Canada | 7 days ago |
 | [Data Center Silicon Hardware Engineering Intern Co-op - BS, Summer 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---BS---2027-Co-Op_2604525) | Marvell | Toronto, ON, Canada, Ottawa, ON, Canada | 7 days ago |
 | [Quantum Technologies Intern - 8 Months, Winter 2027](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Quantum-Computing-Specialist--8-Months_R-0000188860-1) | Royal Bank of Canada | Toronto, ON, Canada | 7 days ago |
-| [Firmware Development Intern - PAL, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721229661) | Qualcomm | Markham, ON, Canada | 7 days ago |
-| [Data Analytics Intern, Winter 2027](https://jobs.ashbyhq.com/super.com/3ee6ff20-3502-410b-bf24-71db02488986/application?embed=true) | Super | Toronto, ON, Canada, Remote in Canada | 7 days ago |
-| [Intern, Winter 2027](https://careersen-mackenzieinvestments.icims.com/jobs/6014/job?mobile=true&needsRedirect=false) | Mackenzie Investments | Toronto, ON, Canada | 7 days ago |
 
 ### Sources
 
@@ -80,12 +79,12 @@ _Updated Wednesday 30 September, 15:25 Toronto &middot; 12/13 sources healthy &m
 |---|---|---|
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
-| Canadian-Tech-Internships-2027 \[tracker\] | 255 | ok |
+| Canadian-Tech-Internships-2027 \[tracker\] | 260 | ok |
 | Cohere \[ashby\] | 137 | ok |
 | Faire \[greenhouse\] | 74 | ok |
-| New-Grad-Positions \[tracker\] | 3016 | ok |
-| Summer2027-Internships \[tracker\] | 4373 | ok |
-| Tenstorrent \[greenhouse\] | 127 | ok |
+| New-Grad-Positions \[tracker\] | 3054 | ok |
+| Summer2027-Internships \[tracker\] | 4441 | ok |
+| Tenstorrent \[greenhouse\] | 125 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 91 | ok |
 | Wealthsimple \[ashby\] | 42 | ok |
