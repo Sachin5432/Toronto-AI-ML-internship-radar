@@ -32,19 +32,21 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Tuesday 29 September, 16:51 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Tuesday 29 September, 20:31 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 2 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Development Operations AI &amp; Automation Enablement Co-op Intern, Winter 2027](https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Canada---Mississauga/Co-Op--Development-Operations-AI---Automation-Enablement-Intern_R-260415) | Alexion | Mississauga, ON, Canada | Yesterday |
 | [Software Engineer New Grad - Machine Learning Platform](https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0/application?embed=true) | Quora | Remote in USA, Remote in Canada | 4 days ago |
-| [Data Engineer Co-op, N/A](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-CFO--Winter-Data-Engineer--8-months-_R-0000188584) | Royal Bank of Canada | Toronto, ON, Canada | 7 days ago |
 
-### Loose &middot; 28 to review
+### Loose &middot; 24 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Performance Analyst Intern, N/A](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Performance-Analyst-Student_R26_00615) | OLG | Toronto, ON, Canada, Sault Ste. Marie, ON, Canada | Yesterday |
+| [Hardware Design and Verification Intern - PCBA, Winter 2027](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-Months-_R031787) | Ciena | Ottawa, ON, Canada | Yesterday |
 | [Software Developer Co-op, Winter 2027](https://jobs.intuit.com/job/toronto/winter-2027-software-developer-co-op-4-or-8-months/27595/101130613680) | Intuit | Toronto, ON, Canada | 4 days ago |
 | [Operations Analytics Co-op Intern - Intern, Spring 2027](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40261) | Nokia | Ottawa, ON, Canada | 4 days ago |
 | [Developer Intern - Back End Technologies, Winter 2027](https://careers-kinaxis.icims.com/jobs/35372/job?mobile=true&needsRedirect=false) | Kinaxis | Ottawa, ON, Canada | 4 days ago |
@@ -67,12 +69,6 @@ _Updated Tuesday 29 September, 16:51 Toronto &middot; 12/13 sources healthy &mid
 | [Firmware Development Intern - PAL, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721229661) | Qualcomm | Markham, ON, Canada | 6 days ago |
 | [Data Analytics Intern, Winter 2027](https://jobs.ashbyhq.com/super.com/3ee6ff20-3502-410b-bf24-71db02488986/application?embed=true) | Super | Toronto, ON, Canada, Remote in Canada | 6 days ago |
 | [Intern, Winter 2027](https://careersen-mackenzieinvestments.icims.com/jobs/6014/job?mobile=true&needsRedirect=false) | Mackenzie Investments | Toronto, ON, Canada | 6 days ago |
-| [Software Development Intern - Citizen Remote Identity Verification, Winter 2027](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/Intern--Software-Development---Hybrid-in-Ottawa_R004360) | Entrust | Ottawa, ON, Canada | 7 days ago |
-| [Software Development Intern, Winter 2027](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/XMLNAME--Intern---Software-Development----8-months---Hybrid-Ottawa_R004359) | Entrust | Ottawa, ON, Canada | 7 days ago |
-| [Electrical Component Engineering Intern, Fall 2026, Winter 2027](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Electrical-Component-Engineering-Intern--Fall-2026-or-Winter-2027-_R0144279) | Hitachi Energy | Toronto, ON, Canada | 7 days ago |
-| [Software Developer Co-op - Technology and Operations, N/A](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Software-Developer--4-Months_R-0000184555-3) | Royal Bank of Canada | Toronto, ON, Canada | 7 days ago |
-| [Firmware Development Undergraduate Engineering Co-op, Winter 2027](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/Firmware-Development-Undergraduate-Engineering-Co-op_JR0286862) | Intel | Remote in Canada | 7 days ago |
-| [Embedded Software Engineer Intern, N/A](https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Embedded-Software-Engineer_R266615) | Analog Devices | Toronto, ON, Canada, Vancouver, BC, Canada | 7 days ago |
 
 ### Sources
 
@@ -83,12 +79,12 @@ _Updated Tuesday 29 September, 16:51 Toronto &middot; 12/13 sources healthy &mid
 | Canadian-Tech-Internships-2027 \[tracker\] | 261 | ok |
 | Cohere \[ashby\] | 144 | ok |
 | Faire \[greenhouse\] | 76 | ok |
-| New-Grad-Positions \[tracker\] | 2982 | ok |
-| Summer2027-Internships \[tracker\] | 4327 | ok |
-| Tenstorrent \[greenhouse\] | 127 | ok |
+| New-Grad-Positions \[tracker\] | 3033 | ok |
+| Summer2027-Internships \[tracker\] | 4418 | ok |
+| Tenstorrent \[greenhouse\] | 126 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 87 | ok |
-| Wealthsimple \[ashby\] | 42 | ok |
+| Wealthsimple \[ashby\] | 43 | ok |
 | Xanadu \[html\] | - | ok |
 | vansh-Summer2027 \[tracker\] | 371 | ok |
 
