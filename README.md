@@ -32,7 +32,7 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Friday 02 October, 08:43 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Friday 02 October, 14:28 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 10 AI/ML matches
 
@@ -49,10 +49,12 @@ _Updated Friday 02 October, 08:43 Toronto &middot; 12/13 sources healthy &middot
 | [Development Operations AI &amp; Automation Enablement Co-op Intern, Winter 2027](https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Canada---Mississauga/Co-Op--Development-Operations-AI---Automation-Enablement-Intern_R-260415) | Alexion | Mississauga, ON, Canada | 4 days ago |
 | [Software Engineer New Grad - Machine Learning Platform](https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0/application?embed=true) | Quora | Remote in USA, Remote in Canada | 7 days ago |
 
-### Loose &middot; 22 to review
+### Loose &middot; 24 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Operations Analyst Co-op Intern, Winter 2027](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9410) | Definity Financial | Toronto, ON, Canada, Waterloo, ON, Canada, Ottawa, ON, Canada | **Today** |
+| [Firmware Engineer Intern, Winter 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Firmware-Engineer-Intern---Winter-2027_2604738) | Marvell | Ottawa, ON, Canada | Yesterday |
 | [Data Analyst Intern, Spring 2027, Summer 2028](https://stripe.com/jobs/search?gh_jid=8194287) | Stripe | Toronto, ON, Canada | Yesterday |
 | [Machine Learning Intern, Summer 2027](https://www.pinterestcareers.com/jobs/?gh_jid=8138080) | Pinterest | Toronto, ON, Canada | Yesterday |
 | [Software Development Intern, Winter 2027](https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Software-Development-Internship--Winter-2027-_26WD101435) | Autodesk | Toronto, ON, Canada | 2 days ago |
@@ -82,15 +84,15 @@ _Updated Friday 02 October, 08:43 Toronto &middot; 12/13 sources healthy &middot
 |---|---|---|
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
-| Canadian-Tech-Internships-2027 \[tracker\] | 253 | ok |
-| Cohere \[ashby\] | 133 | ok |
+| Canadian-Tech-Internships-2027 \[tracker\] | 232 | ok |
+| Cohere \[ashby\] | 136 | ok |
 | Faire \[greenhouse\] | 79 | ok |
-| New-Grad-Positions \[tracker\] | 3047 | ok |
-| Summer2027-Internships \[tracker\] | 4435 | ok |
-| Tenstorrent \[greenhouse\] | 127 | ok |
+| New-Grad-Positions \[tracker\] | 3040 | ok |
+| Summer2027-Internships \[tracker\] | 4429 | ok |
+| Tenstorrent \[greenhouse\] | 129 | ok |
 | Vector Institute \[html\] | 32 | ok |
-| Waabi \[lever\] | 91 | ok |
-| Wealthsimple \[ashby\] | 43 | ok |
+| Waabi \[lever\] | 92 | ok |
+| Wealthsimple \[ashby\] | 44 | ok |
 | Xanadu \[html\] | - | ok |
 | vansh-Summer2027 \[tracker\] | 371 | ok |
 
