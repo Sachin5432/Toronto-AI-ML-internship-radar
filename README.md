@@ -32,7 +32,7 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Saturday 03 October, 04:12 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Saturday 03 October, 09:27 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 10 AI/ML matches
 
@@ -49,7 +49,7 @@ _Updated Saturday 03 October, 04:12 Toronto &middot; 12/13 sources healthy &midd
 | [Data Scientist Co-op - Sales Business Analytics, N/A](https://jobs.apple.com/en-us/details/200686205) | Apple | Toronto, ON, Canada | 3 days ago |
 | [Development Operations AI &amp; Automation Enablement Co-op Intern, Winter 2027](https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Canada---Mississauga/Co-Op--Development-Operations-AI---Automation-Enablement-Intern_R-260415) | Alexion | Mississauga, ON, Canada | 5 days ago |
 
-### Loose &middot; 26 to review
+### Loose &middot; 27 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -79,6 +79,7 @@ _Updated Saturday 03 October, 04:12 Toronto &middot; 12/13 sources healthy &midd
 | [Hardware Design and Verification Intern - PCBA, Winter 2027](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-Months-_R031787) | Ciena | Ottawa, ON, Canada | 5 days ago |
 | [Soft IP ASIC Engineer Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721302471) | Qualcomm | Ottawa, ON, Canada | 5 days ago |
 | [Infotainment Software Developer Co-op, Winter 2027](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Infotainment-Software-Developer_JR-202621159) | General Motors | Markham, ON, Canada | 6 days ago |
+| [Tech Development Program New Grad - Software Development &amp; Cloud Stream](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/New-Grad-Tech-Development-Program---Software-Development---Cloud-Stream_R155934) | Intact | Montreal, QC, Canada, Toronto, ON, Canada | 6 days ago |
 
 ### Sources
 
@@ -89,8 +90,8 @@ _Updated Saturday 03 October, 04:12 Toronto &middot; 12/13 sources healthy &midd
 | Canadian-Tech-Internships-2027 \[tracker\] | 232 | ok |
 | Cohere \[ashby\] | 136 | ok |
 | Faire \[greenhouse\] | 80 | ok |
-| New-Grad-Positions \[tracker\] | 3057 | ok |
-| Summer2027-Internships \[tracker\] | 4494 | ok |
+| New-Grad-Positions \[tracker\] | 3049 | ok |
+| Summer2027-Internships \[tracker\] | 4476 | ok |
 | Tenstorrent \[greenhouse\] | 129 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 92 | ok |
