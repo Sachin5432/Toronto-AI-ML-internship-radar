@@ -32,9 +32,9 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Friday 02 October, 19:00 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Friday 02 October, 22:02 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 11 AI/ML matches
+### Strict &middot; 10 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -48,12 +48,12 @@ _Updated Friday 02 October, 19:00 Toronto &middot; 12/13 sources healthy &middot
 | [Software Engineer New Grad - AI Entities](https://jobs.ashbyhq.com/evenup/19eb22cd-9540-49ed-840b-6422714413b5/application?embed=true) | EvenUp | Toronto, ON, Canada, SF | 2 days ago |
 | [Data Scientist Co-op - Sales Business Analytics, N/A](https://jobs.apple.com/en-us/details/200686205) | Apple | Toronto, ON, Canada | 2 days ago |
 | [Development Operations AI &amp; Automation Enablement Co-op Intern, Winter 2027](https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Canada---Mississauga/Co-Op--Development-Operations-AI---Automation-Enablement-Intern_R-260415) | Alexion | Mississauga, ON, Canada | 4 days ago |
-| [Software Engineer New Grad - Machine Learning Platform](https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0/application?embed=true) | Quora | Remote in USA, Remote in Canada | 7 days ago |
 
-### Loose &middot; 25 to review
+### Loose &middot; 26 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Software Engineer Intern, Winter 2027](https://jobs.ashbyhq.com/harvey/d40e15aa-2351-4be8-ac8f-1faf60bfcdbf/application?embed=true) | Harvey | Toronto, ON, Canada | **Today** |
 | [Automation Engineer Co-op Intern, Spring 2027](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41168) | Nokia | Ottawa, ON, Canada | **Today** |
 | [Operations Analyst Co-op Intern, Winter 2027](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9410) | Definity Financial | Toronto, ON, Canada, Waterloo, ON, Canada, Ottawa, ON, Canada | **Today** |
 | [Technology Enablement Analyst Co-op, Winter 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Technology-Enablement-Analyst_JR26090774) | Manulife Financial | Toronto, ON, Canada | Yesterday |
@@ -89,8 +89,8 @@ _Updated Friday 02 October, 19:00 Toronto &middot; 12/13 sources healthy &middot
 | Canadian-Tech-Internships-2027 \[tracker\] | 232 | ok |
 | Cohere \[ashby\] | 136 | ok |
 | Faire \[greenhouse\] | 80 | ok |
-| New-Grad-Positions \[tracker\] | 3042 | ok |
-| Summer2027-Internships \[tracker\] | 4438 | ok |
+| New-Grad-Positions \[tracker\] | 3062 | ok |
+| Summer2027-Internships \[tracker\] | 4500 | ok |
 | Tenstorrent \[greenhouse\] | 129 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 92 | ok |
