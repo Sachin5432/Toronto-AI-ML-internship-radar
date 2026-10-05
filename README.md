@@ -32,12 +32,13 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Monday 05 October, 12:06 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Monday 05 October, 18:42 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 10 AI/ML matches
+### Strict &middot; 11 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Data Scientist Intern, Winter 2027](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--Jan-2027-12-Months-_R10571) | SOTI | Mississauga, ON, Canada | Yesterday |
 | [AI/ML Researcher Intern, Winter 2027](https://careers-kinaxis.icims.com/jobs/35465/job?mobile=true&needsRedirect=false) | Kinaxis | Remote in Canada | 3 days ago |
 | [AI Data Developer Intern - Winter, Winter 2027](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--AI-Data-Developer--Winter-_26WD101082-1) | Autodesk | Toronto, ON, Canada | 5 days ago |
 | [AI/ML Platform Intern, Winter 2027](https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061) | Autodesk | Toronto, ON, Canada | 5 days ago |
@@ -49,10 +50,14 @@ _Updated Monday 05 October, 12:06 Toronto &middot; 12/13 sources healthy &middot
 | [Data Scientist Co-op - Sales Business Analytics, N/A](https://jobs.apple.com/en-us/details/200686205) | Apple | Toronto, ON, Canada | 5 days ago |
 | [Development Operations AI &amp; Automation Enablement Co-op Intern, Winter 2027](https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Canada---Mississauga/Co-Op--Development-Operations-AI---Automation-Enablement-Intern_R-260415) | Alexion | Mississauga, ON, Canada | 7 days ago |
 
-### Loose &middot; 25 to review
+### Loose &middot; 28 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Mobile Developer Entry Level](https://boards.greenhouse.io/embed/job_app?token=7976082003) | Konrad Group | Toronto, ON, Canada | **Today** |
+| [Embedded Software Developer Co-op - Optical Circuit Switch, Winter 2027](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Developer-Co-op--Optical-Circuit-Switch-_20261320) | Lumentum | Ottawa, ON, Canada | Yesterday |
+| [Data Analyst Intern, Winter 2027](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Data-Analyst---Winter-2027-_JR00128365) | Sun Life | Toronto, ON, Canada, Waterloo, ON, Canada | Yesterday |
+| [Optical Verification Engineer Co-op Intern, Winter 2027](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_20261208) | Lumentum | Ottawa, ON, Canada | Yesterday |
 | [Software Engineer Intern, Winter 2027](https://jobs.ashbyhq.com/harvey/d40e15aa-2351-4be8-ac8f-1faf60bfcdbf/application?embed=true) | Harvey | Toronto, ON, Canada | 3 days ago |
 | [Automation Engineer Co-op Intern, Spring 2027](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41168) | Nokia | Ottawa, ON, Canada | 3 days ago |
 | [Operations Analyst Co-op Intern, Winter 2027](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9410) | Definity Financial | Toronto, ON, Canada, Waterloo, ON, Canada, Ottawa, ON, Canada | 3 days ago |
@@ -77,7 +82,6 @@ _Updated Monday 05 October, 12:06 Toronto &middot; 12/13 sources healthy &middot
 | [Performance Analyst Intern, N/A](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Performance-Analyst-Student_R26_00615) | OLG | Toronto, ON, Canada, Sault Ste. Marie, ON, Canada | 7 days ago |
 | [Data Analytics &amp; Insights Intern Co-op, Winter 2027](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Montral-Qubec/Data-Analytics---Insights-Intern---Co-op--Winter-2027-_R_1513914) | TD Bank | Montreal, QC, Canada, Toronto, ON, Canada | 7 days ago |
 | [Hardware Design and Verification Intern - PCBA, Winter 2027](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-Months-_R031787) | Ciena | Ottawa, ON, Canada | 7 days ago |
-| [Soft IP ASIC Engineer Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721302471) | Qualcomm | Ottawa, ON, Canada | 7 days ago |
 
 ### Sources
 
@@ -86,14 +90,14 @@ _Updated Monday 05 October, 12:06 Toronto &middot; 12/13 sources healthy &middot
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
 | Canadian-Tech-Internships-2027 \[tracker\] | 232 | ok |
-| Cohere \[ashby\] | 134 | ok |
+| Cohere \[ashby\] | 135 | ok |
 | Faire \[greenhouse\] | 75 | ok |
-| New-Grad-Positions \[tracker\] | 3027 | ok |
-| Summer2027-Internships \[tracker\] | 4402 | ok |
-| Tenstorrent \[greenhouse\] | 130 | ok |
+| New-Grad-Positions \[tracker\] | 3002 | ok |
+| Summer2027-Internships \[tracker\] | 4373 | ok |
+| Tenstorrent \[greenhouse\] | 132 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 92 | ok |
-| Wealthsimple \[ashby\] | 46 | ok |
+| Wealthsimple \[ashby\] | 48 | ok |
 | Xanadu \[html\] | - | ok |
 | vansh-Summer2027 \[tracker\] | 371 | ok |
 
