@@ -32,60 +32,67 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Monday 05 October, 23:02 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Tuesday 06 October, 06:25 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 12 AI/ML matches
-
-| Role | Company | Location | Posted |
-|---|---|---|---|
-| [AI Developer Intern - Innovation &amp; AI Center of Excellence, Winter 2027](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Developer-Intern---Innovation---AI-Center-of-Excellence--4-Months-_R-0000188001) | Royal Bank of Canada | Toronto, ON, Canada | Yesterday |
-| [AI Developer Intern - Grm - Innovation &amp; AI Center of Excellence, Winter 2027](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Developer-Intern---Innovation---AI-Center-of-Excellence--4-Months-_R-0000188001-1) | Royal Bank of Canada | Toronto, ON, Canada | Yesterday |
-| [Data Scientist Intern, Winter 2027](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--Jan-2027-12-Months-_R10571) | SOTI | Mississauga, ON, Canada | Yesterday |
-| [AI/ML Researcher Intern, Winter 2027](https://careers-kinaxis.icims.com/jobs/35465/job?mobile=true&needsRedirect=false) | Kinaxis | Remote in Canada | 3 days ago |
-| [AI Data Developer Intern - Winter, Winter 2027](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--AI-Data-Developer--Winter-_26WD101082-1) | Autodesk | Toronto, ON, Canada | 5 days ago |
-| [AI/ML Platform Intern, Winter 2027](https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061) | Autodesk | Toronto, ON, Canada | 5 days ago |
-| [AI Data Developer Intern, Winter 2027](https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Intern--AI-Data-Developer--Winter-_26WD101082) | Autodesk | Toronto, ON, Canada | 5 days ago |
-| [AI Machine Learning Developer Intern, Winter 2027](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Machine-Learning-Developer_Req195010) | The Home Depot | Toronto, ON, Canada | 5 days ago |
-| [MCCR Policy AI Applications Intern - GRM, Winter 2027](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--MCCR-Policy-AI-Applications-Intern--4-Months-_R-0000184696-3) | Royal Bank of Canada | Toronto, ON, Canada | 5 days ago |
-| [AI/ML Platform Intern, Winter 2027](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061-1) | Autodesk | Toronto, ON, Canada | 5 days ago |
-| [Software Engineer New Grad - AI Entities](https://jobs.ashbyhq.com/evenup/19eb22cd-9540-49ed-840b-6422714413b5/application?embed=true) | EvenUp | Toronto, ON, Canada, SF | 5 days ago |
-| [Data Scientist Co-op - Sales Business Analytics, N/A](https://jobs.apple.com/en-us/details/200686205) | Apple | Toronto, ON, Canada | 5 days ago |
-
-### Loose &middot; 31 to review
+### Strict &middot; 13 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
-| [Software Engineer Intern, Summer 2027](https://job-boards.greenhouse.io/khanacademy/jobs/8250259) | Khan Academy | Remote in USA, Remote in Canada | **Today** |
-| [Software Engineer Co-op - Apps, Winter 2027](https://jobs.ashbyhq.com/solink/c973029a-83fa-449e-b4a9-0a1514165430/application?embed=true) | Solink | Ottawa, ON, Canada | **Today** |
-| [Mobile Developer Entry Level](https://boards.greenhouse.io/embed/job_app?token=7976082003) | Konrad Group | Toronto, ON, Canada | **Today** |
-| [Embedded Software Developer Co-op - Optical Circuit Switch, Winter 2027](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Developer-Co-op--Optical-Circuit-Switch-_20261320) | Lumentum | Ottawa, ON, Canada | Yesterday |
-| [Data Analyst Intern, Winter 2027](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Data-Analyst---Winter-2027-_JR00128365) | Sun Life | Toronto, ON, Canada, Waterloo, ON, Canada | Yesterday |
-| [Electrical Component Engineer Intern, Summer 2027](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Electrical-Component-Engineering-Intern--Winter-2027--16months-_R0145359) | Hitachi Energy | Toronto, ON, Canada | Yesterday |
-| [Software Developer Intern - Contacts, N/A](https://goto.wd5.myworkdayjobs.com/GoToCareers/job/Remote-Canada/Contacts-Intern_R26-2249) | GoTo Group | Remote in Canada | Yesterday |
-| [Optical Verification Engineer Co-op Intern, Winter 2027](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_20261208) | Lumentum | Ottawa, ON, Canada | Yesterday |
-| [Data Scientist Intern, Summer 2027](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Scientist---Summer-2027_R1002165-1) | Capital One | Toronto, ON, Canada | Yesterday |
-| [Data Analyst Co-op - Personal Banking, Winter 2027](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Winter-2027-Co-op-Student---Data-Analyst--Personal-Banking---8-months-_R-0000189535) | Royal Bank of Canada | Toronto, ON, Canada | Yesterday |
-| [Software Engineer Intern, Winter 2027](https://jobs.ashbyhq.com/harvey/d40e15aa-2351-4be8-ac8f-1faf60bfcdbf/application?embed=true) | Harvey | Toronto, ON, Canada | 3 days ago |
-| [Automation Engineer Co-op Intern, Spring 2027](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41168) | Nokia | Ottawa, ON, Canada | 3 days ago |
-| [Operations Analyst Co-op Intern, Winter 2027](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9410) | Definity Financial | Toronto, ON, Canada, Waterloo, ON, Canada, Ottawa, ON, Canada | 3 days ago |
-| [Technology Enablement Analyst Co-op, Winter 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Technology-Enablement-Analyst_JR26090774) | Manulife Financial | Toronto, ON, Canada | 4 days ago |
-| [Hardware Test Engineering Intern, Summer 2027](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476) | Hitachi Energy | Toronto, ON, Canada | 4 days ago |
-| [Firmware Engineer Intern Co-op, Summer 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Firmware-Engineer-Intern---BS-MS---2027-Co-Op_2604959) | Marvell | Toronto, ON, Canada | 4 days ago |
-| [Firmware Engineer Intern, Winter 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Firmware-Engineer-Intern---Winter-2027_2604738) | Marvell | Ottawa, ON, Canada | 4 days ago |
-| [Data Analyst Intern, Spring 2027, Summer 2028](https://stripe.com/jobs/search?gh_jid=8194287) | Stripe | Toronto, ON, Canada | 4 days ago |
-| [Machine Learning Intern, Summer 2027](https://www.pinterestcareers.com/jobs/?gh_jid=8138080) | Pinterest | Toronto, ON, Canada | 4 days ago |
-| [Software Development Intern, Winter 2027](https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Software-Development-Internship--Winter-2027-_26WD101435) | Autodesk | Toronto, ON, Canada | 5 days ago |
-| [ALM Data Management &amp; Analytics Co-op, Winter 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---ALM-Data-Management---Analytics_JR26091831) | Manulife Financial | Toronto, ON, Canada | 5 days ago |
-| [Associate Software Engineer Co-op, N/A](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Associate-Software-Engineer--Winter-2027-_JR00128318) | Sun Life | Toronto, ON, Canada, Waterloo, ON, Canada | 5 days ago |
-| [Full Stack Software Developer Intern, Winter 2027](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--Full-Stack-Software-Developer_Req195012) | The Home Depot | Toronto, ON, Canada | 5 days ago |
-| [Product Management Intern, Winter 2027](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Product-Management--Winter-2027-_26WD101442-2) | Autodesk | Toronto, ON, Canada | 5 days ago |
-| [Software Development Intern, Winter 2027](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Winter-2027-_26WD101435-1) | Autodesk | Toronto, ON, Canada | 5 days ago |
-| [Software Development Intern, Summer 2027](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436-1) | Autodesk | Toronto, ON, Canada | 5 days ago |
-| [Software Developer Intern, Summer 2027](https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436) | Autodesk | Toronto, ON, Canada | 5 days ago |
-| [Product Management Intern, Winter 2027](https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Intern--Product-Management--Winter-2027-_26WD101442) | Autodesk | Toronto, ON, Canada | 5 days ago |
-| [Data Analyst Co-op - Personal Banking, Winter 2027](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Winter-2027-Co-op-Student---Data-Analyst--Personal-Banking--4--8--12-months-_R-0000184514-1) | Royal Bank of Canada | Toronto, ON, Canada | 5 days ago |
-| [Software Developer Intern, Winter 2027](https://soti.wd3.myworkdayjobs.com/Careers/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551) | SOTI | Mississauga, ON, Canada | 6 days ago |
-| [Business Analyst Student, N/A](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Mississauga-ON/Business-Analyst-Student-----12-months----Winter-Term-2027_JR166202) | Canadian Tire | Mississauga, ON, Canada | 6 days ago |
+| [Machine Learning Engineer Intern, Winter 2027](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4397976009) | StackAdapt | Remote in Canada | **Today** |
+| [Data Scientist Intern, Winter 2027](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--Jan-2027-12-Months-_R10571) | SOTI | Mississauga, ON, Canada | 2 days ago |
+| [AI Developer Intern - Innovation &amp; AI Center of Excellence, Winter 2027](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Developer-Intern---Innovation---AI-Center-of-Excellence--4-Months-_R-0000188001) | Royal Bank of Canada | Toronto, ON, Canada | 2 days ago |
+| [AI Developer Intern - Grm - Innovation &amp; AI Center of Excellence, Winter 2027](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Developer-Intern---Innovation---AI-Center-of-Excellence--4-Months-_R-0000188001-1) | Royal Bank of Canada | Toronto, ON, Canada | 2 days ago |
+| [AI/ML Researcher Intern, Winter 2027](https://careers-kinaxis.icims.com/jobs/35465/job?mobile=true&needsRedirect=false) | Kinaxis | Remote in Canada | 4 days ago |
+| [AI Data Developer Intern - Winter, Winter 2027](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--AI-Data-Developer--Winter-_26WD101082-1) | Autodesk | Toronto, ON, Canada | 6 days ago |
+| [AI/ML Platform Intern, Winter 2027](https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061) | Autodesk | Toronto, ON, Canada | 6 days ago |
+| [AI Data Developer Intern, Winter 2027](https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Intern--AI-Data-Developer--Winter-_26WD101082) | Autodesk | Toronto, ON, Canada | 6 days ago |
+| [AI Machine Learning Developer Intern, Winter 2027](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Machine-Learning-Developer_Req195010) | The Home Depot | Toronto, ON, Canada | 6 days ago |
+| [MCCR Policy AI Applications Intern - GRM, Winter 2027](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--MCCR-Policy-AI-Applications-Intern--4-Months-_R-0000184696-3) | Royal Bank of Canada | Toronto, ON, Canada | 6 days ago |
+| [AI/ML Platform Intern, Winter 2027](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061-1) | Autodesk | Toronto, ON, Canada | 6 days ago |
+| [Software Engineer New Grad - AI Entities](https://jobs.ashbyhq.com/evenup/19eb22cd-9540-49ed-840b-6422714413b5/application?embed=true) | EvenUp | Toronto, ON, Canada, SF | 6 days ago |
+| [Data Scientist Co-op - Sales Business Analytics, N/A](https://jobs.apple.com/en-us/details/200686205) | Apple | Toronto, ON, Canada | 6 days ago |
+
+### Loose &middot; 37 to review
+
+| Role | Company | Location | Posted |
+|---|---|---|---|
+| [Software Engineer Backend Intern, Winter 2027](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4386552009) | StackAdapt | Remote in Canada | **Today** |
+| [Software Engineer Intern, Winter 2027](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4386549009) | StackAdapt | Remote in Canada | **Today** |
+| [Physical Design Engineer Intern, N/A](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731401005) | Astera Labs | Toronto, ON, Canada | **Today** |
+| [Design-for-Test Engineer Intern, N/A](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728387005) | Astera Labs | Toronto, ON, Canada, San Jose, CA | **Today** |
+| [Digital Design Engineer Intern, N/A](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731399005) | Astera Labs | Toronto, ON, Canada | **Today** |
+| [Design Verification Engineer Intern, N/A](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731392005) | Astera Labs | Toronto, ON, Canada | **Today** |
+| [Software Engineer Intern, Summer 2027](https://job-boards.greenhouse.io/khanacademy/jobs/8250259) | Khan Academy | Remote in USA, Remote in Canada | Yesterday |
+| [Software Engineer Co-op - Apps, Winter 2027](https://jobs.ashbyhq.com/solink/c973029a-83fa-449e-b4a9-0a1514165430/application?embed=true) | Solink | Ottawa, ON, Canada | Yesterday |
+| [Mobile Developer Entry Level](https://boards.greenhouse.io/embed/job_app?token=7976082003) | Konrad Group | Toronto, ON, Canada | Yesterday |
+| [Embedded Software Developer Co-op - Optical Circuit Switch, Winter 2027](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Developer-Co-op--Optical-Circuit-Switch-_20261320) | Lumentum | Ottawa, ON, Canada | 2 days ago |
+| [Data Analyst Intern, Winter 2027](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Data-Analyst---Winter-2027-_JR00128365) | Sun Life | Toronto, ON, Canada, Waterloo, ON, Canada | 2 days ago |
+| [Electrical Component Engineer Intern, Summer 2027](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Electrical-Component-Engineering-Intern--Winter-2027--16months-_R0145359) | Hitachi Energy | Toronto, ON, Canada | 2 days ago |
+| [Software Developer Intern - Contacts, N/A](https://goto.wd5.myworkdayjobs.com/GoToCareers/job/Remote-Canada/Contacts-Intern_R26-2249) | GoTo Group | Remote in Canada | 2 days ago |
+| [Optical Verification Engineer Co-op Intern, Winter 2027](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_20261208) | Lumentum | Ottawa, ON, Canada | 2 days ago |
+| [Data Scientist Intern, Summer 2027](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Scientist---Summer-2027_R1002165-1) | Capital One | Toronto, ON, Canada | 2 days ago |
+| [Data Analyst Co-op - Personal Banking, Winter 2027](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Winter-2027-Co-op-Student---Data-Analyst--Personal-Banking---8-months-_R-0000189535) | Royal Bank of Canada | Toronto, ON, Canada | 2 days ago |
+| [Software Engineer Intern, Winter 2027](https://jobs.ashbyhq.com/harvey/d40e15aa-2351-4be8-ac8f-1faf60bfcdbf/application?embed=true) | Harvey | Toronto, ON, Canada | 4 days ago |
+| [Automation Engineer Co-op Intern, Spring 2027](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41168) | Nokia | Ottawa, ON, Canada | 4 days ago |
+| [Operations Analyst Co-op Intern, Winter 2027](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9410) | Definity Financial | Toronto, ON, Canada, Waterloo, ON, Canada, Ottawa, ON, Canada | 4 days ago |
+| [Technology Enablement Analyst Co-op, Winter 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Technology-Enablement-Analyst_JR26090774) | Manulife Financial | Toronto, ON, Canada | 5 days ago |
+| [Hardware Test Engineering Intern, Summer 2027](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476) | Hitachi Energy | Toronto, ON, Canada | 5 days ago |
+| [Firmware Engineer Intern Co-op, Summer 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Firmware-Engineer-Intern---BS-MS---2027-Co-Op_2604959) | Marvell | Toronto, ON, Canada | 5 days ago |
+| [Firmware Engineer Intern, Winter 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Firmware-Engineer-Intern---Winter-2027_2604738) | Marvell | Ottawa, ON, Canada | 5 days ago |
+| [Data Analyst Intern, Spring 2027, Summer 2028](https://stripe.com/jobs/search?gh_jid=8194287) | Stripe | Toronto, ON, Canada | 5 days ago |
+| [Machine Learning Intern, Summer 2027](https://www.pinterestcareers.com/jobs/?gh_jid=8138080) | Pinterest | Toronto, ON, Canada | 5 days ago |
+| [Software Development Intern, Winter 2027](https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Software-Development-Internship--Winter-2027-_26WD101435) | Autodesk | Toronto, ON, Canada | 6 days ago |
+| [ALM Data Management &amp; Analytics Co-op, Winter 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---ALM-Data-Management---Analytics_JR26091831) | Manulife Financial | Toronto, ON, Canada | 6 days ago |
+| [Associate Software Engineer Co-op, N/A](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Associate-Software-Engineer--Winter-2027-_JR00128318) | Sun Life | Toronto, ON, Canada, Waterloo, ON, Canada | 6 days ago |
+| [Full Stack Software Developer Intern, Winter 2027](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--Full-Stack-Software-Developer_Req195012) | The Home Depot | Toronto, ON, Canada | 6 days ago |
+| [Product Management Intern, Winter 2027](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Product-Management--Winter-2027-_26WD101442-2) | Autodesk | Toronto, ON, Canada | 6 days ago |
+| [Software Development Intern, Winter 2027](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Winter-2027-_26WD101435-1) | Autodesk | Toronto, ON, Canada | 6 days ago |
+| [Software Development Intern, Summer 2027](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436-1) | Autodesk | Toronto, ON, Canada | 6 days ago |
+| [Software Developer Intern, Summer 2027](https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436) | Autodesk | Toronto, ON, Canada | 6 days ago |
+| [Product Management Intern, Winter 2027](https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Intern--Product-Management--Winter-2027-_26WD101442) | Autodesk | Toronto, ON, Canada | 6 days ago |
+| [Data Analyst Co-op - Personal Banking, Winter 2027](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Winter-2027-Co-op-Student---Data-Analyst--Personal-Banking--4--8--12-months-_R-0000184514-1) | Royal Bank of Canada | Toronto, ON, Canada | 6 days ago |
+| [Software Developer Intern, Winter 2027](https://soti.wd3.myworkdayjobs.com/Careers/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551) | SOTI | Mississauga, ON, Canada | 7 days ago |
+| [Business Analyst Student, N/A](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Mississauga-ON/Business-Analyst-Student-----12-months----Winter-Term-2027_JR166202) | Canadian Tire | Mississauga, ON, Canada | 7 days ago |
 
 ### Sources
 
@@ -96,12 +103,12 @@ _Updated Monday 05 October, 23:02 Toronto &middot; 12/13 sources healthy &middot
 | Canadian-Tech-Internships-2027 \[tracker\] | 232 | ok |
 | Cohere \[ashby\] | 135 | ok |
 | Faire \[greenhouse\] | 75 | ok |
-| New-Grad-Positions \[tracker\] | 3049 | ok |
-| Summer2027-Internships \[tracker\] | 4465 | ok |
-| Tenstorrent \[greenhouse\] | 132 | ok |
+| New-Grad-Positions \[tracker\] | 3104 | ok |
+| Summer2027-Internships \[tracker\] | 4535 | ok |
+| Tenstorrent \[greenhouse\] | 131 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 92 | ok |
-| Wealthsimple \[ashby\] | 48 | ok |
+| Wealthsimple \[ashby\] | 47 | ok |
 | Xanadu \[html\] | - | ok |
 | vansh-Summer2027 \[tracker\] | 371 | ok |
 
