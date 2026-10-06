@@ -32,12 +32,13 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Tuesday 06 October, 06:25 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Tuesday 06 October, 13:14 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 13 AI/ML matches
+### Strict &middot; 14 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Hardware Intern - AI HW &amp; System on a Chip, N/A](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256568007) | Tenstorrent | Toronto, ON, Canada, Ottawa, ON, Canada | **Today** |
 | [Machine Learning Engineer Intern, Winter 2027](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4397976009) | StackAdapt | Remote in Canada | **Today** |
 | [Data Scientist Intern, Winter 2027](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--Jan-2027-12-Months-_R10571) | SOTI | Mississauga, ON, Canada | 2 days ago |
 | [AI Developer Intern - Innovation &amp; AI Center of Excellence, Winter 2027](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Developer-Intern---Innovation---AI-Center-of-Excellence--4-Months-_R-0000188001) | Royal Bank of Canada | Toronto, ON, Canada | 2 days ago |
@@ -52,7 +53,7 @@ _Updated Tuesday 06 October, 06:25 Toronto &middot; 12/13 sources healthy &middo
 | [Software Engineer New Grad - AI Entities](https://jobs.ashbyhq.com/evenup/19eb22cd-9540-49ed-840b-6422714413b5/application?embed=true) | EvenUp | Toronto, ON, Canada, SF | 6 days ago |
 | [Data Scientist Co-op - Sales Business Analytics, N/A](https://jobs.apple.com/en-us/details/200686205) | Apple | Toronto, ON, Canada | 6 days ago |
 
-### Loose &middot; 37 to review
+### Loose &middot; 40 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -62,6 +63,9 @@ _Updated Tuesday 06 October, 06:25 Toronto &middot; 12/13 sources healthy &middo
 | [Design-for-Test Engineer Intern, N/A](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728387005) | Astera Labs | Toronto, ON, Canada, San Jose, CA | **Today** |
 | [Digital Design Engineer Intern, N/A](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731399005) | Astera Labs | Toronto, ON, Canada | **Today** |
 | [Design Verification Engineer Intern, N/A](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731392005) | Astera Labs | Toronto, ON, Canada | **Today** |
+| [Vehicle Experience Software Developer Co-op, Winter 2027](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Vehicle-Experience-Software-Developer_JR-202621872) | General Motors | Markham, ON, Canada | Yesterday |
+| [Business Intelligence Enterprise Anti-Money Laundering Co-op, Winter 2027](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Business-Intelligence--Enterprise-Anti-Money-Laundering-Winter-2027-Co-op_2620595) | CIBC | Toronto, ON, Canada | Yesterday |
+| [Business Intelligence Enterprise Anti-Money Laundering Co-op, Winter 2027](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Business-Intelligence--Enterprise-Anti-Money-Laundering-Winter-2027-Co-op_2620595-1) | CIBC | Toronto, ON, Canada | Yesterday |
 | [Software Engineer Intern, Summer 2027](https://job-boards.greenhouse.io/khanacademy/jobs/8250259) | Khan Academy | Remote in USA, Remote in Canada | Yesterday |
 | [Software Engineer Co-op - Apps, Winter 2027](https://jobs.ashbyhq.com/solink/c973029a-83fa-449e-b4a9-0a1514165430/application?embed=true) | Solink | Ottawa, ON, Canada | Yesterday |
 | [Mobile Developer Entry Level](https://boards.greenhouse.io/embed/job_app?token=7976082003) | Konrad Group | Toronto, ON, Canada | Yesterday |
@@ -100,15 +104,15 @@ _Updated Tuesday 06 October, 06:25 Toronto &middot; 12/13 sources healthy &middo
 |---|---|---|
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
-| Canadian-Tech-Internships-2027 \[tracker\] | 232 | ok |
-| Cohere \[ashby\] | 135 | ok |
-| Faire \[greenhouse\] | 75 | ok |
+| Canadian-Tech-Internships-2027 \[tracker\] | 229 | ok |
+| Cohere \[ashby\] | 130 | ok |
+| Faire \[greenhouse\] | 77 | ok |
 | New-Grad-Positions \[tracker\] | 3104 | ok |
-| Summer2027-Internships \[tracker\] | 4535 | ok |
+| Summer2027-Internships \[tracker\] | 4557 | ok |
 | Tenstorrent \[greenhouse\] | 131 | ok |
 | Vector Institute \[html\] | 32 | ok |
-| Waabi \[lever\] | 92 | ok |
-| Wealthsimple \[ashby\] | 47 | ok |
+| Waabi \[lever\] | 91 | ok |
+| Wealthsimple \[ashby\] | 45 | ok |
 | Xanadu \[html\] | - | ok |
 | vansh-Summer2027 \[tracker\] | 371 | ok |
 
