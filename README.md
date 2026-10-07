@@ -32,9 +32,9 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Wednesday 07 October, 04:45 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Wednesday 07 October, 12:34 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 13 AI/ML matches
+### Strict &middot; 12 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -50,12 +50,13 @@ _Updated Wednesday 07 October, 04:45 Toronto &middot; 12/13 sources healthy &mid
 | [AI Machine Learning Developer Intern, Winter 2027](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Machine-Learning-Developer_Req195010) | The Home Depot | Toronto, ON, Canada | 7 days ago |
 | [MCCR Policy AI Applications Intern - GRM, Winter 2027](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--MCCR-Policy-AI-Applications-Intern--4-Months-_R-0000184696-3) | Royal Bank of Canada | Toronto, ON, Canada | 7 days ago |
 | [AI/ML Platform Intern, Winter 2027](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061-1) | Autodesk | Toronto, ON, Canada | 7 days ago |
-| [Software Engineer New Grad - AI Entities](https://jobs.ashbyhq.com/evenup/19eb22cd-9540-49ed-840b-6422714413b5/application?embed=true) | EvenUp | Toronto, ON, Canada, SF | 7 days ago |
 
-### Loose &middot; 44 to review
+### Loose &middot; 46 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Research Intern - AI Research, Summer 2027](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/PhD-Researcher--AI-Research_26WD101373-1) | Autodesk | Toronto, ON, Canada | Yesterday |
+| [Research Intern - AI Research, Summer 2027](https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/PhD-Researcher--AI-Research_26WD101373) | Autodesk | Toronto, ON, Canada | Yesterday |
 | [Software Engineer Backend Intern, Winter 2027](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4386552009) | StackAdapt | Remote in Canada | Yesterday |
 | [Software Engineer Intern, Winter 2027](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4386549009) | StackAdapt | Remote in Canada | Yesterday |
 | [Physical Design Engineer Intern, N/A](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731401005) | Astera Labs | Toronto, ON, Canada | Yesterday |
@@ -107,15 +108,15 @@ _Updated Wednesday 07 October, 04:45 Toronto &middot; 12/13 sources healthy &mid
 |---|---|---|
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
-| Canadian-Tech-Internships-2027 \[tracker\] | 229 | ok |
+| Canadian-Tech-Internships-2027 \[tracker\] | 227 | ok |
 | Cohere \[ashby\] | 126 | ok |
-| Faire \[greenhouse\] | 78 | ok |
-| New-Grad-Positions \[tracker\] | 3099 | ok |
-| Summer2027-Internships \[tracker\] | 4636 | ok |
-| Tenstorrent \[greenhouse\] | 130 | ok |
+| Faire \[greenhouse\] | 79 | ok |
+| New-Grad-Positions \[tracker\] | 3092 | ok |
+| Summer2027-Internships \[tracker\] | 4624 | ok |
+| Tenstorrent \[greenhouse\] | 132 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 91 | ok |
-| Wealthsimple \[ashby\] | 43 | ok |
+| Wealthsimple \[ashby\] | 44 | ok |
 | Xanadu \[html\] | - | ok |
 | vansh-Summer2027 \[tracker\] | 371 | ok |
 
