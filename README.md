@@ -32,12 +32,13 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Thursday 08 October, 05:04 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Thursday 08 October, 12:33 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 6 AI/ML matches
+### Strict &middot; 7 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [AI Software Intern, N/A](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5259347007) | Tenstorrent | Toronto, ON, Canada | **Today** |
 | [Hardware Intern - AI HW &amp; System on a Chip, N/A](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256568007) | Tenstorrent | Toronto, ON, Canada, Ottawa, ON, Canada | 2 days ago |
 | [Machine Learning Engineer Intern, Winter 2027](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4397976009) | StackAdapt | Remote in Canada | 2 days ago |
 | [Data Scientist Intern, Winter 2027](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--Jan-2027-12-Months-_R10571) | SOTI | Mississauga, ON, Canada | 4 days ago |
@@ -94,15 +95,15 @@ _Updated Thursday 08 October, 05:04 Toronto &middot; 12/13 sources healthy &midd
 |---|---|---|
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
-| Canadian-Tech-Internships-2027 \[tracker\] | 232 | ok |
-| Cohere \[ashby\] | 124 | ok |
-| Faire \[greenhouse\] | 80 | ok |
-| New-Grad-Positions \[tracker\] | 3095 | ok |
-| Summer2027-Internships \[tracker\] | 4683 | ok |
-| Tenstorrent \[greenhouse\] | 131 | ok |
+| Canadian-Tech-Internships-2027 \[tracker\] | 225 | ok |
+| Cohere \[ashby\] | 122 | ok |
+| Faire \[greenhouse\] | 81 | ok |
+| New-Grad-Positions \[tracker\] | 3084 | ok |
+| Summer2027-Internships \[tracker\] | 4654 | ok |
+| Tenstorrent \[greenhouse\] | 132 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 91 | ok |
-| Wealthsimple \[ashby\] | 43 | ok |
+| Wealthsimple \[ashby\] | 45 | ok |
 | Xanadu \[html\] | - | ok |
 | vansh-Summer2027 \[tracker\] | 371 | ok |
 
