@@ -32,7 +32,7 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Friday 09 October, 05:14 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Friday 09 October, 12:18 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 7 AI/ML matches
 
@@ -50,6 +50,7 @@ _Updated Friday 09 October, 05:14 Toronto &middot; 12/13 sources healthy &middot
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Performance Engineering Assistant Co-op, N/A](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Performance-Engineering-Assistant-Co-op_R-31160) | Varian | Ottawa, ON, Canada | Yesterday |
 | [Software Engineer Intern, Winter 2027](https://jobs.lever.co/eqbank/c924506b-22ad-4906-aea5-61d9b79163f3/apply) | Equitable Bank | Toronto, ON, Canada | Yesterday |
 | [Systems Design Engineer New Grad](https://careers.amd.com/jobs/92338?icims=1) | AMD | Markham, ON, Canada | Yesterday |
 | [Software Analyst Intern, Winter 2027](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Winter-2027--8-12months-_R0145679) | Hitachi Energy | Toronto, ON, Canada | 2 days ago |
@@ -87,7 +88,6 @@ _Updated Friday 09 October, 05:14 Toronto &middot; 12/13 sources healthy &middot
 | [Data Analyst Co-op - Personal Banking, Winter 2027](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Winter-2027-Co-op-Student---Data-Analyst--Personal-Banking---8-months-_R-0000189535) | Royal Bank of Canada | Toronto, ON, Canada | 5 days ago |
 | [Software Engineer Intern, Winter 2027](https://jobs.ashbyhq.com/harvey/d40e15aa-2351-4be8-ac8f-1faf60bfcdbf/application?embed=true) | Harvey | Toronto, ON, Canada | 7 days ago |
 | [Automation Engineer Co-op Intern, Spring 2027](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41168) | Nokia | Ottawa, ON, Canada | 7 days ago |
-| [Operations Analyst Co-op Intern, Winter 2027](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9410) | Definity Financial | Toronto, ON, Canada, Waterloo, ON, Canada, Ottawa, ON, Canada | 7 days ago |
 
 ### Sources
 
@@ -95,15 +95,15 @@ _Updated Friday 09 October, 05:14 Toronto &middot; 12/13 sources healthy &middot
 |---|---|---|
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
-| Canadian-Tech-Internships-2027 \[tracker\] | 233 | ok |
+| Canadian-Tech-Internships-2027 \[tracker\] | 224 | ok |
 | Cohere \[ashby\] | 120 | ok |
-| Faire \[greenhouse\] | 82 | ok |
-| New-Grad-Positions \[tracker\] | 3093 | ok |
-| Summer2027-Internships \[tracker\] | 4649 | ok |
-| Tenstorrent \[greenhouse\] | 132 | ok |
+| Faire \[greenhouse\] | 80 | ok |
+| New-Grad-Positions \[tracker\] | 3100 | ok |
+| Summer2027-Internships \[tracker\] | 4646 | ok |
+| Tenstorrent \[greenhouse\] | 131 | ok |
 | Vector Institute \[html\] | 32 | ok |
-| Waabi \[lever\] | 91 | ok |
-| Wealthsimple \[ashby\] | 45 | ok |
+| Waabi \[lever\] | 94 | ok |
+| Wealthsimple \[ashby\] | 46 | ok |
 | Xanadu \[html\] | - | ok |
 | vansh-Summer2027 \[tracker\] | 371 | ok |
 
