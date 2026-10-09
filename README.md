@@ -32,7 +32,7 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Friday 09 October, 12:18 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Friday 09 October, 17:43 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 7 AI/ML matches
 
@@ -95,15 +95,15 @@ _Updated Friday 09 October, 12:18 Toronto &middot; 12/13 sources healthy &middot
 |---|---|---|
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
-| Canadian-Tech-Internships-2027 \[tracker\] | 224 | ok |
-| Cohere \[ashby\] | 120 | ok |
-| Faire \[greenhouse\] | 80 | ok |
-| New-Grad-Positions \[tracker\] | 3100 | ok |
-| Summer2027-Internships \[tracker\] | 4646 | ok |
-| Tenstorrent \[greenhouse\] | 131 | ok |
+| Canadian-Tech-Internships-2027 \[tracker\] | 226 | ok |
+| Cohere \[ashby\] | 119 | ok |
+| Faire \[greenhouse\] | 81 | ok |
+| New-Grad-Positions \[tracker\] | 3078 | ok |
+| Summer2027-Internships \[tracker\] | 4623 | ok |
+| Tenstorrent \[greenhouse\] | 130 | ok |
 | Vector Institute \[html\] | 32 | ok |
-| Waabi \[lever\] | 94 | ok |
-| Wealthsimple \[ashby\] | 46 | ok |
+| Waabi \[lever\] | 96 | ok |
+| Wealthsimple \[ashby\] | 47 | ok |
 | Xanadu \[html\] | - | ok |
 | vansh-Summer2027 \[tracker\] | 371 | ok |
 
