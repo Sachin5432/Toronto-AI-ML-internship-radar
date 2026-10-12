@@ -32,9 +32,9 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Sunday 11 October, 18:02 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Sunday 11 October, 21:22 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 7 AI/ML matches
+### Strict &middot; 4 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -42,14 +42,12 @@ _Updated Sunday 11 October, 18:02 Toronto &middot; 12/13 sources healthy &middot
 | [AI Software Intern, N/A](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5259347007) | Tenstorrent | Toronto, ON, Canada | 3 days ago |
 | [Hardware Intern - AI HW &amp; System on a Chip, N/A](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256568007) | Tenstorrent | Toronto, ON, Canada, Ottawa, ON, Canada | 5 days ago |
 | [Machine Learning Engineer Intern, Winter 2027](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4397976009) | StackAdapt | Remote in Canada | 5 days ago |
-| [Data Scientist Intern, Winter 2027](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--Jan-2027-12-Months-_R10571) | SOTI | Mississauga, ON, Canada | 7 days ago |
-| [AI Developer Intern - Innovation &amp; AI Center of Excellence, Winter 2027](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Developer-Intern---Innovation---AI-Center-of-Excellence--4-Months-_R-0000188001) | Royal Bank of Canada | Toronto, ON, Canada | 7 days ago |
-| [AI Developer Intern - Grm - Innovation &amp; AI Center of Excellence, Winter 2027](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Developer-Intern---Innovation---AI-Center-of-Excellence--4-Months-_R-0000188001-1) | Royal Bank of Canada | Toronto, ON, Canada | 7 days ago |
 
-### Loose &middot; 37 to review
+### Loose &middot; 31 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Energy Engineering Intern, Winter 2027](https://apply.workable.com/resource-innovations/j/4CAAA40639/apply) | Resource Innovations | Toronto, ON, Canada | **Today** |
 | [Software Developer Co-op, Winter 2027](https://jobs.lever.co/magnetforensics/6eba87dc-f110-47b2-8015-31311ca60f52/apply) | Magnet Forensics | Ontario, Canada, Waterloo, ON, Canada, Ottawa, ON, Canada | 2 days ago |
 | [Performance Engineering Assistant Co-op, N/A](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Performance-Engineering-Assistant-Co-op_R-31160) | Varian | Ottawa, ON, Canada | 3 days ago |
 | [Software Engineer Intern, Winter 2027](https://jobs.lever.co/eqbank/c924506b-22ad-4906-aea5-61d9b79163f3/apply) | Equitable Bank | Toronto, ON, Canada | 3 days ago |
@@ -80,13 +78,6 @@ _Updated Sunday 11 October, 18:02 Toronto &middot; 12/13 sources healthy &middot
 | [Software Engineer Intern, Summer 2027](https://job-boards.greenhouse.io/khanacademy/jobs/8250259) | Khan Academy | Remote in USA, Remote in Canada | 6 days ago |
 | [Software Engineer Co-op - Apps, Winter 2027](https://jobs.ashbyhq.com/solink/c973029a-83fa-449e-b4a9-0a1514165430/application?embed=true) | Solink | Ottawa, ON, Canada | 6 days ago |
 | [Mobile Developer Entry Level](https://boards.greenhouse.io/embed/job_app?token=7976082003) | Konrad Group | Toronto, ON, Canada | 6 days ago |
-| [Embedded Software Developer Co-op - Optical Circuit Switch, Winter 2027](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Developer-Co-op--Optical-Circuit-Switch-_20261320) | Lumentum | Ottawa, ON, Canada | 7 days ago |
-| [Data Analyst Intern, Winter 2027](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Data-Analyst---Winter-2027-_JR00128365) | Sun Life | Toronto, ON, Canada, Waterloo, ON, Canada | 7 days ago |
-| [Electrical Component Engineer Intern, Summer 2027](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Electrical-Component-Engineering-Intern--Winter-2027--16months-_R0145359) | Hitachi Energy | Toronto, ON, Canada | 7 days ago |
-| [Software Developer Intern - Contacts, N/A](https://goto.wd5.myworkdayjobs.com/GoToCareers/job/Remote-Canada/Contacts-Intern_R26-2249) | GoTo Group | Remote in Canada | 7 days ago |
-| [Optical Verification Engineer Co-op Intern, Winter 2027](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_20261208) | Lumentum | Ottawa, ON, Canada | 7 days ago |
-| [Data Scientist Intern, Summer 2027](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Scientist---Summer-2027_R1002165-1) | Capital One | Toronto, ON, Canada | 7 days ago |
-| [Data Analyst Co-op - Personal Banking, Winter 2027](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Winter-2027-Co-op-Student---Data-Analyst--Personal-Banking---8-months-_R-0000189535) | Royal Bank of Canada | Toronto, ON, Canada | 7 days ago |
 
 ### Sources
 
@@ -94,11 +85,11 @@ _Updated Sunday 11 October, 18:02 Toronto &middot; 12/13 sources healthy &middot
 |---|---|---|
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
-| Canadian-Tech-Internships-2027 \[tracker\] | 237 | ok |
+| Canadian-Tech-Internships-2027 \[tracker\] | 243 | ok |
 | Cohere \[ashby\] | 119 | ok |
 | Faire \[greenhouse\] | 81 | ok |
-| New-Grad-Positions \[tracker\] | 3120 | ok |
-| Summer2027-Internships \[tracker\] | 4657 | ok |
+| New-Grad-Positions \[tracker\] | 3118 | ok |
+| Summer2027-Internships \[tracker\] | 4648 | ok |
 | Tenstorrent \[greenhouse\] | 131 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 97 | ok |
