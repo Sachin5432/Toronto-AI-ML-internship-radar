@@ -32,9 +32,9 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Tuesday 13 October, 05:29 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Tuesday 13 October, 13:37 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 6 AI/ML matches
+### Strict &middot; 5 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -43,13 +43,14 @@ _Updated Tuesday 13 October, 05:29 Toronto &middot; 12/13 sources healthy &middo
 | [Data Engineering Co-op, Winter 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Data-Engineering_JR26081660-1) | Manulife Financial | Waterloo, ON, Canada | 2 days ago |
 | [Machine Learning Engineer Intern, Winter 2027, Summer 2027](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Machine-Learning-Engineer-Intern_JR-0110806) | Workday | Toronto, ON, Canada, Vancouver, BC, Canada | 5 days ago |
 | [AI Software Intern, N/A](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5259347007) | Tenstorrent | Toronto, ON, Canada | 5 days ago |
-| [Hardware Intern - AI HW &amp; System on a Chip, N/A](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256568007) | Tenstorrent | Toronto, ON, Canada, Ottawa, ON, Canada | 7 days ago |
 
-### Loose &middot; 26 to review
+### Loose &middot; 28 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
 | [Analog/Mixed-Signal IC Design Engineer Intern, N/A](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739756005) | Astera Labs | Toronto, ON, Canada | Yesterday |
+| [Canada Indigenous Technology Apprentice - Fnim, N/A](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ottawa-150-Elgin-St-Corp/Canada-Indigenous--FNIM--Technology-Apprenticeship-Program_R00362767) | Accenture | Toronto, ON, Canada, Calgary, AB, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada | Yesterday |
+| [Software Developer Intern, Winter 2027](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551-2) | SOTI | Mississauga, ON, Canada | Yesterday |
 | [Data Intern - Product Analytics, Winter 2027](https://jobs.ashbyhq.com/1password/412c1aac-13ce-4cc9-9c81-90a9a7a2ee48/application?embed=true) | 1Password | Remote in USA, Remote in Canada | Yesterday |
 | [HVP/Cert Engineer Intern, N/A](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert---Engineering-Intern_J000704374) | Aptiv | Kanata, Ottawa, ON, Canada | 2 days ago |
 | [Cloud Engineer Intern, N/A](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383) | Aptiv | Kanata, Ottawa, ON, Canada | 2 days ago |
@@ -82,15 +83,15 @@ _Updated Tuesday 13 October, 05:29 Toronto &middot; 12/13 sources healthy &middo
 |---|---|---|
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
-| Canadian-Tech-Internships-2027 \[tracker\] | 244 | ok |
+| Canadian-Tech-Internships-2027 \[tracker\] | 242 | ok |
 | Cohere \[ashby\] | 118 | ok |
 | Faire \[greenhouse\] | 81 | ok |
-| New-Grad-Positions \[tracker\] | 3102 | ok |
-| Summer2027-Internships \[tracker\] | 4696 | ok |
-| Tenstorrent \[greenhouse\] | 132 | ok |
+| New-Grad-Positions \[tracker\] | 3103 | ok |
+| Summer2027-Internships \[tracker\] | 4704 | ok |
+| Tenstorrent \[greenhouse\] | 129 | ok |
 | Vector Institute \[html\] | 32 | ok |
-| Waabi \[lever\] | 97 | ok |
-| Wealthsimple \[ashby\] | 46 | ok |
+| Waabi \[lever\] | 96 | ok |
+| Wealthsimple \[ashby\] | 47 | ok |
 | Xanadu \[html\] | - | ok |
 | vansh-Summer2027 \[tracker\] | 371 | ok |
 
