@@ -32,24 +32,29 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Tuesday 13 October, 13:37 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Tuesday 13 October, 18:49 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 5 AI/ML matches
+### Strict &middot; 6 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [AI Developer Student Intern, N/A](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/AI-Developer-Co-op_JR00128581-1) | Sun Life | Toronto, ON, Canada, Waterloo, ON, Canada | Yesterday |
 | [Data Engineering Co-op, Winter 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Data-Engineering_JR26081658-1) | Manulife Financial | Toronto, ON, Canada | 2 days ago |
 | [AI Co-op, Winter 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---AI_JR26081677-1) | Manulife Financial | Toronto, ON, Canada | 2 days ago |
 | [Data Engineering Co-op, Winter 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Data-Engineering_JR26081660-1) | Manulife Financial | Waterloo, ON, Canada | 2 days ago |
 | [Machine Learning Engineer Intern, Winter 2027, Summer 2027](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Machine-Learning-Engineer-Intern_JR-0110806) | Workday | Toronto, ON, Canada, Vancouver, BC, Canada | 5 days ago |
 | [AI Software Intern, N/A](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5259347007) | Tenstorrent | Toronto, ON, Canada | 5 days ago |
 
-### Loose &middot; 28 to review
+### Loose &middot; 32 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Software Engineering Intern, N/A](https://jobs.ashbyhq.com/pebl/49d8b355-620b-4dde-be4b-5489abf4c9cf/application?embed=true) | Pebl | Toronto, ON, Canada | **Today** |
+| [Intern, Client Experience Strategy &amp; Operations](https://jobs.ashbyhq.com/wealthsimple/581eee5b-329b-4de3-a9ac-72bf9ce0c654) | Wealthsimple | Remote (Canada), Toronto, Ontario | **Today** |
 | [Analog/Mixed-Signal IC Design Engineer Intern, N/A](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739756005) | Astera Labs | Toronto, ON, Canada | Yesterday |
 | [Canada Indigenous Technology Apprentice - Fnim, N/A](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ottawa-150-Elgin-St-Corp/Canada-Indigenous--FNIM--Technology-Apprenticeship-Program_R00362767) | Accenture | Toronto, ON, Canada, Calgary, AB, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada | Yesterday |
+| [Pharmacy Operations Co-op, Winter 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Pharmacy-Operations_JR26081581) | Manulife Financial | Waterloo, ON, Canada | Yesterday |
+| [Product Strategy Student Intern, Winter 2027](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Product-Strategy-Student--4-months----Winter-2027_JR164980) | Canadian Tire | Oakville, ON, Canada | Yesterday |
 | [Software Developer Intern, Winter 2027](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551-2) | SOTI | Mississauga, ON, Canada | Yesterday |
 | [Data Intern - Product Analytics, Winter 2027](https://jobs.ashbyhq.com/1password/412c1aac-13ce-4cc9-9c81-90a9a7a2ee48/application?embed=true) | 1Password | Remote in USA, Remote in Canada | Yesterday |
 | [HVP/Cert Engineer Intern, N/A](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert---Engineering-Intern_J000704374) | Aptiv | Kanata, Ottawa, ON, Canada | 2 days ago |
@@ -84,14 +89,14 @@ _Updated Tuesday 13 October, 13:37 Toronto &middot; 12/13 sources healthy &middo
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
 | Canadian-Tech-Internships-2027 \[tracker\] | 242 | ok |
-| Cohere \[ashby\] | 118 | ok |
-| Faire \[greenhouse\] | 81 | ok |
-| New-Grad-Positions \[tracker\] | 3103 | ok |
-| Summer2027-Internships \[tracker\] | 4704 | ok |
-| Tenstorrent \[greenhouse\] | 129 | ok |
+| Cohere \[ashby\] | 116 | ok |
+| Faire \[greenhouse\] | 79 | ok |
+| New-Grad-Positions \[tracker\] | 3136 | ok |
+| Summer2027-Internships \[tracker\] | 4749 | ok |
+| Tenstorrent \[greenhouse\] | 130 | ok |
 | Vector Institute \[html\] | 32 | ok |
-| Waabi \[lever\] | 96 | ok |
-| Wealthsimple \[ashby\] | 47 | ok |
+| Waabi \[lever\] | 97 | ok |
+| Wealthsimple \[ashby\] | 49 | ok |
 | Xanadu \[html\] | - | ok |
 | vansh-Summer2027 \[tracker\] | 371 | ok |
 
