@@ -32,7 +32,7 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Wednesday 14 October, 03:42 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Wednesday 14 October, 09:46 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 6 AI/ML matches
 
@@ -45,10 +45,11 @@ _Updated Wednesday 14 October, 03:42 Toronto &middot; 12/13 sources healthy &mid
 | [Machine Learning Engineer Intern, Winter 2027, Summer 2027](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Machine-Learning-Engineer-Intern_JR-0110806) | Workday | Toronto, ON, Canada, Vancouver, BC, Canada | 6 days ago |
 | [AI Software Intern, N/A](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5259347007) | Tenstorrent | Toronto, ON, Canada | 6 days ago |
 
-### Loose &middot; 29 to review
+### Loose &middot; 30 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Systems Intern - Multiple Teams, N/A](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007) | Tenstorrent | Toronto, ON, Canada, Vancouver, BC, Canada | **Today** |
 | [Software Development Co-op, N/A](https://profoundmedical.bamboohr.com/careers/353/) | Profound Medical | Mississauga, ON, Canada | **Today** |
 | [Software Engineering Intern, N/A](https://jobs.ashbyhq.com/pebl/49d8b355-620b-4dde-be4b-5489abf4c9cf/application?embed=true) | Pebl | Toronto, ON, Canada | Yesterday |
 | [Intern, Client Experience Strategy &amp; Operations](https://jobs.ashbyhq.com/wealthsimple/581eee5b-329b-4de3-a9ac-72bf9ce0c654) | Wealthsimple | Remote (Canada), Toronto, Ontario | Yesterday |
@@ -86,10 +87,10 @@ _Updated Wednesday 14 October, 03:42 Toronto &middot; 12/13 sources healthy &mid
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
 | Canadian-Tech-Internships-2027 \[tracker\] | 248 | ok |
-| Cohere \[ashby\] | 117 | ok |
+| Cohere \[ashby\] | 118 | ok |
 | Faire \[greenhouse\] | 79 | ok |
-| New-Grad-Positions \[tracker\] | 3139 | ok |
-| Summer2027-Internships \[tracker\] | 4742 | ok |
+| New-Grad-Positions \[tracker\] | 3135 | ok |
+| Summer2027-Internships \[tracker\] | 4767 | ok |
 | Tenstorrent \[greenhouse\] | 129 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 97 | ok |
