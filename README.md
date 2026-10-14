@@ -32,51 +32,52 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Tuesday 13 October, 21:56 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Wednesday 14 October, 03:42 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 6 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
-| [AI Developer Student Intern, N/A](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/AI-Developer-Co-op_JR00128581-1) | Sun Life | Toronto, ON, Canada, Waterloo, ON, Canada | Yesterday |
-| [Data Engineering Co-op, Winter 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Data-Engineering_JR26081658-1) | Manulife Financial | Toronto, ON, Canada | 2 days ago |
-| [AI Co-op, Winter 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---AI_JR26081677-1) | Manulife Financial | Toronto, ON, Canada | 2 days ago |
-| [Data Engineering Co-op, Winter 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Data-Engineering_JR26081660-1) | Manulife Financial | Waterloo, ON, Canada | 2 days ago |
-| [Machine Learning Engineer Intern, Winter 2027, Summer 2027](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Machine-Learning-Engineer-Intern_JR-0110806) | Workday | Toronto, ON, Canada, Vancouver, BC, Canada | 5 days ago |
-| [AI Software Intern, N/A](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5259347007) | Tenstorrent | Toronto, ON, Canada | 5 days ago |
+| [AI Developer Student Intern, N/A](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/AI-Developer-Co-op_JR00128581-1) | Sun Life | Toronto, ON, Canada, Waterloo, ON, Canada | 2 days ago |
+| [Data Engineering Co-op, Winter 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Data-Engineering_JR26081658-1) | Manulife Financial | Toronto, ON, Canada | 3 days ago |
+| [AI Co-op, Winter 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---AI_JR26081677-1) | Manulife Financial | Toronto, ON, Canada | 3 days ago |
+| [Data Engineering Co-op, Winter 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Data-Engineering_JR26081660-1) | Manulife Financial | Waterloo, ON, Canada | 3 days ago |
+| [Machine Learning Engineer Intern, Winter 2027, Summer 2027](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Machine-Learning-Engineer-Intern_JR-0110806) | Workday | Toronto, ON, Canada, Vancouver, BC, Canada | 6 days ago |
+| [AI Software Intern, N/A](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5259347007) | Tenstorrent | Toronto, ON, Canada | 6 days ago |
 
-### Loose &middot; 28 to review
+### Loose &middot; 29 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
-| [Software Engineering Intern, N/A](https://jobs.ashbyhq.com/pebl/49d8b355-620b-4dde-be4b-5489abf4c9cf/application?embed=true) | Pebl | Toronto, ON, Canada | **Today** |
-| [Intern, Client Experience Strategy &amp; Operations](https://jobs.ashbyhq.com/wealthsimple/581eee5b-329b-4de3-a9ac-72bf9ce0c654) | Wealthsimple | Remote (Canada), Toronto, Ontario | **Today** |
-| [Analog/Mixed-Signal IC Design Engineer Intern, N/A](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739756005) | Astera Labs | Toronto, ON, Canada | Yesterday |
-| [Canada Indigenous Technology Apprentice - Fnim, N/A](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ottawa-150-Elgin-St-Corp/Canada-Indigenous--FNIM--Technology-Apprenticeship-Program_R00362767) | Accenture | Toronto, ON, Canada, Calgary, AB, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada | Yesterday |
-| [Pharmacy Operations Co-op, Winter 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Pharmacy-Operations_JR26081581) | Manulife Financial | Waterloo, ON, Canada | Yesterday |
-| [Product Strategy Student Intern, Winter 2027](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Product-Strategy-Student--4-months----Winter-2027_JR164980) | Canadian Tire | Oakville, ON, Canada | Yesterday |
-| [Software Developer Intern, Winter 2027](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551-2) | SOTI | Mississauga, ON, Canada | Yesterday |
-| [Data Intern - Product Analytics, Winter 2027](https://jobs.ashbyhq.com/1password/412c1aac-13ce-4cc9-9c81-90a9a7a2ee48/application?embed=true) | 1Password | Remote in USA, Remote in Canada | Yesterday |
-| [HVP/Cert Engineer Intern, N/A](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert---Engineering-Intern_J000704374) | Aptiv | Kanata, Ottawa, ON, Canada | 2 days ago |
-| [Cloud Engineer Intern, N/A](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383) | Aptiv | Kanata, Ottawa, ON, Canada | 2 days ago |
-| [HVP/Certification Engineer Intern, N/A](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert-Engineering-Intern_J000704377) | Aptiv | Kanata, Ottawa, ON, Canada | 2 days ago |
-| [Cloud Software Engineer Intern, N/A](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704381) | Aptiv | Kanata, Ottawa, ON, Canada | 2 days ago |
-| [Software Engineer Co-op, Winter 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081663-1) | Manulife Financial | Toronto, ON, Canada | 2 days ago |
-| [HVP/Cert Engineer Intern, N/A](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert--Engineering-Intern_J000704372) | Aptiv | Kanata, Ottawa, ON, Canada | 2 days ago |
-| [Cloud Engineer Intern, N/A](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineer-Intern_J000704376) | Aptiv | Kanata, Ottawa, ON, Canada | 2 days ago |
-| [Cloud Engineer Intern, N/A](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineer-Intern_J000704380) | Aptiv | Kanata, Ottawa, ON, Canada | 2 days ago |
-| [Software Engineering Co-op, Winter 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering--8-Months-_JR26081664-1) | Manulife Financial | Toronto, ON, Canada | 2 days ago |
-| [Cloud Software Engineer Intern, N/A](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Software-Engineer-Intern_J000704375) | Aptiv | Kanata, Ottawa, ON, Canada | 2 days ago |
-| [Software Engineer Intern, N/A](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Software-Engineering-Intern_J000704368-1) | Aptiv | Kanata, Ottawa, ON, Canada | 2 days ago |
-| [Energy Engineering Intern, Winter 2027](https://apply.workable.com/resource-innovations/j/4CAAA40639/apply) | Resource Innovations | Toronto, ON, Canada | 2 days ago |
-| [Software Developer Co-op, Winter 2027](https://jobs.lever.co/magnetforensics/6eba87dc-f110-47b2-8015-31311ca60f52/apply) | Magnet Forensics | Ontario, Canada, Waterloo, ON, Canada, Ottawa, ON, Canada | 4 days ago |
-| [Performance Engineering Assistant Co-op, N/A](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Performance-Engineering-Assistant-Co-op_R-31160) | Varian | Ottawa, ON, Canada | 5 days ago |
-| [Software Engineer Intern, Winter 2027](https://jobs.lever.co/eqbank/c924506b-22ad-4906-aea5-61d9b79163f3/apply) | Equitable Bank | Toronto, ON, Canada | 5 days ago |
-| [Systems Design Engineer New Grad](https://careers.amd.com/jobs/92338?icims=1) | AMD | Markham, ON, Canada | 5 days ago |
-| [Software Analyst Intern, Winter 2027](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Winter-2027--8-12months-_R0145679) | Hitachi Energy | Toronto, ON, Canada | 6 days ago |
-| [Grit Intern, Summer 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---GRIT_JR26080516) | Manulife Financial | Toronto, ON, Canada | 6 days ago |
-| [Product Management &amp; Risk Technology Intern, Winter 2027, Summer 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Product-Management---Risk-Technology_JR26080875) | Manulife Financial | Toronto, ON, Canada | 6 days ago |
-| [Software Engineering Co-op, Winter 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081661-1) | Manulife Financial | Waterloo, ON, Canada | 6 days ago |
+| [Software Development Co-op, N/A](https://profoundmedical.bamboohr.com/careers/353/) | Profound Medical | Mississauga, ON, Canada | **Today** |
+| [Software Engineering Intern, N/A](https://jobs.ashbyhq.com/pebl/49d8b355-620b-4dde-be4b-5489abf4c9cf/application?embed=true) | Pebl | Toronto, ON, Canada | Yesterday |
+| [Intern, Client Experience Strategy &amp; Operations](https://jobs.ashbyhq.com/wealthsimple/581eee5b-329b-4de3-a9ac-72bf9ce0c654) | Wealthsimple | Remote (Canada), Toronto, Ontario | Yesterday |
+| [Analog/Mixed-Signal IC Design Engineer Intern, N/A](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739756005) | Astera Labs | Toronto, ON, Canada | 2 days ago |
+| [Canada Indigenous Technology Apprentice - Fnim, N/A](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ottawa-150-Elgin-St-Corp/Canada-Indigenous--FNIM--Technology-Apprenticeship-Program_R00362767) | Accenture | Toronto, ON, Canada, Calgary, AB, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada | 2 days ago |
+| [Pharmacy Operations Co-op, Winter 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Pharmacy-Operations_JR26081581) | Manulife Financial | Waterloo, ON, Canada | 2 days ago |
+| [Product Strategy Student Intern, Winter 2027](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Product-Strategy-Student--4-months----Winter-2027_JR164980) | Canadian Tire | Oakville, ON, Canada | 2 days ago |
+| [Software Developer Intern, Winter 2027](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551-2) | SOTI | Mississauga, ON, Canada | 2 days ago |
+| [Data Intern - Product Analytics, Winter 2027](https://jobs.ashbyhq.com/1password/412c1aac-13ce-4cc9-9c81-90a9a7a2ee48/application?embed=true) | 1Password | Remote in USA, Remote in Canada | 2 days ago |
+| [HVP/Cert Engineer Intern, N/A](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert---Engineering-Intern_J000704374) | Aptiv | Kanata, Ottawa, ON, Canada | 3 days ago |
+| [Cloud Engineer Intern, N/A](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383) | Aptiv | Kanata, Ottawa, ON, Canada | 3 days ago |
+| [HVP/Certification Engineer Intern, N/A](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert-Engineering-Intern_J000704377) | Aptiv | Kanata, Ottawa, ON, Canada | 3 days ago |
+| [Cloud Software Engineer Intern, N/A](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704381) | Aptiv | Kanata, Ottawa, ON, Canada | 3 days ago |
+| [Software Engineer Co-op, Winter 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081663-1) | Manulife Financial | Toronto, ON, Canada | 3 days ago |
+| [HVP/Cert Engineer Intern, N/A](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert--Engineering-Intern_J000704372) | Aptiv | Kanata, Ottawa, ON, Canada | 3 days ago |
+| [Cloud Engineer Intern, N/A](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineer-Intern_J000704376) | Aptiv | Kanata, Ottawa, ON, Canada | 3 days ago |
+| [Cloud Engineer Intern, N/A](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineer-Intern_J000704380) | Aptiv | Kanata, Ottawa, ON, Canada | 3 days ago |
+| [Software Engineering Co-op, Winter 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering--8-Months-_JR26081664-1) | Manulife Financial | Toronto, ON, Canada | 3 days ago |
+| [Cloud Software Engineer Intern, N/A](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Software-Engineer-Intern_J000704375) | Aptiv | Kanata, Ottawa, ON, Canada | 3 days ago |
+| [Software Engineer Intern, N/A](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Software-Engineering-Intern_J000704368-1) | Aptiv | Kanata, Ottawa, ON, Canada | 3 days ago |
+| [Energy Engineering Intern, Winter 2027](https://apply.workable.com/resource-innovations/j/4CAAA40639/apply) | Resource Innovations | Toronto, ON, Canada | 3 days ago |
+| [Software Developer Co-op, Winter 2027](https://jobs.lever.co/magnetforensics/6eba87dc-f110-47b2-8015-31311ca60f52/apply) | Magnet Forensics | Ontario, Canada, Waterloo, ON, Canada, Ottawa, ON, Canada | 5 days ago |
+| [Performance Engineering Assistant Co-op, N/A](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Performance-Engineering-Assistant-Co-op_R-31160) | Varian | Ottawa, ON, Canada | 6 days ago |
+| [Software Engineer Intern, Winter 2027](https://jobs.lever.co/eqbank/c924506b-22ad-4906-aea5-61d9b79163f3/apply) | Equitable Bank | Toronto, ON, Canada | 6 days ago |
+| [Systems Design Engineer New Grad](https://careers.amd.com/jobs/92338?icims=1) | AMD | Markham, ON, Canada | 6 days ago |
+| [Software Analyst Intern, Winter 2027](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Winter-2027--8-12months-_R0145679) | Hitachi Energy | Toronto, ON, Canada | 7 days ago |
+| [Grit Intern, Summer 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---GRIT_JR26080516) | Manulife Financial | Toronto, ON, Canada | 7 days ago |
+| [Product Management &amp; Risk Technology Intern, Winter 2027, Summer 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Product-Management---Risk-Technology_JR26080875) | Manulife Financial | Toronto, ON, Canada | 7 days ago |
+| [Software Engineering Co-op, Winter 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081661-1) | Manulife Financial | Waterloo, ON, Canada | 7 days ago |
 
 ### Sources
 
@@ -84,11 +85,11 @@ _Updated Tuesday 13 October, 21:56 Toronto &middot; 12/13 sources healthy &middo
 |---|---|---|
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
-| Canadian-Tech-Internships-2027 \[tracker\] | 242 | ok |
+| Canadian-Tech-Internships-2027 \[tracker\] | 248 | ok |
 | Cohere \[ashby\] | 117 | ok |
 | Faire \[greenhouse\] | 79 | ok |
-| New-Grad-Positions \[tracker\] | 3128 | ok |
-| Summer2027-Internships \[tracker\] | 4728 | ok |
+| New-Grad-Positions \[tracker\] | 3139 | ok |
+| Summer2027-Internships \[tracker\] | 4742 | ok |
 | Tenstorrent \[greenhouse\] | 129 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 97 | ok |
