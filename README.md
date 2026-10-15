@@ -32,7 +32,7 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Thursday 15 October, 14:20 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Thursday 15 October, 18:24 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 6 AI/ML matches
 
@@ -45,7 +45,7 @@ _Updated Thursday 15 October, 14:20 Toronto &middot; 12/13 sources healthy &midd
 | [Data Engineering Co-op, Winter 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Data-Engineering_JR26081660-1) | Manulife Financial | Waterloo, ON, Canada | 4 days ago |
 | [Machine Learning Engineer Intern, Winter 2027, Summer 2027](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Machine-Learning-Engineer-Intern_JR-0110806) | Workday | Toronto, ON, Canada, Vancouver, BC, Canada | 7 days ago |
 
-### Loose &middot; 33 to review
+### Loose &middot; 32 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -81,7 +81,6 @@ _Updated Thursday 15 October, 14:20 Toronto &middot; 12/13 sources healthy &midd
 | [Software Developer Co-op, Winter 2027](https://jobs.lever.co/magnetforensics/6eba87dc-f110-47b2-8015-31311ca60f52/apply) | Magnet Forensics | Ontario, Canada, Waterloo, ON, Canada, Ottawa, ON, Canada | 6 days ago |
 | [Performance Engineering Assistant Co-op, N/A](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Performance-Engineering-Assistant-Co-op_R-31160) | Varian | Ottawa, ON, Canada | 7 days ago |
 | [Software Engineer Intern, Winter 2027](https://jobs.lever.co/eqbank/c924506b-22ad-4906-aea5-61d9b79163f3/apply) | Equitable Bank | Toronto, ON, Canada | 7 days ago |
-| [Systems Design Engineer New Grad](https://careers.amd.com/jobs/92338?icims=1) | AMD | Markham, ON, Canada | 7 days ago |
 
 ### Sources
 
@@ -90,14 +89,14 @@ _Updated Thursday 15 October, 14:20 Toronto &middot; 12/13 sources healthy &midd
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
 | Canadian-Tech-Internships-2027 \[tracker\] | 235 | ok |
-| Cohere \[ashby\] | 117 | ok |
+| Cohere \[ashby\] | 118 | ok |
 | Faire \[greenhouse\] | 79 | ok |
-| New-Grad-Positions \[tracker\] | 3012 | ok |
-| Summer2027-Internships \[tracker\] | 4781 | ok |
+| New-Grad-Positions \[tracker\] | 2984 | ok |
+| Summer2027-Internships \[tracker\] | 4746 | ok |
 | Tenstorrent \[greenhouse\] | 127 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 95 | ok |
-| Wealthsimple \[ashby\] | 47 | ok |
+| Wealthsimple \[ashby\] | 46 | ok |
 | Xanadu \[html\] | - | ok |
 | vansh-Summer2027 \[tracker\] | 371 | ok |
 
