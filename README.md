@@ -32,7 +32,7 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Wednesday 14 October, 18:19 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Wednesday 14 October, 21:31 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 6 AI/ML matches
 
@@ -45,12 +45,15 @@ _Updated Wednesday 14 October, 18:19 Toronto &middot; 12/13 sources healthy &mid
 | [Machine Learning Engineer Intern, Winter 2027, Summer 2027](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Machine-Learning-Engineer-Intern_JR-0110806) | Workday | Toronto, ON, Canada, Vancouver, BC, Canada | 6 days ago |
 | [AI Software Intern, N/A](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5259347007) | Tenstorrent | Toronto, ON, Canada | 6 days ago |
 
-### Loose &middot; 30 to review
+### Loose &middot; 29 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Analytics Intern, N/A](https://job-boards.greenhouse.io/kensingtontours/jobs/5262680007) | Kensington | Toronto, ON, Canada | **Today** |
 | [Systems Intern - Multiple Teams, N/A](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007) | Tenstorrent | Toronto, ON, Canada, Vancouver, BC, Canada | **Today** |
 | [Software Development Co-op, N/A](https://profoundmedical.bamboohr.com/careers/353/) | Profound Medical | Mississauga, ON, Canada | **Today** |
+| [Electrical Engineer Intern Co-op, Winter 2027](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Electrical-Engineer-Co-op-Intern_20261433) | Lumentum | Ottawa, ON, Canada | Yesterday |
+| [Software Engineer Intern, Summer 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering_JR26081686-1) | Manulife Financial | Waterloo, ON, Canada | Yesterday |
 | [Software Engineering Intern, N/A](https://jobs.ashbyhq.com/pebl/49d8b355-620b-4dde-be4b-5489abf4c9cf/application?embed=true) | Pebl | Toronto, ON, Canada | Yesterday |
 | [Intern, Client Experience Strategy &amp; Operations](https://jobs.ashbyhq.com/wealthsimple/581eee5b-329b-4de3-a9ac-72bf9ce0c654) | Wealthsimple | Remote (Canada), Toronto, Ontario | Yesterday |
 | [Analog/Mixed-Signal IC Design Engineer Intern, N/A](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739756005) | Astera Labs | Toronto, ON, Canada | 2 days ago |
@@ -75,10 +78,6 @@ _Updated Wednesday 14 October, 18:19 Toronto &middot; 12/13 sources healthy &mid
 | [Performance Engineering Assistant Co-op, N/A](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Performance-Engineering-Assistant-Co-op_R-31160) | Varian | Ottawa, ON, Canada | 6 days ago |
 | [Software Engineer Intern, Winter 2027](https://jobs.lever.co/eqbank/c924506b-22ad-4906-aea5-61d9b79163f3/apply) | Equitable Bank | Toronto, ON, Canada | 6 days ago |
 | [Systems Design Engineer New Grad](https://careers.amd.com/jobs/92338?icims=1) | AMD | Markham, ON, Canada | 6 days ago |
-| [Software Analyst Intern, Winter 2027](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Winter-2027--8-12months-_R0145679) | Hitachi Energy | Toronto, ON, Canada | 7 days ago |
-| [Grit Intern, Summer 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---GRIT_JR26080516) | Manulife Financial | Toronto, ON, Canada | 7 days ago |
-| [Product Management &amp; Risk Technology Intern, Winter 2027, Summer 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Product-Management---Risk-Technology_JR26080875) | Manulife Financial | Toronto, ON, Canada | 7 days ago |
-| [Software Engineering Co-op, Winter 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081661-1) | Manulife Financial | Waterloo, ON, Canada | 7 days ago |
 
 ### Sources
 
@@ -89,9 +88,9 @@ _Updated Wednesday 14 October, 18:19 Toronto &middot; 12/13 sources healthy &mid
 | Canadian-Tech-Internships-2027 \[tracker\] | 240 | ok |
 | Cohere \[ashby\] | 116 | ok |
 | Faire \[greenhouse\] | 79 | ok |
-| New-Grad-Positions \[tracker\] | 3103 | ok |
-| Summer2027-Internships \[tracker\] | 4707 | ok |
-| Tenstorrent \[greenhouse\] | 128 | ok |
+| New-Grad-Positions \[tracker\] | 3156 | ok |
+| Summer2027-Internships \[tracker\] | 4802 | ok |
+| Tenstorrent \[greenhouse\] | 129 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 96 | ok |
 | Wealthsimple \[ashby\] | 47 | ok |
