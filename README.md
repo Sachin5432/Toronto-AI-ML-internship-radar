@@ -32,7 +32,7 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Friday 16 October, 08:32 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Friday 16 October, 13:28 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 6 AI/ML matches
 
@@ -45,10 +45,11 @@ _Updated Friday 16 October, 08:32 Toronto &middot; 12/13 sources healthy &middot
 | [AI Co-op, Winter 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---AI_JR26081677-1) | Manulife Financial | Toronto, ON, Canada | 5 days ago |
 | [Data Engineering Co-op, Winter 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Data-Engineering_JR26081660-1) | Manulife Financial | Waterloo, ON, Canada | 5 days ago |
 
-### Loose &middot; 35 to review
+### Loose &middot; 36 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Analog and Mixed-Signal Modelling Architect New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Analog-and-Mixed-Signal-Modelling-Architect--Masters-or-PhD-New-Grad-_R031915) | Ciena | Ottawa, ON, Canada | Yesterday |
 | [Embedded C/C++ Software Developer Co-op Intern, Winter 2027](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41311) | Nokia | Ottawa, ON, Canada | Yesterday |
 | [Product Intern - Money Movement, Winter 2027](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Intern--Money-Movement_REQ-2386) | Interac | Toronto, ON, Canada | 2 days ago |
 | [Software Engineer Intern, N/A](https://spscommerce.wd108.myworkdayjobs.com/SPS/job/CA-ON-Brampton-Office/Software-Engineer-Intern_R-001353) | SPS Commerce | Brampton, ON, Canada | 2 days ago |
@@ -91,15 +92,15 @@ _Updated Friday 16 October, 08:32 Toronto &middot; 12/13 sources healthy &middot
 |---|---|---|
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
-| Canadian-Tech-Internships-2027 \[tracker\] | 269 | ok |
+| Canadian-Tech-Internships-2027 \[tracker\] | 271 | ok |
 | Cohere \[ashby\] | 118 | ok |
 | Faire \[greenhouse\] | 79 | ok |
 | New-Grad-Positions \[tracker\] | 3012 | ok |
-| Summer2027-Internships \[tracker\] | 4794 | ok |
+| Summer2027-Internships \[tracker\] | 4821 | ok |
 | Tenstorrent \[greenhouse\] | 128 | ok |
 | Vector Institute \[html\] | 32 | ok |
-| Waabi \[lever\] | 95 | ok |
-| Wealthsimple \[ashby\] | 46 | ok |
+| Waabi \[lever\] | 96 | ok |
+| Wealthsimple \[ashby\] | 47 | ok |
 | Xanadu \[html\] | - | ok |
 | vansh-Summer2027 \[tracker\] | 371 | ok |
 
