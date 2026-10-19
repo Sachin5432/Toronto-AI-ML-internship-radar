@@ -32,7 +32,7 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Monday 19 October, 13:31 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Monday 19 October, 18:24 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 6 AI/ML matches
 
@@ -45,7 +45,7 @@ _Updated Monday 19 October, 13:31 Toronto &middot; 12/13 sources healthy &middot
 | [Business Systems &amp; AI Intern, Winter 2027](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Business-Systems---AI-Intern_REQ-2393) | Interac | Toronto, ON, Canada | 6 days ago |
 | [AI Developer Student Intern, N/A](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/AI-Developer-Co-op_JR00128581-1) | Sun Life | Toronto, ON, Canada, Waterloo, ON, Canada | 7 days ago |
 
-### Loose &middot; 62 to review
+### Loose &middot; 61 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -110,7 +110,6 @@ _Updated Monday 19 October, 13:31 Toronto &middot; 12/13 sources healthy &middot
 | [Pharmacy Operations Co-op, Winter 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Pharmacy-Operations_JR26081581) | Manulife Financial | Waterloo, ON, Canada | 7 days ago |
 | [Product Strategy Student Intern, Winter 2027](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Product-Strategy-Student--4-months----Winter-2027_JR164980) | Canadian Tire | Oakville, ON, Canada | 7 days ago |
 | [Software Developer Intern, Winter 2027](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551-2) | SOTI | Mississauga, ON, Canada | 7 days ago |
-| [Data Intern - Product Analytics, Winter 2027](https://jobs.ashbyhq.com/1password/412c1aac-13ce-4cc9-9c81-90a9a7a2ee48/application?embed=true) | 1Password | Remote in USA, Remote in Canada | 7 days ago |
 
 ### Sources
 
@@ -121,12 +120,12 @@ _Updated Monday 19 October, 13:31 Toronto &middot; 12/13 sources healthy &middot
 | Canadian-Tech-Internships-2027 \[tracker\] | 267 | ok |
 | Cohere \[ashby\] | 115 | ok |
 | Faire \[greenhouse\] | 81 | ok |
-| New-Grad-Positions \[tracker\] | 3009 | ok |
-| Summer2027-Internships \[tracker\] | 4778 | ok |
+| New-Grad-Positions \[tracker\] | 2969 | ok |
+| Summer2027-Internships \[tracker\] | 4731 | ok |
 | Tenstorrent \[greenhouse\] | 127 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 94 | ok |
-| Wealthsimple \[ashby\] | 46 | ok |
+| Wealthsimple \[ashby\] | 44 | ok |
 | Xanadu \[html\] | - | ok |
 | vansh-Summer2027 \[tracker\] | 531 | ok |
 
