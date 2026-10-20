@@ -32,7 +32,7 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Tuesday 20 October, 09:35 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Tuesday 20 October, 14:29 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 6 AI/ML matches
 
@@ -45,16 +45,20 @@ _Updated Tuesday 20 October, 09:35 Toronto &middot; 12/13 sources healthy &middo
 | [Machine Learning Engineer New Grad](https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3/application?embed=true) | Quora | Remote in USA, Remote in Canada | 5 days ago |
 | [Business Systems &amp; AI Intern, Winter 2027](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Business-Systems---AI-Intern_REQ-2393) | Interac | Toronto, ON, Canada | 7 days ago |
 
-### Loose &middot; 63 to review
+### Loose &middot; 67 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Software Engineer Intern, Summer 2027](https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true) | Steel | Toronto, ON, Canada | **Today** |
 | [Wealth Operations Automation Intern Co-op, Winter 2027](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Wealth-Operations-Automation-Intern---Co-Op--Winter-2027-_R_1512131) | TD Bank | Toronto, ON, Canada | Yesterday |
+| [PCB Layout Intern, N/A](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/PCB-Layout-Intern_REQ3632) | Semtech | Burlington, ON, Canada | Yesterday |
 | [Software Engineer Intern, N/A](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/18964) | Citco | Toronto, ON, Canada | Yesterday |
 | [Machine Learning AISW Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721636765) | Qualcomm | Markham, ON, Canada | Yesterday |
 | [QDSP Hardware Physical Design Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721636316) | Qualcomm | Markham, ON, Canada | Yesterday |
 | [Product Co-op, Spring 2027](https://boards.greenhouse.io/embed/job_app?token=8285180) | FanDuel | Toronto, ON, Canada | Yesterday |
+| [Product Co-op, Spring](https://boards.greenhouse.io/embed/job_app?token=8285180) | FanDuel | Toronto, ON, Canada | Yesterday |
 | [Software Engineer Intern, Winter 2027](https://job-boards.greenhouse.io/heygen/jobs/4540716007) | HeyGen | Toronto, ON, Canada, SF, LA, Singapore | 2 days ago |
+| [Software Engineer Intern, Winter](https://job-boards.greenhouse.io/heygen/jobs/4540716007) | HeyGen | Toronto, ON, Canada, SF, LA, Singapore | 2 days ago |
 | [Teaching Assistant Intern, Winter 2027](https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site/job/Ottawa-ON/CUPE---Winter-2027---Teaching-Assistant---ADM4379_JR40054) | University of Ottawa | Ottawa, ON, Canada | 2 days ago |
 | [ASIC Verification Intern, Summer 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982) | NVIDIA | Toronto, ON, Canada | 2 days ago |
 | [Services Business Intelligence &amp; Analytics Intern, Winter 2027](https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851) | Ciena | Montreal, QC, Canada, Ottawa, ON, Canada | 2 days ago |
@@ -121,15 +125,15 @@ _Updated Tuesday 20 October, 09:35 Toronto &middot; 12/13 sources healthy &middo
 | BenchSci \[lever\] | - | ok |
 | Canadian-Tech-Internships-2027 \[tracker\] | 266 | ok |
 | Cohere \[ashby\] | 116 | ok |
-| Faire \[greenhouse\] | 79 | ok |
-| New-Grad-Positions \[tracker\] | 2998 | ok |
-| Summer2027-Internships \[tracker\] | 4834 | ok |
-| Tenstorrent \[greenhouse\] | 127 | ok |
+| Faire \[greenhouse\] | 77 | ok |
+| New-Grad-Positions \[tracker\] | 3009 | ok |
+| Summer2027-Internships \[tracker\] | 4826 | ok |
+| Tenstorrent \[greenhouse\] | 125 | ok |
 | Vector Institute \[html\] | 32 | ok |
-| Waabi \[lever\] | 94 | ok |
-| Wealthsimple \[ashby\] | 44 | ok |
+| Waabi \[lever\] | 92 | ok |
+| Wealthsimple \[ashby\] | 43 | ok |
 | Xanadu \[html\] | - | ok |
-| vansh-Summer2027 \[tracker\] | 531 | ok |
+| vansh-Summer2027 \[tracker\] | 560 | ok |
 
 <!-- radar:listings:end -->
 
