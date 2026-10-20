@@ -32,7 +32,7 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Tuesday 20 October, 14:29 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Tuesday 20 October, 18:20 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 6 AI/ML matches
 
@@ -45,7 +45,7 @@ _Updated Tuesday 20 October, 14:29 Toronto &middot; 12/13 sources healthy &middo
 | [Machine Learning Engineer New Grad](https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3/application?embed=true) | Quora | Remote in USA, Remote in Canada | 5 days ago |
 | [Business Systems &amp; AI Intern, Winter 2027](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Business-Systems---AI-Intern_REQ-2393) | Interac | Toronto, ON, Canada | 7 days ago |
 
-### Loose &middot; 67 to review
+### Loose &middot; 65 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -114,8 +114,6 @@ _Updated Tuesday 20 October, 14:29 Toronto &middot; 12/13 sources healthy &middo
 | [Payments Product Intern, Winter 2027](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Payments-Product-intern_REQ-2389) | Interac | Toronto, ON, Canada | 7 days ago |
 | [Technical Analyst Intern, Winter 2027](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Technical-Analyst-Intern_REQ-2394) | Interac | Toronto, ON, Canada | 7 days ago |
 | [Software Engineer Intern - Software Engineering, Spring 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering--12-Months-_JR26091053-1) | Manulife Financial | Waterloo, ON, Canada | 7 days ago |
-| [Software Engineering Intern, N/A](https://jobs.ashbyhq.com/pebl/49d8b355-620b-4dde-be4b-5489abf4c9cf/application?embed=true) | Pebl | Toronto, ON, Canada | 7 days ago |
-| [Intern, Client Experience Strategy &amp; Operations](https://jobs.ashbyhq.com/wealthsimple/581eee5b-329b-4de3-a9ac-72bf9ce0c654) | Wealthsimple | Remote (Canada), Toronto, Ontario | 7 days ago |
 
 ### Sources
 
@@ -125,13 +123,13 @@ _Updated Tuesday 20 October, 14:29 Toronto &middot; 12/13 sources healthy &middo
 | BenchSci \[lever\] | - | ok |
 | Canadian-Tech-Internships-2027 \[tracker\] | 266 | ok |
 | Cohere \[ashby\] | 116 | ok |
-| Faire \[greenhouse\] | 77 | ok |
-| New-Grad-Positions \[tracker\] | 3009 | ok |
-| Summer2027-Internships \[tracker\] | 4826 | ok |
+| Faire \[greenhouse\] | 75 | ok |
+| New-Grad-Positions \[tracker\] | 2995 | ok |
+| Summer2027-Internships \[tracker\] | 4798 | ok |
 | Tenstorrent \[greenhouse\] | 125 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 92 | ok |
-| Wealthsimple \[ashby\] | 43 | ok |
+| Wealthsimple \[ashby\] | 39 | ok |
 | Xanadu \[html\] | - | ok |
 | vansh-Summer2027 \[tracker\] | 560 | ok |
 
