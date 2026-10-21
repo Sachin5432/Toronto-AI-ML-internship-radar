@@ -32,7 +32,7 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Wednesday 21 October, 03:43 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Wednesday 21 October, 09:52 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 11 AI/ML matches
 
@@ -50,7 +50,7 @@ _Updated Wednesday 21 October, 03:43 Toronto &middot; 12/13 sources healthy &mid
 | [AI Builder Co-op, Winter](https://careers.kpmg.ca/jobs/34407?icims=1) | KPMG | Toronto, ON, Canada | 5 days ago |
 | [Machine Learning Engineer New Grad](https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3/application?embed=true) | Quora | Remote in USA, Remote in Canada | 6 days ago |
 
-### Loose &middot; 70 to review
+### Loose &middot; 69 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -123,7 +123,6 @@ _Updated Wednesday 21 October, 03:43 Toronto &middot; 12/13 sources healthy &mid
 | [Analytics Intern, N/A](https://job-boards.greenhouse.io/kensingtontours/jobs/5262680007) | Kensington | Toronto, ON, Canada | 7 days ago |
 | [Artificial Intelligence Scientist Intern, N/A](https://bnc.avature.net/en_CA/careers/JobDetail/36110) | National Bank of Canada | Canada | 7 days ago |
 | [Artificial Intelligence Developer Intern, N/A](https://bnc.avature.net/en_CA/careers/JobDetail/36120) | National Bank of Canada | Canada | 7 days ago |
-| [Systems Intern - Multiple Teams, N/A](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007) | Tenstorrent | Toronto, ON, Canada, Vancouver, BC, Canada | 7 days ago |
 
 ### Sources
 
@@ -132,14 +131,14 @@ _Updated Wednesday 21 October, 03:43 Toronto &middot; 12/13 sources healthy &mid
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
 | Canadian-Tech-Internships-2027 \[tracker\] | 266 | ok |
-| Cohere \[ashby\] | 116 | ok |
+| Cohere \[ashby\] | 115 | ok |
 | Faire \[greenhouse\] | 75 | ok |
-| New-Grad-Positions \[tracker\] | 3025 | ok |
-| Summer2027-Internships \[tracker\] | 4853 | ok |
+| New-Grad-Positions \[tracker\] | 3003 | ok |
+| Summer2027-Internships \[tracker\] | 4855 | ok |
 | Tenstorrent \[greenhouse\] | 124 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 92 | ok |
-| Wealthsimple \[ashby\] | 38 | ok |
+| Wealthsimple \[ashby\] | 39 | ok |
 | Xanadu \[html\] | - | ok |
 | vansh-Summer2027 \[tracker\] | 642 | ok |
 
