@@ -32,13 +32,15 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Wednesday 21 October, 14:41 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Wednesday 21 October, 18:24 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 11 AI/ML matches
+### Strict &middot; 13 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Data Engineer Intern, Summer](https://pictonmahoney.bamboohr.com/careers/387) | Picton Mahoney Asset Management | Toronto, ON, Canada | Yesterday |
 | [Data Engineer Intern, N/A](https://pictonmahoney.bamboohr.com/careers/387/) | Picton Mahoney Asset Management | Toronto, ON, Canada | Yesterday |
+| [AI Intern, Supply Chain, Winter](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/AI-Intern--Supply-Chain--Winter-2027--12months-_R0145043) | Hitachi | Toronto, ON, Canada | 2 days ago |
 | [AI Intern Supply Chain, Winter 2027](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/AI-Intern--Supply-Chain--Winter-2027--12months-_R0145043) | Hitachi | Toronto, ON, Canada | 2 days ago |
 | [Machine Learning AISW Intern, Summer](https://qualcomm.eightfold.ai/careers/job/446721636765) | Qualcomm | Markham, ON, Canada | 2 days ago |
 | [Advanced Analytics and AI Co-op, Winter](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Advanced-Analytics-and-AI-Co-op_2621440) | CIBC | Toronto, ON | 2 days ago |
@@ -50,7 +52,7 @@ _Updated Wednesday 21 October, 14:41 Toronto &middot; 12/13 sources healthy &mid
 | [AI Builder Co-op, Winter](https://careers.kpmg.ca/jobs/34407?icims=1) | KPMG | Toronto, ON, Canada | 5 days ago |
 | [Machine Learning Engineer New Grad](https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3/application?embed=true) | Quora | Remote in USA, Remote in Canada | 6 days ago |
 
-### Loose &middot; 69 to review
+### Loose &middot; 72 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -66,6 +68,8 @@ _Updated Wednesday 21 October, 14:41 Toronto &middot; 12/13 sources healthy &mid
 | [PCB Layout Intern, N/A](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/PCB-Layout-Intern_REQ3632) | Semtech | Burlington, ON, Canada | 2 days ago |
 | [Software Developer Intern, N/A](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-_R10604) | SOTI | Mississauga, ON, Canada | 2 days ago |
 | [Quartus User Interface Intern, N/A](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Quartus-User-Interface---Intern_R03353) | Altera | Toronto, ON, Canada | 2 days ago |
+| [Quartus User Interface Intern, Summer](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Quartus-User-Interface---Intern_R03353) | Altera | Toronto, ON, Canada | 2 days ago |
+| [FPGA IP Design Engineer Intern, Summer](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-IP-Design-Engineer---Intern_R03299) | Altera | Toronto, ON, Canada | 2 days ago |
 | [FPGA IP Design Engineer Intern, N/A](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-IP-Design-Engineer---Intern_R03299) | Altera | Toronto, ON, Canada | 2 days ago |
 | [Retail Risk Modeling Analyst Intern, Winter 2027](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Retail-Risk-Modeling-Analyst-Intern--8-Months-_R-0000185759-3) | Royal Bank of Canada | Toronto, ON, Canada | 2 days ago |
 | [Software Engineer Intern, N/A](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/18964) | Citco | Toronto, ON, Canada | 2 days ago |
@@ -73,6 +77,7 @@ _Updated Wednesday 21 October, 14:41 Toronto &middot; 12/13 sources healthy &mid
 | [Machine Learning AISW Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721636765) | Qualcomm | Markham, ON, Canada | 2 days ago |
 | [QDSP Hardware Physical Design Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721636316) | Qualcomm | Markham, ON, Canada | 2 days ago |
 | [QDSP Hardware Physical Design Intern, Summer](https://qualcomm.eightfold.ai/careers/job/446721636316) | Qualcomm | Markham, ON, Canada | 2 days ago |
+| [Optical Algorithms and Analytics Engineering Co-op, Summer](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Algorithms-and-Analytics-Engineering-Co-op-Intern_20261547) | Lumentum | Ottawa, ON | 2 days ago |
 | [Product Co-op, Spring 2027](https://boards.greenhouse.io/embed/job_app?token=8285180) | FanDuel | Toronto, ON, Canada | 2 days ago |
 | [Product Co-op, Spring](https://boards.greenhouse.io/embed/job_app?token=8285180) | FanDuel | Toronto, ON, Canada | 2 days ago |
 | [Junior Cloud Engineer Co-op, Summer](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Junior-Cloud-Engineer--Summer-2027--Co-op-Internship----16-months_R260029417-1) | BMO Financial Group | Toronto, ON | 2 days ago |
@@ -131,16 +136,16 @@ _Updated Wednesday 21 October, 14:41 Toronto &middot; 12/13 sources healthy &mid
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
 | Canadian-Tech-Internships-2027 \[tracker\] | 255 | ok |
-| Cohere \[ashby\] | 115 | ok |
-| Faire \[greenhouse\] | 74 | ok |
-| New-Grad-Positions \[tracker\] | 2983 | ok |
-| Summer2027-Internships \[tracker\] | 4822 | ok |
-| Tenstorrent \[greenhouse\] | 121 | ok |
+| Cohere \[ashby\] | 114 | ok |
+| Faire \[greenhouse\] | 71 | ok |
+| New-Grad-Positions \[tracker\] | 2959 | ok |
+| Summer2027-Internships \[tracker\] | 4795 | ok |
+| Tenstorrent \[greenhouse\] | 120 | ok |
 | Vector Institute \[html\] | 32 | ok |
-| Waabi \[lever\] | 91 | ok |
+| Waabi \[lever\] | 92 | ok |
 | Wealthsimple \[ashby\] | 39 | ok |
 | Xanadu \[html\] | - | ok |
-| vansh-Summer2027 \[tracker\] | 642 | ok |
+| vansh-Summer2027 \[tracker\] | 681 | ok |
 
 <!-- radar:listings:end -->
 
