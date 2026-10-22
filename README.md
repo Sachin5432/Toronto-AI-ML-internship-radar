@@ -32,13 +32,14 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Thursday 22 October, 09:50 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Thursday 22 October, 14:34 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 20 AI/ML matches
+### Strict &middot; 21 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
 | [Applied AI Engineer Intern, Summer](https://qualcomm.eightfold.ai/careers/job/446721664194) | Qualcomm | Markham, ON, Canada | Yesterday |
+| [Machine Learning Engineer Co-op, N/A](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721) | CIBC | Toronto, ON, Canada | Yesterday |
 | [Edge AI and Display Hardware Architecture Intern, Summer](https://qualcomm.eightfold.ai/careers/job/446721661830) | Qualcomm | Markham, ON, Canada | Yesterday |
 | [AI and Quantum Scientist Co-op, Winter](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649) | CIBC | Toronto, ON | Yesterday |
 | [Data &amp; AI Analyst Co-op Intern, Winter 2027](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data---AI-Analyst--Winter-2027--Co-op-Internship----4-Months_R260029651) | Bank of Montreal | Toronto, ON, Canada | 2 days ago |
@@ -59,10 +60,11 @@ _Updated Thursday 22 October, 09:50 Toronto &middot; 12/13 sources healthy &midd
 | [AI Builder Co-op, Winter](https://careers.kpmg.ca/jobs/34407?icims=1) | KPMG | Toronto, ON, Canada | 6 days ago |
 | [Machine Learning Engineer New Grad](https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3/application?embed=true) | Quora | Remote in USA, Remote in Canada | 7 days ago |
 
-### Loose &middot; 67 to review
+### Loose &middot; 68 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Marketing Analytics Intern, N/A](https://job-boards.greenhouse.io/kensingtontours/jobs/5270002007) | Kensington | Toronto, ON, Canada | **Today** |
 | [Camera Design Implementation Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721664170) | Qualcomm | Markham, ON, Canada | Yesterday |
 | [Applied AI Engineer Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721664194) | Qualcomm | Markham, ON, Canada | Yesterday |
 | [Camera Design Implementation Intern, Summer](https://qualcomm.eightfold.ai/careers/job/446721664170) | Qualcomm | Markham, ON, Canada | Yesterday |
@@ -137,14 +139,14 @@ _Updated Thursday 22 October, 09:50 Toronto &middot; 12/13 sources healthy &midd
 |---|---|---|
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
-| Canadian-Tech-Internships-2027 \[tracker\] | 265 | ok |
-| Cohere \[ashby\] | 113 | ok |
+| Canadian-Tech-Internships-2027 \[tracker\] | 258 | ok |
+| Cohere \[ashby\] | 114 | ok |
 | Faire \[greenhouse\] | 71 | ok |
-| New-Grad-Positions \[tracker\] | 3000 | ok |
-| Summer2027-Internships \[tracker\] | 4879 | ok |
-| Tenstorrent \[greenhouse\] | 121 | ok |
+| New-Grad-Positions \[tracker\] | 2991 | ok |
+| Summer2027-Internships \[tracker\] | 4849 | ok |
+| Tenstorrent \[greenhouse\] | 122 | ok |
 | Vector Institute \[html\] | 32 | ok |
-| Waabi \[lever\] | 92 | ok |
+| Waabi \[lever\] | 93 | ok |
 | Wealthsimple \[ashby\] | 40 | ok |
 | Xanadu \[html\] | - | ok |
 | vansh-Summer2027 \[tracker\] | 714 | ok |
