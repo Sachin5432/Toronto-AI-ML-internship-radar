@@ -32,17 +32,18 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Thursday 22 October, 03:39 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Thursday 22 October, 09:50 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 19 AI/ML matches
+### Strict &middot; 20 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Applied AI Engineer Intern, Summer](https://qualcomm.eightfold.ai/careers/job/446721664194) | Qualcomm | Markham, ON, Canada | Yesterday |
 | [Edge AI and Display Hardware Architecture Intern, Summer](https://qualcomm.eightfold.ai/careers/job/446721661830) | Qualcomm | Markham, ON, Canada | Yesterday |
 | [AI and Quantum Scientist Co-op, Winter](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649) | CIBC | Toronto, ON | Yesterday |
-| [Data &amp; AI Analyst Co-op, Winter](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Data---AI-Analyst--Winter-2027--Co-op-Internship----4-Months_R260029651) | BMO | Toronto, ON, Canada | 2 days ago |
 | [Data &amp; AI Analyst Co-op Intern, Winter 2027](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data---AI-Analyst--Winter-2027--Co-op-Internship----4-Months_R260029651) | Bank of Montreal | Toronto, ON, Canada | 2 days ago |
 | [AI and Quantum Scientist Co-op, N/A](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649) | CIBC | Toronto, ON, Canada | 2 days ago |
+| [Data &amp; AI Analyst Co-op, Winter](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Data---AI-Analyst--Winter-2027--Co-op-Internship----4-Months_R260029651) | BMO | Toronto, ON, Canada | 2 days ago |
 | [AI and Quantum Scientist Co-op, N/A](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649-1) | CIBC | Toronto, ON, Canada | 2 days ago |
 | [Data Engineer Intern, N/A](https://pictonmahoney.bamboohr.com/careers/387/) | Picton Mahoney Asset Management | Toronto, ON, Canada | 2 days ago |
 | [Data Engineer Intern, Summer](https://pictonmahoney.bamboohr.com/careers/387) | Picton Mahoney Asset Management | Toronto, ON, Canada | 2 days ago |
@@ -58,12 +59,13 @@ _Updated Thursday 22 October, 03:39 Toronto &middot; 12/13 sources healthy &midd
 | [AI Builder Co-op, Winter](https://careers.kpmg.ca/jobs/34407?icims=1) | KPMG | Toronto, ON, Canada | 6 days ago |
 | [Machine Learning Engineer New Grad](https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3/application?embed=true) | Quora | Remote in USA, Remote in Canada | 7 days ago |
 
-### Loose &middot; 66 to review
+### Loose &middot; 67 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
 | [Camera Design Implementation Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721664170) | Qualcomm | Markham, ON, Canada | Yesterday |
 | [Applied AI Engineer Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721664194) | Qualcomm | Markham, ON, Canada | Yesterday |
+| [Camera Design Implementation Intern, Summer](https://qualcomm.eightfold.ai/careers/job/446721664170) | Qualcomm | Markham, ON, Canada | Yesterday |
 | [Data Science Engineering Co-op, Winter](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Data-Science-Engineering-Co-Op--January-2027---Hybrid-_01883759) | RTX | Aguadilla, PR | Yesterday |
 | [Edge AI and Display Hardware Architecture Development Engineering Intern - Interim Engineering Intern - Systems, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721661830) | Qualcomm | Markham, ON, Canada | Yesterday |
 | [Display Systems Engineer Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721661677) | Qualcomm | Markham, ON, Canada | Yesterday |
@@ -138,14 +140,14 @@ _Updated Thursday 22 October, 03:39 Toronto &middot; 12/13 sources healthy &midd
 | Canadian-Tech-Internships-2027 \[tracker\] | 265 | ok |
 | Cohere \[ashby\] | 113 | ok |
 | Faire \[greenhouse\] | 71 | ok |
-| New-Grad-Positions \[tracker\] | 3009 | ok |
-| Summer2027-Internships \[tracker\] | 4870 | ok |
+| New-Grad-Positions \[tracker\] | 3000 | ok |
+| Summer2027-Internships \[tracker\] | 4879 | ok |
 | Tenstorrent \[greenhouse\] | 121 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 92 | ok |
-| Wealthsimple \[ashby\] | 39 | ok |
+| Wealthsimple \[ashby\] | 40 | ok |
 | Xanadu \[html\] | - | ok |
-| vansh-Summer2027 \[tracker\] | 721 | ok |
+| vansh-Summer2027 \[tracker\] | 714 | ok |
 
 <!-- radar:listings:end -->
 
