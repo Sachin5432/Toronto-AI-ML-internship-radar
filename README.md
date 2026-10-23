@@ -32,14 +32,15 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Friday 23 October, 09:30 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Friday 23 October, 14:24 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 24 AI/ML matches
+### Strict &middot; 25 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
 | [Applied Science Intern - PhD Student Science, N/A](https://amazon.jobs/en/jobs/10564588/2027-applied-science-internship-canada-phd-student-science-recruiting) | Amazon | Toronto, ON, Canada, Burnaby, BC, Canada, Pitt Meadows, BC, Canada, Vancouver, BC, Canada | Yesterday |
 | [Data Engineer Early Career](https://amazon.jobs/en/jobs/10559101/data-engineer-early-career-2026-can) | Amazon | Toronto, ON, Canada | Yesterday |
+| [AI and DSP Applications Engineer Intern, Summer](https://qualcomm.eightfold.ai/careers/job/446721686396) | Qualcomm | Markham, Canada | Yesterday |
 | [Applied AI Engineer Intern, Summer](https://qualcomm.eightfold.ai/careers/job/446721664194) | Qualcomm | Markham, ON, Canada | 2 days ago |
 | [Machine Learning Engineer Co-op, N/A](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721) | CIBC | Toronto, ON, Canada | 2 days ago |
 | [Machine Learning Engineer Co-op, Winter](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721) | CIBC | Toronto, ON, Canada | 2 days ago |
@@ -63,10 +64,21 @@ _Updated Friday 23 October, 09:30 Toronto &middot; 12/13 sources healthy &middot
 | [AI Builder Intern/Co-op, N/A](https://careers.kpmg.ca/jobs/34407?icims=1) | KPMG | Toronto, ON, Canada | 7 days ago |
 | [AI Builder Co-op, Winter](https://careers.kpmg.ca/jobs/34407?icims=1) | KPMG | Toronto, ON, Canada | 7 days ago |
 
-### Loose &middot; 80 to review
+### Loose &middot; 101 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Developer Intern - Developer Interfaces, Winter 2027](https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39/application?embed=true) | 1Password | Remote in USA, Remote in Canada | **Today** |
+| [Product Management Intern - End User Experience, Winter 2027](https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003/application?embed=true) | 1Password | Remote in USA, Remote in Canada | **Today** |
+| [Developer Intern - Credential Brokering, Winter 2027](https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba/application?embed=true) | 1Password | Remote in USA, Remote in Canada | **Today** |
+| [Product Management Intern, End User Experience, Winter](https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003) | 1Password | Remote, United States, Canada | **Today** |
+| [Developer Intern, Developer Interfaces, Winter](https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39) | 1Password | Remote, United States, Canada | **Today** |
+| [Developer Intern, Credential Brokering, Winter](https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba) | 1Password | Remote, United States, Canada | **Today** |
+| [Software Intern, Summer](https://altera.wd1.myworkdayjobs.com/en-US/altera/job/Toronto-Ontario-Canada/Software-Intern_R03373) | Altera | Toronto, Canada | **Today** |
+| [Network Systems Engineer Co-op, Winter](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41672) | Nokia | Canada | **Today** |
+| [Product Management Intern, Summer 2027](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-2) | GE Vernova | Markham, ON, Canada | Yesterday |
+| [Design Verification Intern, Winter 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/CA-ON---Ontario---Toronto/Design-Verification-Intern_2603984) | Marvell | Toronto, ON, Canada | Yesterday |
+| [Product Management Intern, Summer 2027](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-1) | GE Vernova | Markham, ON, Canada | Yesterday |
 | [Software Engineer Intern, N/A](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25007757) | Texas Instruments | Toronto, ON, Canada, Canada | Yesterday |
 | [AI and DSP Applications Engineer Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721686396) | Qualcomm | Markham, ON, Canada | Yesterday |
 | [Technical-Engineering Intern, Summer 2027](https://synopsys.avature.net/careers/JobDetail/19182) | Synopsys | Markham, ON, Canada | Yesterday |
@@ -78,7 +90,15 @@ _Updated Friday 23 October, 09:30 Toronto &middot; 12/13 sources healthy &middot
 | [Developer Intern - Machine Identity, Winter 2027](https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f/application?embed=true) | 1Password | Remote in USA, Remote in Canada | Yesterday |
 | [Developer Intern - Front-End Platform, Winter 2027](https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37/application?embed=true) | 1Password | Remote in USA, Remote in Canada | Yesterday |
 | [Software Engineering Intern, N/A](https://jobs.ashbyhq.com/veeda-ai/84dfad5c-d790-4c4a-9411-40b676b1abbb/application?embed=true) | Veeda AI | Toronto, ON, Canada | Yesterday |
+| [Software Engineering Intern, Summer](https://jobs.ashbyhq.com/veeda-ai/84dfad5c-d790-4c4a-9411-40b676b1abbb/application?embed=true) | Veeda AI | Toronto, Canada | Yesterday |
 | [Marketing Analytics Intern, N/A](https://job-boards.greenhouse.io/kensingtontours/jobs/5270002007) | Kensington | Toronto, ON, Canada | Yesterday |
+| [Linux Engineering Intern, Summer](https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Linux-Engineering-Intern_J000704371) | Aptiv | Kanata, Canada | Yesterday |
+| [Linux Intern, Summer](https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Linux-Intern_J000704370) | Aptiv | Kanata, Canada | Yesterday |
+| [Software Engineering Intern, Summer](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25007757) | Texas Instruments | Remote, Canada | Yesterday |
+| [Developer Intern, Data Security, Winter](https://jobs.ashbyhq.com/1password/8af1359a-c8a2-492b-b567-ae8ae184a8a1/application) | 1Password | Remote, United States, Canada | Yesterday |
+| [Developer Intern, Machine Identity, Winter](https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f/application) | 1Password | Remote, United States, Canada | Yesterday |
+| [Developer Intern, Vault Team, Winter](https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779/application) | 1Password | Remote, United States, Canada | Yesterday |
+| [Software Developer Intern, Winter](https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Software-Developer-Intern---Winter-2027_R031953-1) | Ciena | Ottawa, Canada | Yesterday |
 | [Camera Design Implementation Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721664170) | Qualcomm | Markham, ON, Canada | 2 days ago |
 | [Applied AI Engineer Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721664194) | Qualcomm | Markham, ON, Canada | 2 days ago |
 | [Camera Design Implementation Intern, Summer](https://qualcomm.eightfold.ai/careers/job/446721664170) | Qualcomm | Markham, ON, Canada | 2 days ago |
@@ -87,8 +107,10 @@ _Updated Friday 23 October, 09:30 Toronto &middot; 12/13 sources healthy &middot
 | [Linux Engineer Intern, N/A](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Linux-Engineering-Intern_J000704371) | Aptiv | Kanata, Ottawa, ON, Canada | 2 days ago |
 | [Linux Intern, N/A](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Linux-Intern_J000704370) | Aptiv | Kanata, Ottawa, ON, Canada | 2 days ago |
 | [Software Intern, N/A](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Intern_R03373) | Altera | Toronto, ON, Canada | 2 days ago |
+| [HVP/Certification Engineer Intern, Summer](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert--Engineer-Intern_J000704379) | Aptiv | Kanata, Canada | 2 days ago |
 | [HVP/Certification Engineer Intern, N/A](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert--Engineer-Intern_J000704379) | Aptiv | Kanata, Ottawa, ON, Canada | 2 days ago |
 | [HVP Certification Engineer Intern, N/A](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert--Engineer-Intern_J000704378) | Aptiv | Kanata, Ottawa, ON, Canada | 2 days ago |
+| [HVP Certification Engineer Intern, Summer](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert--Engineer-Intern_J000704378) | Aptiv | Kanata, Canada | 2 days ago |
 | [Data Science Engineering Co-op, Winter](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Data-Science-Engineering-Co-Op--January-2027---Hybrid-_01883759) | RTX | Aguadilla, PR | 2 days ago |
 | [Edge AI and Display Hardware Architecture Development Engineering Intern - Interim Engineering Intern - Systems, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721661830) | Qualcomm | Markham, ON, Canada | 2 days ago |
 | [Display Systems Engineer Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721661677) | Qualcomm | Markham, ON, Canada | 2 days ago |
@@ -154,17 +176,17 @@ _Updated Friday 23 October, 09:30 Toronto &middot; 12/13 sources healthy &middot
 |---|---|---|
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
-| Canadian-Tech-Internships-2027 \[tracker\] | 258 | ok |
-| Cohere \[ashby\] | 113 | ok |
+| Canadian-Tech-Internships-2027 \[tracker\] | 257 | ok |
+| Cohere \[ashby\] | 114 | ok |
 | Faire \[greenhouse\] | 71 | ok |
-| New-Grad-Positions \[tracker\] | 3046 | ok |
-| Summer2027-Internships \[tracker\] | 3716 | ok |
+| New-Grad-Positions \[tracker\] | 3069 | ok |
+| Summer2027-Internships \[tracker\] | 4972 | ok |
 | Tenstorrent \[greenhouse\] | 119 | ok |
 | Vector Institute \[html\] | 32 | ok |
-| Waabi \[lever\] | 93 | ok |
+| Waabi \[lever\] | 94 | ok |
 | Wealthsimple \[ashby\] | 43 | ok |
 | Xanadu \[html\] | - | ok |
-| vansh-Summer2027 \[tracker\] | 738 | ok |
+| vansh-Summer2027 \[tracker\] | 875 | ok |
 
 <!-- radar:listings:end -->
 
