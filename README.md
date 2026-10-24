@@ -32,7 +32,7 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Saturday 24 October, 14:11 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Saturday 24 October, 16:54 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 24 AI/ML matches
 
@@ -63,7 +63,7 @@ _Updated Saturday 24 October, 14:11 Toronto &middot; 12/13 sources healthy &midd
 | [AI Intern, Spring](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Summer-Intern-2027---AI_JR26081688-1) | Manulife Financial | Toronto, ON, Canada | 6 days ago |
 | [AI Co-op, Winter 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---AI--12-Months-_JR26081678-1) | Manulife Financial | Toronto, ON, Canada | 6 days ago |
 
-### Loose &middot; 122 to review
+### Loose &middot; 121 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -188,7 +188,6 @@ _Updated Saturday 24 October, 14:11 Toronto &middot; 12/13 sources healthy &midd
 | [Application/Software Developer Co-op - Capital Markets Technology, Winter 2027](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523) | CIBC | Toronto, ON, Canada | 6 days ago |
 | [Application Developer Co-op - Enterprise Technology &amp; Business Management, Winter 2027](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621524-2) | CIBC | Toronto, ON, Canada | 6 days ago |
 | [Application/Software Developer Co-op - Capital Markets Technology, Winter](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523-1) | CIBC | Toronto, ON, Canada | 6 days ago |
-| [Software Engineering Intern, Summer](https://physicalreasoning.ai/join/software-engineering-intern/) | Physical Reasoning | San Francisco, CA, New York, NY, Toronto, Canada, Remote | 7 days ago |
 
 ### Sources
 
@@ -196,11 +195,11 @@ _Updated Saturday 24 October, 14:11 Toronto &middot; 12/13 sources healthy &midd
 |---|---|---|
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
-| Canadian-Tech-Internships-2027 \[tracker\] | 269 | ok |
+| Canadian-Tech-Internships-2027 \[tracker\] | 265 | ok |
 | Cohere \[ashby\] | 116 | ok |
 | Faire \[greenhouse\] | 72 | ok |
-| New-Grad-Positions \[tracker\] | 3067 | ok |
-| Summer2027-Internships \[tracker\] | 5033 | ok |
+| New-Grad-Positions \[tracker\] | 2938 | ok |
+| Summer2027-Internships \[tracker\] | 4851 | ok |
 | Tenstorrent \[greenhouse\] | 119 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 94 | ok |
