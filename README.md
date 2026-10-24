@@ -32,7 +32,7 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Saturday 24 October, 07:09 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Saturday 24 October, 10:36 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 24 AI/ML matches
 
@@ -63,7 +63,7 @@ _Updated Saturday 24 October, 07:09 Toronto &middot; 12/13 sources healthy &midd
 | [AI Intern, Spring](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Summer-Intern-2027---AI_JR26081688-1) | Manulife Financial | Toronto, ON, Canada | 6 days ago |
 | [AI Co-op, Winter 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---AI--12-Months-_JR26081678-1) | Manulife Financial | Toronto, ON, Canada | 6 days ago |
 
-### Loose &middot; 119 to review
+### Loose &middot; 122 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -104,6 +104,9 @@ _Updated Saturday 24 October, 07:09 Toronto &middot; 12/13 sources healthy &midd
 | [Associate Product Manager Intern, Summer](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--May-2027---12-Months-_R10638) | SOTI | Mississauga, Canada | 2 days ago |
 | [Technology Analyst Intern, Application Development, Summer](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Technology--Application-Development--Summer-Analyst--Mississauga--Canada--2027_261003301) | Citi | Mississauga, Canada | 2 days ago |
 | [Cloud Software Engineer Intern, N/A](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704366) | Aptiv | Kanata, Ottawa, ON, Canada | 2 days ago |
+| [Engineering Intern, N/A](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704357) | Aptiv | Kanata, Ottawa, ON, Canada | 2 days ago |
+| [Cloud Software Engineer Intern, N/A](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704364) | Aptiv | Kanata, Ottawa, ON, Canada | 2 days ago |
+| [Cloud Software Engineer Intern, N/A](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704365) | Aptiv | Kanata, Ottawa, ON, Canada | 2 days ago |
 | [Software Engineer Intern, N/A](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25007757) | Texas Instruments | Toronto, ON, Canada, Canada | 2 days ago |
 | [AI and DSP Applications Engineer Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721686396) | Qualcomm | Markham, ON, Canada | 2 days ago |
 | [Technical-Engineering Intern, Summer 2027](https://synopsys.avature.net/careers/JobDetail/19182) | Synopsys | Markham, ON, Canada | 2 days ago |
@@ -196,8 +199,8 @@ _Updated Saturday 24 October, 07:09 Toronto &middot; 12/13 sources healthy &midd
 | Canadian-Tech-Internships-2027 \[tracker\] | 269 | ok |
 | Cohere \[ashby\] | 116 | ok |
 | Faire \[greenhouse\] | 72 | ok |
-| New-Grad-Positions \[tracker\] | 3071 | ok |
-| Summer2027-Internships \[tracker\] | 5030 | ok |
+| New-Grad-Positions \[tracker\] | 3065 | ok |
+| Summer2027-Internships \[tracker\] | 5009 | ok |
 | Tenstorrent \[greenhouse\] | 119 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 94 | ok |
