@@ -32,9 +32,9 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Friday 23 October, 18:15 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Friday 23 October, 20:48 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 25 AI/ML matches
+### Strict &middot; 23 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -61,13 +61,13 @@ _Updated Friday 23 October, 18:15 Toronto &middot; 12/13 sources healthy &middot
 | [AI Co-op, Winter](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---AI--12-Months-_JR26081678-1) | Manulife Financial | Toronto, ON, Canada | 5 days ago |
 | [AI Intern, Spring](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Summer-Intern-2027---AI_JR26081688-1) | Manulife Financial | Toronto, ON, Canada | 5 days ago |
 | [AI Co-op, Winter 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---AI--12-Months-_JR26081678-1) | Manulife Financial | Toronto, ON, Canada | 5 days ago |
-| [AI Builder Intern/Co-op, N/A](https://careers.kpmg.ca/jobs/34407?icims=1) | KPMG | Toronto, ON, Canada | 7 days ago |
-| [AI Builder Co-op, Winter](https://careers.kpmg.ca/jobs/34407?icims=1) | KPMG | Toronto, ON, Canada | 7 days ago |
 
-### Loose &middot; 101 to review
+### Loose &middot; 105 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [AI Engineer Intern - Enterprise Technology Services, Summer 2027](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015552) | American Express | Toronto, ON, Canada | **Today** |
+| [MScAC Intern, Summer 2027](https://jobs.lever.co/bosonai/3b66f322-55eb-4c4b-9b36-028dfcdd85e9/apply) | Boson Ai | Toronto, ON, Canada | **Today** |
 | [Developer Intern - Developer Interfaces, Winter 2027](https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39/application?embed=true) | 1Password | Remote in USA, Remote in Canada | **Today** |
 | [Product Management Intern - End User Experience, Winter 2027](https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003/application?embed=true) | 1Password | Remote in USA, Remote in Canada | **Today** |
 | [Developer Intern - Credential Brokering, Winter 2027](https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba/application?embed=true) | 1Password | Remote in USA, Remote in Canada | **Today** |
@@ -78,7 +78,17 @@ _Updated Friday 23 October, 18:15 Toronto &middot; 12/13 sources healthy &middot
 | [Network Systems Engineer Co-op, Winter](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41672) | Nokia | Canada | **Today** |
 | [Product Management Intern, Summer 2027](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-2) | GE Vernova | Markham, ON, Canada | Yesterday |
 | [Design Verification Intern, Winter 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/CA-ON---Ontario---Toronto/Design-Verification-Intern_2603984) | Marvell | Toronto, ON, Canada | Yesterday |
+| [Hardware Engineer New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineer---New-Grad_R031914) | Ciena | Ottawa, ON, Canada | Yesterday |
+| [Associate Product Manager Intern, Summer 2027](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-XSight---May-2027---12-Months-_R10614) | SOTI | Mississauga, ON, Canada | Yesterday |
+| [Navigation &amp; Machine Learning Engineer Intern, Summer 2027](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Navigation---Machine-Learning-Engineering-Intern--16-Months-_R57980) | Trimble | Richmond Hill, ON, Canada | Yesterday |
+| [Intellectual Property Design Intern, N/A](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/IP-Design-PEY-Intern_R03341) | Altera | Toronto, ON, Canada | Yesterday |
+| [Life &amp; Health Product Management Co-op Intern, Winter 2027](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Job-Posting-Title-L-H-Product-Management-Intern-Co-op--Winter-2027-_R_1506721) | TD Bank | Toronto, ON, Canada | Yesterday |
 | [Product Management Intern, Summer 2027](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-1) | GE Vernova | Markham, ON, Canada | Yesterday |
+| [Business Intelligence Consulting Intern, Summer 2027](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Edmonton/Business-Intelligence-Consulting-Intern---Summer-2027_JR122066-1) | RSM | Toronto, ON, Canada, Calgary, AB, Canada, Edmonton, AB, Canada | Yesterday |
+| [Associate Product Manager Intern, Spring 2027](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--May-2027---12-Months-_R10638) | SOTI | Mississauga, ON, Canada | Yesterday |
+| [Associate Product Manager Intern, Summer 2027](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-Connect---May-2027---12-Months-_R10615) | SOTI | Mississauga, ON, Canada | Yesterday |
+| [Software Engineer Intern, Summer 2027](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963) | Trimble | Richmond Hill, ON, Canada | Yesterday |
+| [Technology Analyst Intern - Application Development, Summer 2027](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Technology--Application-Development--Summer-Analyst--Mississauga--Canada--2027_261003301) | Citi | Mississauga, ON, Canada | Yesterday |
 | [Software Engineer Intern, N/A](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25007757) | Texas Instruments | Toronto, ON, Canada, Canada | Yesterday |
 | [AI and DSP Applications Engineer Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721686396) | Qualcomm | Markham, ON, Canada | Yesterday |
 | [Technical-Engineering Intern, Summer 2027](https://synopsys.avature.net/careers/JobDetail/19182) | Synopsys | Markham, ON, Canada | Yesterday |
@@ -161,14 +171,6 @@ _Updated Friday 23 October, 18:15 Toronto &middot; 12/13 sources healthy &middot
 | [Application Developer Co-op - Enterprise Technology &amp; Business Management, Winter 2027](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621524-2) | CIBC | Toronto, ON, Canada | 5 days ago |
 | [Application/Software Developer Co-op - Capital Markets Technology, Winter](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523-1) | CIBC | Toronto, ON, Canada | 5 days ago |
 | [Software Engineering Intern, Summer](https://physicalreasoning.ai/join/software-engineering-intern/) | Physical Reasoning | San Francisco, CA, New York, NY, Toronto, Canada, Remote | 6 days ago |
-| [Safety Methodologies Co-op, Summer](https://jobs.lever.co/waabi/480d9d41-33d0-429a-8883-7f9ec305a30f/apply) | Waabi | Toronto, ON, Canada, SF, Pittsburgh, PA | 7 days ago |
-| [Safety Methodologies Intern Co-op, Summer 2027](https://jobs.lever.co/waabi/480d9d41-33d0-429a-8883-7f9ec305a30f/apply) | Waabi | Toronto, ON, Canada, SF, Pittsburgh, PA | 7 days ago |
-| [Software Engineer Intern, Winter 2027](https://jobs.lever.co/kepler/5514238a-8301-49f1-8116-26d38ea0900c/apply) | Kepler Communications | Toronto, ON, Canada | 7 days ago |
-| [Software Developer Co-op - Custom Development Services, Winter 2027](https://www.d2l.com/careers/jobs/?job_id=8289767&gh_jid=8289767) | D2L | Kitchener, ON, Canada | 7 days ago |
-| [Software Developer Co-op, Custom Development Services, Winter](https://www.d2l.com/careers/jobs/?job_id=8289767&gh_jid=8289767) | D2L | Kitchener, ON, Canada | 7 days ago |
-| [Technical-Engineering Intern, Summer 2027](https://synopsys.avature.net/careers/JobDetail/19195) | Synopsys | Mississauga, ON, Canada | 7 days ago |
-| [Automotive Engineering Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721615591) | Qualcomm | Markham, ON, Canada | 7 days ago |
-| [Automotive Engineering Intern, Summer](https://qualcomm.eightfold.ai/careers/job/446721615591) | Qualcomm | Markham, ON, Canada | 7 days ago |
 
 ### Sources
 
@@ -179,11 +181,11 @@ _Updated Friday 23 October, 18:15 Toronto &middot; 12/13 sources healthy &middot
 | Canadian-Tech-Internships-2027 \[tracker\] | 257 | ok |
 | Cohere \[ashby\] | 116 | ok |
 | Faire \[greenhouse\] | 72 | ok |
-| New-Grad-Positions \[tracker\] | 3047 | ok |
-| Summer2027-Internships \[tracker\] | 4946 | ok |
+| New-Grad-Positions \[tracker\] | 3094 | ok |
+| Summer2027-Internships \[tracker\] | 5033 | ok |
 | Tenstorrent \[greenhouse\] | 119 | ok |
 | Vector Institute \[html\] | 32 | ok |
-| Waabi \[lever\] | 94 | ok |
+| Waabi \[lever\] | 95 | ok |
 | Wealthsimple \[ashby\] | 43 | ok |
 | Xanadu \[html\] | - | ok |
 | vansh-Summer2027 \[tracker\] | 875 | ok |
