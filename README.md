@@ -32,7 +32,7 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Sunday 25 October, 00:49 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Sunday 25 October, 05:51 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 24 AI/ML matches
 
@@ -63,7 +63,7 @@ _Updated Sunday 25 October, 00:49 Toronto &middot; 12/13 sources healthy &middot
 | [AI Intern, Spring](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Summer-Intern-2027---AI_JR26081688-1) | Manulife Financial | Toronto, ON, Canada | 7 days ago |
 | [AI Co-op, Winter 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---AI--12-Months-_JR26081678-1) | Manulife Financial | Toronto, ON, Canada | 7 days ago |
 
-### Loose &middot; 121 to review
+### Loose &middot; 123 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -95,6 +95,7 @@ _Updated Sunday 25 October, 00:49 Toronto &middot; 12/13 sources healthy &middot
 | [IP Design Intern, Summer](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/IP-Design-PEY-Intern_R03341) | Altera | Toronto, Canada | 3 days ago |
 | [Engineering Intern, Summer](https://jobs.ashbyhq.com/sardine/b25449a4-c78c-4b1a-b5b2-74b45981a37a/application?embed=true) | Sardine | Remote, United States, Canada | 3 days ago |
 | [Engineering Intern, N/A](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704367) | Aptiv | Kanata, Ottawa, ON, Canada | 3 days ago |
+| [Engineering Intern, Summer](https://go.vansh.nyc/i0) | Aptiv | Kanata, Canada, Ottawa, Canada | 3 days ago |
 | [Product Management Intern, Summer 2027](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-1) | GE Vernova | Markham, ON, Canada | 3 days ago |
 | [Business Intelligence Consulting Intern, Summer 2027](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Edmonton/Business-Intelligence-Consulting-Intern---Summer-2027_JR122066-1) | RSM | Toronto, ON, Canada, Calgary, AB, Canada, Edmonton, AB, Canada | 3 days ago |
 | [Associate Product Manager Intern, Spring 2027](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--May-2027---12-Months-_R10638) | SOTI | Mississauga, ON, Canada | 3 days ago |
@@ -107,6 +108,7 @@ _Updated Sunday 25 October, 00:49 Toronto &middot; 12/13 sources healthy &middot
 | [Engineering Intern, N/A](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704357) | Aptiv | Kanata, Ottawa, ON, Canada | 3 days ago |
 | [Cloud Software Engineer Intern, N/A](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704364) | Aptiv | Kanata, Ottawa, ON, Canada | 3 days ago |
 | [Cloud Software Engineer Intern, N/A](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704365) | Aptiv | Kanata, Ottawa, ON, Canada | 3 days ago |
+| [Cloud Software Engineer Intern, Summer](https://go.vansh.nyc/hZ) | Aptiv | Kanata, Canada, Ottawa, Canada | 3 days ago |
 | [Software Engineer Intern, N/A](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25007757) | Texas Instruments | Toronto, ON, Canada, Canada | 3 days ago |
 | [AI and DSP Applications Engineer Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721686396) | Qualcomm | Markham, ON, Canada | 3 days ago |
 | [Technical-Engineering Intern, Summer 2027](https://synopsys.avature.net/careers/JobDetail/19182) | Synopsys | Markham, ON, Canada | 3 days ago |
@@ -198,14 +200,14 @@ _Updated Sunday 25 October, 00:49 Toronto &middot; 12/13 sources healthy &middot
 | Canadian-Tech-Internships-2027 \[tracker\] | 265 | ok |
 | Cohere \[ashby\] | 116 | ok |
 | Faire \[greenhouse\] | 72 | ok |
-| New-Grad-Positions \[tracker\] | 2938 | ok |
-| Summer2027-Internships \[tracker\] | 4847 | ok |
+| New-Grad-Positions \[tracker\] | 2932 | ok |
+| Summer2027-Internships \[tracker\] | 4817 | ok |
 | Tenstorrent \[greenhouse\] | 119 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 94 | ok |
 | Wealthsimple \[ashby\] | 43 | ok |
 | Xanadu \[html\] | - | ok |
-| vansh-Summer2027 \[tracker\] | 895 | ok |
+| vansh-Summer2027 \[tracker\] | 785 | ok |
 
 <!-- radar:listings:end -->
 
