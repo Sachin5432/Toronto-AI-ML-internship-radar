@@ -32,7 +32,7 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Monday 26 October, 02:19 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Monday 26 October, 10:20 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 20 AI/ML matches
 
@@ -47,6 +47,7 @@ _Updated Monday 26 October, 02:19 Toronto &middot; 12/13 sources healthy &middot
 | [Machine Learning Engineer Co-op, Winter](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721) | CIBC | Toronto, ON, Canada | 5 days ago |
 | [Machine Learning Engineer Co-op, N/A](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721-1) | CIBC | Toronto, ON, Canada | 5 days ago |
 | [Edge AI and Display Hardware Architecture Intern, Summer](https://qualcomm.eightfold.ai/careers/job/446721661830) | Qualcomm | Markham, ON, Canada | 5 days ago |
+| [AI Engineer Co-op, Winter](https://go.vansh.nyc/Db) | Themis Intelligence | Mississauga, Canada | 5 days ago |
 | [AI and Quantum Scientist Co-op, Winter](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649) | CIBC | Toronto, ON | 5 days ago |
 | [Data &amp; AI Analyst Co-op Intern, Winter 2027](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data---AI-Analyst--Winter-2027--Co-op-Internship----4-Months_R260029651) | Bank of Montreal | Toronto, ON, Canada | 6 days ago |
 | [AI and Quantum Scientist Co-op, N/A](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649) | CIBC | Toronto, ON, Canada | 6 days ago |
@@ -57,9 +58,8 @@ _Updated Monday 26 October, 02:19 Toronto &middot; 12/13 sources healthy &middot
 | [AI Intern Supply Chain, Winter 2027](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/AI-Intern--Supply-Chain--Winter-2027--12months-_R0145043) | Hitachi | Toronto, ON, Canada | 7 days ago |
 | [AI Intern, Supply Chain, Winter](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/AI-Intern--Supply-Chain--Winter-2027--12months-_R0145043) | Hitachi | Toronto, ON, Canada | 7 days ago |
 | [Machine Learning AISW Intern, Summer](https://qualcomm.eightfold.ai/careers/job/446721636765) | Qualcomm | Markham, ON, Canada | 7 days ago |
-| [Advanced Analytics and AI Co-op, Winter](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Advanced-Analytics-and-AI-Co-op_2621440) | CIBC | Toronto, ON | 7 days ago |
 
-### Loose &middot; 107 to review
+### Loose &middot; 108 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -142,10 +142,12 @@ _Updated Monday 26 October, 02:19 Toronto &middot; 12/13 sources healthy &middot
 | [Edge AI and Display Hardware Architecture Development Engineering Intern - Interim Engineering Intern - Systems, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721661830) | Qualcomm | Markham, ON, Canada | 5 days ago |
 | [Display Systems Engineer Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721661677) | Qualcomm | Markham, ON, Canada | 5 days ago |
 | [Display Systems Engineer Intern, Summer](https://qualcomm.eightfold.ai/careers/job/446721661677) | Qualcomm | Markham, ON, Canada | 5 days ago |
+| [Software Engineer Co-op, Data, Winter](https://go.vansh.nyc/Da) | Themis Intelligence | Mississauga, Canada | 5 days ago |
 | [Analyst Co-op - Enterprise Data and Records, N/A](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Analyst--Enterprise-Data-and-Records-co-op_2621668) | CIBC | Toronto, ON, Canada | 6 days ago |
 | [Product Analyst Co-op, Winter 2027](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Analyst-Co-op_2621541) | CIBC | Toronto, ON, Canada | 6 days ago |
 | [Analyst Co-op - Enterprise Data and Records, N/A](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Analyst--Enterprise-Data-and-Records-co-op_2621668-1) | CIBC | Toronto, ON, Canada | 6 days ago |
 | [Full Stack Software Engineer New Grad](https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52/application?embed=true) | Quora | Remote in USA, Remote in Canada | 6 days ago |
+| [Web Developer Co-op, Quality and Infrastructure, Winter](https://go.vansh.nyc/D4) | Survalent | Mississauga, Canada | 6 days ago |
 | [Software Engineer Intern, Summer 2027](https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true) | Steel | Toronto, ON, Canada | 6 days ago |
 | [Software Engineer Intern, Summer](https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true) | Steel | Toronto, ON, Canada | 6 days ago |
 | [Application/Software Developer Co-op, Capital Markets Technology, Winter](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523) | CIBC | Toronto, ON | 6 days ago |
@@ -169,7 +171,6 @@ _Updated Monday 26 October, 02:19 Toronto &middot; 12/13 sources healthy &middot
 | [Optical Algorithms and Analytics Engineering Co-op, Summer](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Algorithms-and-Analytics-Engineering-Co-op-Intern_20261547) | Lumentum | Ottawa, ON | 7 days ago |
 | [Product Co-op, Spring 2027](https://boards.greenhouse.io/embed/job_app?token=8285180) | FanDuel | Toronto, ON, Canada | 7 days ago |
 | [Product Co-op, Spring](https://boards.greenhouse.io/embed/job_app?token=8285180) | FanDuel | Toronto, ON, Canada | 7 days ago |
-| [Junior Cloud Engineer Co-op, Summer](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Junior-Cloud-Engineer--Summer-2027--Co-op-Internship----16-months_R260029417-1) | BMO Financial Group | Toronto, ON | 7 days ago |
 
 ### Sources
 
@@ -178,16 +179,16 @@ _Updated Monday 26 October, 02:19 Toronto &middot; 12/13 sources healthy &middot
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
 | Canadian-Tech-Internships-2027 \[tracker\] | 262 | ok |
-| Cohere \[ashby\] | 116 | ok |
+| Cohere \[ashby\] | 115 | ok |
 | Faire \[greenhouse\] | 72 | ok |
-| New-Grad-Positions \[tracker\] | 2927 | ok |
-| Summer2027-Internships \[tracker\] | 4823 | ok |
-| Tenstorrent \[greenhouse\] | 119 | ok |
+| New-Grad-Positions \[tracker\] | 2905 | ok |
+| Summer2027-Internships \[tracker\] | 4774 | ok |
+| Tenstorrent \[greenhouse\] | 121 | ok |
 | Vector Institute \[html\] | 32 | ok |
-| Waabi \[lever\] | 94 | ok |
+| Waabi \[lever\] | 93 | ok |
 | Wealthsimple \[ashby\] | 42 | ok |
 | Xanadu \[html\] | - | ok |
-| vansh-Summer2027 \[tracker\] | 783 | ok |
+| vansh-Summer2027 \[tracker\] | 1292 | ok |
 
 <!-- radar:listings:end -->
 
