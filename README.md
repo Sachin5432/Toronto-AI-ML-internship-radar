@@ -32,12 +32,15 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Monday 26 October, 10:20 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Monday 26 October, 16:32 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 20 AI/ML matches
+### Strict &middot; 23 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Revenue Operations Intern (Winter, 2027)](https://jobs.ashbyhq.com/cohere/f3290fb2-66f1-44c7-9824-3f416f44af5a) | Cohere | Toronto, New York | **Today** |
+| [AI &amp; Stress Testing Analytics Intern, Winter 2027](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI---Stress-Testing-Analytics-Intern--4-Months-_R-0000185790-3) | Royal Bank of Canada | Toronto, ON, Canada | Yesterday |
+| [Data Engineer Intern, Summer](https://go.vansh.nyc/Qc) | Royal Bank of Canada | Toronto, Canada | Yesterday |
 | [Navigation &amp; Machine Learning Engineering Intern, Summer](https://trimble.wd1.myworkdayjobs.com/en-US/trimblecareers/job/Canada---Richmond-Hill-Ontario-Applanix/Navigation---Machine-Learning-Engineering-Intern--16-Months-_R57980) | Trimble | Richmond Hill, Canada | 3 days ago |
 | [Applied Science Intern - PhD Student Science, N/A](https://amazon.jobs/en/jobs/10564588/2027-applied-science-internship-canada-phd-student-science-recruiting) | Amazon | Toronto, ON, Canada, Burnaby, BC, Canada, Pitt Meadows, BC, Canada, Vancouver, BC, Canada | 4 days ago |
 | [Data Engineer Early Career](https://amazon.jobs/en/jobs/10559101/data-engineer-early-career-2026-can) | Amazon | Toronto, ON, Canada | 4 days ago |
@@ -59,10 +62,22 @@ _Updated Monday 26 October, 10:20 Toronto &middot; 12/13 sources healthy &middot
 | [AI Intern, Supply Chain, Winter](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/AI-Intern--Supply-Chain--Winter-2027--12months-_R0145043) | Hitachi | Toronto, ON, Canada | 7 days ago |
 | [Machine Learning AISW Intern, Summer](https://qualcomm.eightfold.ai/careers/job/446721636765) | Qualcomm | Markham, ON, Canada | 7 days ago |
 
-### Loose &middot; 108 to review
+### Loose &middot; 117 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Undergrad Technical Intern, Summer](https://go.vansh.nyc/SU) | Altera | Toronto, Canada | **Today** |
+| [eReader Quality Assurance Intern, Winter](https://go.vansh.nyc/SF) | Rakuten International | Toronto, Canada | **Today** |
+| [Performance Test Engineer Intern, Winter](https://go.vansh.nyc/SG) | SOTI | Mississauga, Canada | **Today** |
+| [Quality Assurance Specialist Intern, SOTI Connect, Winter](https://go.vansh.nyc/SH) | SOTI | Mississauga, Canada | **Today** |
+| [Software Developer Intern, Android, Summer](https://go.vansh.nyc/SI) | SOTI | Mississauga, Canada | **Today** |
+| [Software Developer Intern, Server, Summer](https://go.vansh.nyc/SJ) | SOTI | Mississauga, Canada | **Today** |
+| [Software Developer Intern, Summer](https://go.vansh.nyc/SK) | Member Solutions | Markham, Canada, Remote, Canada | **Today** |
+| [Developer Intern, Summer 2027](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000187114-1) | Royal Bank of Canada | Toronto, ON, Canada | **Today** |
+| [Technology Intern - Early Careers - Data Engineering, Summer 2027](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Data-Engineering-_R-583066) | Wells Fargo | Iselin, Woodbridge Township, NJ, Charlotte, NC, Irving, TX | Yesterday |
+| [Developer Intern, Summer 2027](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000191193-1) | Royal Bank of Canada | Toronto, ON, Canada | Yesterday |
+| [Data Engineer Intern, Summer 2027](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Data-Engineer--RBC-Amplify-2027--Toronto_R-0000191192-1) | Royal Bank of Canada | Toronto, ON, Canada | Yesterday |
+| [Developer Intern, Summer](https://go.vansh.nyc/Qb) | Royal Bank of Canada | Toronto, Canada | Yesterday |
 | [Software Developer Co-op - Front End, Winter 2027](https://jobs.intuit.com/job/toronto/winter-2027-software-developer-co-op-front-end-8-months/27595/102435217392) | Intuit | Toronto, ON, Canada | Yesterday |
 | [Automated Test Engineering Intern, Summer](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Automated-Test-Engineering-Intern--16-Month-Internship-_R58004) | Trimble | Richmond Hill, Canada | 3 days ago |
 | [AI Engineer Intern - Enterprise Technology Services, Summer 2027](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015552) | American Express | Toronto, ON, Canada | 3 days ago |
@@ -168,9 +183,6 @@ _Updated Monday 26 October, 10:20 Toronto &middot; 12/13 sources healthy &middot
 | [Machine Learning AISW Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721636765) | Qualcomm | Markham, ON, Canada | 7 days ago |
 | [QDSP Hardware Physical Design Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721636316) | Qualcomm | Markham, ON, Canada | 7 days ago |
 | [QDSP Hardware Physical Design Intern, Summer](https://qualcomm.eightfold.ai/careers/job/446721636316) | Qualcomm | Markham, ON, Canada | 7 days ago |
-| [Optical Algorithms and Analytics Engineering Co-op, Summer](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Algorithms-and-Analytics-Engineering-Co-op-Intern_20261547) | Lumentum | Ottawa, ON | 7 days ago |
-| [Product Co-op, Spring 2027](https://boards.greenhouse.io/embed/job_app?token=8285180) | FanDuel | Toronto, ON, Canada | 7 days ago |
-| [Product Co-op, Spring](https://boards.greenhouse.io/embed/job_app?token=8285180) | FanDuel | Toronto, ON, Canada | 7 days ago |
 
 ### Sources
 
@@ -178,17 +190,17 @@ _Updated Monday 26 October, 10:20 Toronto &middot; 12/13 sources healthy &middot
 |---|---|---|
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
-| Canadian-Tech-Internships-2027 \[tracker\] | 262 | ok |
-| Cohere \[ashby\] | 115 | ok |
-| Faire \[greenhouse\] | 72 | ok |
-| New-Grad-Positions \[tracker\] | 2905 | ok |
-| Summer2027-Internships \[tracker\] | 4774 | ok |
+| Canadian-Tech-Internships-2027 \[tracker\] | 258 | ok |
+| Cohere \[ashby\] | 116 | ok |
+| Faire \[greenhouse\] | 69 | ok |
+| New-Grad-Positions \[tracker\] | 2888 | ok |
+| Summer2027-Internships \[tracker\] | 4772 | ok |
 | Tenstorrent \[greenhouse\] | 121 | ok |
 | Vector Institute \[html\] | 32 | ok |
-| Waabi \[lever\] | 93 | ok |
-| Wealthsimple \[ashby\] | 42 | ok |
+| Waabi \[lever\] | 94 | ok |
+| Wealthsimple \[ashby\] | 40 | ok |
 | Xanadu \[html\] | - | ok |
-| vansh-Summer2027 \[tracker\] | 1292 | ok |
+| vansh-Summer2027 \[tracker\] | 1478 | ok |
 
 <!-- radar:listings:end -->
 
