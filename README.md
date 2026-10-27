@@ -32,7 +32,7 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Tuesday 27 October, 02:21 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Tuesday 27 October, 09:17 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 23 AI/ML matches
 
@@ -62,10 +62,11 @@ _Updated Tuesday 27 October, 02:21 Toronto &middot; 12/13 sources healthy &middo
 | [Data Engineer Intern, N/A](https://pictonmahoney.bamboohr.com/careers/387/) | Picton Mahoney Asset Management | Toronto, ON, Canada | 7 days ago |
 | [Data Engineer Intern, Summer](https://pictonmahoney.bamboohr.com/careers/387) | Picton Mahoney Asset Management | Toronto, ON, Canada | 7 days ago |
 
-### Loose &middot; 118 to review
+### Loose &middot; 114 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Software Testing Development Intern, QNX, Winter](https://go.vansh.nyc/Vb) | Blackberry | Ottawa, Canada | **Today** |
 | [Developer Intern, Summer 2027](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000187114) | Royal Bank of Canada | Toronto, ON, Canada | Yesterday |
 | [CPU Software Intern, Summer](https://go.vansh.nyc/Tm) | NUVACORE | Markham, Canada | Yesterday |
 | [Undergrad Technical Intern, Summer](https://go.vansh.nyc/SU) | Altera | Toronto, Canada | Yesterday |
@@ -179,11 +180,6 @@ _Updated Tuesday 27 October, 02:21 Toronto &middot; 12/13 sources healthy &middo
 | [Web Developer Co-op, Quality and Infrastructure, Winter](https://go.vansh.nyc/D4) | Survalent | Mississauga, Canada | 7 days ago |
 | [Software Engineer Intern, Summer 2027](https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true) | Steel | Toronto, ON, Canada | 7 days ago |
 | [Software Engineer Intern, Summer](https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true) | Steel | Toronto, ON, Canada | 7 days ago |
-| [Application/Software Developer Co-op, Capital Markets Technology, Winter](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523) | CIBC | Toronto, ON | 7 days ago |
-| [Application/Software Developer Co-op, Enterprise Technology &amp; Business Management, Winter](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621524-2) | CIBC | Toronto, ON | 7 days ago |
-| [Cloud Developer Intern, Platform Engineering, Summer](https://careers-kinaxis.icims.com/jobs/35572/intern-cloud-developer%2c-platform-engineering/job) | Kinaxis | Ottawa, ON | 7 days ago |
-| [Cloud Administrator Intern, Summer](https://soti.wd3.myworkdayjobs.com/en-US/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Cloud-Administrator--Intern-_R10569) | SOTI | Mississauga, ON | 7 days ago |
-| [Software Developer Intern, Summer](https://soti.wd3.myworkdayjobs.com/en-US/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-_R10604) | SOTI | Mississauga, ON | 7 days ago |
 
 ### Sources
 
@@ -193,15 +189,15 @@ _Updated Tuesday 27 October, 02:21 Toronto &middot; 12/13 sources healthy &middo
 | BenchSci \[lever\] | - | ok |
 | Canadian-Tech-Internships-2027 \[tracker\] | 258 | ok |
 | Cohere \[ashby\] | 116 | ok |
-| Faire \[greenhouse\] | 69 | ok |
-| New-Grad-Positions \[tracker\] | 2943 | ok |
-| Summer2027-Internships \[tracker\] | 4869 | ok |
-| Tenstorrent \[greenhouse\] | 121 | ok |
+| Faire \[greenhouse\] | 70 | ok |
+| New-Grad-Positions \[tracker\] | 2938 | ok |
+| Summer2027-Internships \[tracker\] | 4887 | ok |
+| Tenstorrent \[greenhouse\] | 120 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 94 | ok |
-| Wealthsimple \[ashby\] | 40 | ok |
+| Wealthsimple \[ashby\] | 39 | ok |
 | Xanadu \[html\] | - | ok |
-| vansh-Summer2027 \[tracker\] | 1495 | ok |
+| vansh-Summer2027 \[tracker\] | 1522 | ok |
 
 <!-- radar:listings:end -->
 
