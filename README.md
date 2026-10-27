@@ -32,9 +32,9 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Tuesday 27 October, 14:46 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Tuesday 27 October, 18:59 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 23 AI/ML matches
+### Strict &middot; 21 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -59,16 +59,26 @@ _Updated Tuesday 27 October, 14:46 Toronto &middot; 12/13 sources healthy &middo
 | [AI and Quantum Scientist Co-op, N/A](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649) | CIBC | Toronto, ON, Canada | 7 days ago |
 | [Data &amp; AI Analyst Co-op, Winter](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Data---AI-Analyst--Winter-2027--Co-op-Internship----4-Months_R260029651) | BMO | Toronto, ON, Canada | 7 days ago |
 | [AI and Quantum Scientist Co-op, N/A](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649-1) | CIBC | Toronto, ON, Canada | 7 days ago |
-| [Data Engineer Intern, N/A](https://pictonmahoney.bamboohr.com/careers/387/) | Picton Mahoney Asset Management | Toronto, ON, Canada | 7 days ago |
-| [Data Engineer Intern, Summer](https://pictonmahoney.bamboohr.com/careers/387) | Picton Mahoney Asset Management | Toronto, ON, Canada | 7 days ago |
 
-### Loose &middot; 113 to review
+### Loose &middot; 124 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Data Associate Intern, Winter 2027](https://lumerate.breezy.hr/p/baf2283496ad/apply) | Lumerate | Canada, Remote in Canada | **Today** |
 | [Software Testing Development Intern, QNX, Winter](https://go.vansh.nyc/Vb) | Blackberry | Ottawa, Canada | **Today** |
 | [Junior Insights &amp; Analytics Co-op, N/A](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Junior-Insights---Analytics-Co-op_2622099-1) | CIBC | Toronto, ON, Canada | Yesterday |
+| [IP Design Intern, N/A](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/IP-Design-Intern_R03322) | Altera | Toronto, ON, Canada | Yesterday |
+| [Data Analyst Co-op, N/A](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Data-Analyst-co-op_2622122) | CIBC | Toronto, ON, Canada | Yesterday |
+| [Quality Engineering Analyst Intern, Winter 2027](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--Quality-Engineering-Analyst--Winter-and-Summer-2027-_JR00128337) | Sun Life | Waterloo, ON, Canada | Yesterday |
+| [Optical Performance Lab Verification and Testing Co-op, Winter 2027](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Performance-Lab-Verification-and-Testing-Co-op_R031991) | Ciena | Ottawa, ON, Canada | Yesterday |
+| [Electronic Reliability Engineer Co-op, Winter 2027](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Electronic-Reliability-Engineer-Co-op--Winter-2027-_R031987) | Ciena | Ottawa, ON, Canada | Yesterday |
+| [Geospatial Product Engineer Intern, N/A](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Geospatial-Product-Engineering-Intern_R58213) | Trimble | Richmond Hill, ON, Canada | Yesterday |
+| [Software Engineering Intern, Summer](https://go.vansh.nyc/Wx) | Uber | Toronto, Canada | Yesterday |
+| [Data Analyst Co-op, Winter](https://go.vansh.nyc/Wy) | CIBC | Toronto, Canada | Yesterday |
+| [Software Analyst Intern, Winter](https://go.vansh.nyc/Wz) | Hitachi | Toronto, Canada | Yesterday |
 | [Junior Insights &amp; Analytics Co-op, N/A](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Junior-Insights---Analytics-Co-op_2622099) | CIBC | Toronto, ON, Canada | Yesterday |
+| [Software Analyst Intern, Winter 2027](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R0148741) | Hitachi | Toronto, ON, Canada | Yesterday |
+| [Data Analyst Co-op, N/A](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Data-Analyst-co-op_2622122-1) | CIBC | Toronto, ON, Canada | Yesterday |
 | [Developer Intern, Summer 2027](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000187114) | Royal Bank of Canada | Toronto, ON, Canada | Yesterday |
 | [CPU Software Intern, Summer](https://go.vansh.nyc/Tm) | NUVACORE | Markham, Canada | Yesterday |
 | [Undergrad Technical Intern, Summer](https://go.vansh.nyc/SU) | Altera | Toronto, Canada | Yesterday |
@@ -178,7 +188,6 @@ _Updated Tuesday 27 October, 14:46 Toronto &middot; 12/13 sources healthy &middo
 | [Analyst Co-op - Enterprise Data and Records, N/A](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Analyst--Enterprise-Data-and-Records-co-op_2621668) | CIBC | Toronto, ON, Canada | 7 days ago |
 | [Product Analyst Co-op, Winter 2027](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Analyst-Co-op_2621541) | CIBC | Toronto, ON, Canada | 7 days ago |
 | [Analyst Co-op - Enterprise Data and Records, N/A](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Analyst--Enterprise-Data-and-Records-co-op_2621668-1) | CIBC | Toronto, ON, Canada | 7 days ago |
-| [Full Stack Software Engineer New Grad](https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52/application?embed=true) | Quora | Remote in USA, Remote in Canada | 7 days ago |
 
 ### Sources
 
@@ -186,17 +195,17 @@ _Updated Tuesday 27 October, 14:46 Toronto &middot; 12/13 sources healthy &middo
 |---|---|---|
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
-| Canadian-Tech-Internships-2027 \[tracker\] | 252 | ok |
-| Cohere \[ashby\] | 116 | ok |
+| Canadian-Tech-Internships-2027 \[tracker\] | 265 | ok |
+| Cohere \[ashby\] | 117 | ok |
 | Faire \[greenhouse\] | 67 | ok |
-| New-Grad-Positions \[tracker\] | 2926 | ok |
-| Summer2027-Internships \[tracker\] | 4879 | ok |
-| Tenstorrent \[greenhouse\] | 119 | ok |
+| New-Grad-Positions \[tracker\] | 2955 | ok |
+| Summer2027-Internships \[tracker\] | 4916 | ok |
+| Tenstorrent \[greenhouse\] | 120 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 94 | ok |
-| Wealthsimple \[ashby\] | 39 | ok |
+| Wealthsimple \[ashby\] | 40 | ok |
 | Xanadu \[html\] | - | ok |
-| vansh-Summer2027 \[tracker\] | 1534 | ok |
+| vansh-Summer2027 \[tracker\] | 1553 | ok |
 
 <!-- radar:listings:end -->
 
