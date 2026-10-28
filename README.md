@@ -32,9 +32,9 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Wednesday 28 October, 12:41 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Wednesday 28 October, 17:42 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 16 AI/ML matches
+### Strict &middot; 15 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -53,7 +53,6 @@ _Updated Wednesday 28 October, 12:41 Toronto &middot; 12/13 sources healthy &mid
 | [Machine Learning Engineer Co-op, Winter](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721) | CIBC | Toronto, ON, Canada | 7 days ago |
 | [Machine Learning Engineer Co-op, N/A](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721-1) | CIBC | Toronto, ON, Canada | 7 days ago |
 | [Edge AI and Display Hardware Architecture Intern, Summer](https://qualcomm.eightfold.ai/careers/job/446721661830) | Qualcomm | Markham, ON, Canada | 7 days ago |
-| [AI Engineer Co-op, Winter](https://go.vansh.nyc/Db) | Themis Intelligence | Mississauga, Canada | 7 days ago |
 
 ### Loose &middot; 123 to review
 
@@ -192,14 +191,14 @@ _Updated Wednesday 28 October, 12:41 Toronto &middot; 12/13 sources healthy &mid
 | Canadian-Tech-Internships-2027 \[tracker\] | 285 | ok |
 | Cohere \[ashby\] | 118 | ok |
 | Faire \[greenhouse\] | 66 | ok |
-| New-Grad-Positions \[tracker\] | 3014 | ok |
-| Summer2027-Internships \[tracker\] | 4988 | ok |
+| New-Grad-Positions \[tracker\] | 2985 | ok |
+| Summer2027-Internships \[tracker\] | 4941 | ok |
 | Tenstorrent \[greenhouse\] | 123 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 94 | ok |
-| Wealthsimple \[ashby\] | 41 | ok |
+| Wealthsimple \[ashby\] | 39 | ok |
 | Xanadu \[html\] | - | ok |
-| vansh-Summer2027 \[tracker\] | 1567 | ok |
+| vansh-Summer2027 \[tracker\] | 1550 | ok |
 
 <!-- radar:listings:end -->
 
