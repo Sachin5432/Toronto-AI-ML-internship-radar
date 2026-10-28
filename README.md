@@ -32,9 +32,9 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Tuesday 27 October, 18:59 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Tuesday 27 October, 22:20 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 21 AI/ML matches
+### Strict &middot; 17 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -55,15 +55,13 @@ _Updated Tuesday 27 October, 18:59 Toronto &middot; 12/13 sources healthy &middo
 | [Edge AI and Display Hardware Architecture Intern, Summer](https://qualcomm.eightfold.ai/careers/job/446721661830) | Qualcomm | Markham, ON, Canada | 6 days ago |
 | [AI Engineer Co-op, Winter](https://go.vansh.nyc/Db) | Themis Intelligence | Mississauga, Canada | 6 days ago |
 | [AI and Quantum Scientist Co-op, Winter](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649) | CIBC | Toronto, ON | 6 days ago |
-| [Data &amp; AI Analyst Co-op Intern, Winter 2027](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data---AI-Analyst--Winter-2027--Co-op-Internship----4-Months_R260029651) | Bank of Montreal | Toronto, ON, Canada | 7 days ago |
-| [AI and Quantum Scientist Co-op, N/A](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649) | CIBC | Toronto, ON, Canada | 7 days ago |
-| [Data &amp; AI Analyst Co-op, Winter](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Data---AI-Analyst--Winter-2027--Co-op-Internship----4-Months_R260029651) | BMO | Toronto, ON, Canada | 7 days ago |
-| [AI and Quantum Scientist Co-op, N/A](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649-1) | CIBC | Toronto, ON, Canada | 7 days ago |
 
-### Loose &middot; 124 to review
+### Loose &middot; 123 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [CPU Software Intern, N/A](https://jobs.lever.co/nuvacore/f167579a-db4b-4f85-91b9-e0bfb444a37c/apply) | NUVACORE | Markham, ON, Canada | **Today** |
+| [Software Engineer Intern, N/A](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304178) | Uber | Toronto, ON, Canada | **Today** |
 | [Data Associate Intern, Winter 2027](https://lumerate.breezy.hr/p/baf2283496ad/apply) | Lumerate | Canada, Remote in Canada | **Today** |
 | [Software Testing Development Intern, QNX, Winter](https://go.vansh.nyc/Vb) | Blackberry | Ottawa, Canada | **Today** |
 | [Junior Insights &amp; Analytics Co-op, N/A](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Junior-Insights---Analytics-Co-op_2622099-1) | CIBC | Toronto, ON, Canada | Yesterday |
@@ -185,9 +183,6 @@ _Updated Tuesday 27 October, 18:59 Toronto &middot; 12/13 sources healthy &middo
 | [Display Systems Engineer Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721661677) | Qualcomm | Markham, ON, Canada | 6 days ago |
 | [Display Systems Engineer Intern, Summer](https://qualcomm.eightfold.ai/careers/job/446721661677) | Qualcomm | Markham, ON, Canada | 6 days ago |
 | [Software Engineer Co-op, Data, Winter](https://go.vansh.nyc/Da) | Themis Intelligence | Mississauga, Canada | 6 days ago |
-| [Analyst Co-op - Enterprise Data and Records, N/A](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Analyst--Enterprise-Data-and-Records-co-op_2621668) | CIBC | Toronto, ON, Canada | 7 days ago |
-| [Product Analyst Co-op, Winter 2027](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Analyst-Co-op_2621541) | CIBC | Toronto, ON, Canada | 7 days ago |
-| [Analyst Co-op - Enterprise Data and Records, N/A](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Analyst--Enterprise-Data-and-Records-co-op_2621668-1) | CIBC | Toronto, ON, Canada | 7 days ago |
 
 ### Sources
 
@@ -195,17 +190,17 @@ _Updated Tuesday 27 October, 18:59 Toronto &middot; 12/13 sources healthy &middo
 |---|---|---|
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
-| Canadian-Tech-Internships-2027 \[tracker\] | 265 | ok |
+| Canadian-Tech-Internships-2027 \[tracker\] | 287 | ok |
 | Cohere \[ashby\] | 117 | ok |
 | Faire \[greenhouse\] | 67 | ok |
-| New-Grad-Positions \[tracker\] | 2955 | ok |
-| Summer2027-Internships \[tracker\] | 4916 | ok |
-| Tenstorrent \[greenhouse\] | 120 | ok |
+| New-Grad-Positions \[tracker\] | 2998 | ok |
+| Summer2027-Internships \[tracker\] | 4964 | ok |
+| Tenstorrent \[greenhouse\] | 121 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 94 | ok |
-| Wealthsimple \[ashby\] | 40 | ok |
+| Wealthsimple \[ashby\] | 41 | ok |
 | Xanadu \[html\] | - | ok |
-| vansh-Summer2027 \[tracker\] | 1553 | ok |
+| vansh-Summer2027 \[tracker\] | 1563 | ok |
 
 <!-- radar:listings:end -->
 
