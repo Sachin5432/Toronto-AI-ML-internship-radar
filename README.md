@@ -32,7 +32,7 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Thursday 29 October, 04:35 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Thursday 29 October, 12:13 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 12 AI/ML matches
 
@@ -51,11 +51,14 @@ _Updated Thursday 29 October, 04:35 Toronto &middot; 12/13 sources healthy &midd
 | [Data Engineer Early Career](https://amazon.jobs/en/jobs/10559101/data-engineer-early-career-2026-can) | Amazon | Toronto, ON, Canada | 7 days ago |
 | [AI and DSP Applications Engineer Intern, Summer](https://qualcomm.eightfold.ai/careers/job/446721686396) | Qualcomm | Markham, Canada | 7 days ago |
 
-### Loose &middot; 104 to review
+### Loose &middot; 106 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
 | [Software Engineering Co-op, Winter](https://go.vansh.nyc/YN) | L3Harris Technologies | Waterdown, Canada | **Today** |
+| [Quantitative Trading Analyst Co-op, Summer 2027](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657) | Bank of Montreal | Toronto, ON, Canada | Yesterday |
+| [Model Risk Intern, Winter 2027](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Model-Risk-Intern--4-Months-_R-0000185788-3) | Royal Bank of Canada | Toronto, ON, Canada | Yesterday |
+| [Quantitative Trading Analyst Co-op, Summer](https://go.vansh.nyc/Z0) | Bank of Montreal | Toronto, Canada | Yesterday |
 | [Deep Learning Research Intern - Interim Engineering Intern - Systems, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721828828) | Qualcomm | Markham, ON, Canada | Yesterday |
 | [CPU Software Intern, N/A](https://jobs.lever.co/nuvacore/f167579a-db4b-4f85-91b9-e0bfb444a37c/apply) | NUVACORE | Markham, ON, Canada | 2 days ago |
 | [Operations &amp; Data Analyst Co-op, N/A](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Operations---Data-Analyst-Co-op--8-Months-_JR26091348) | Manulife Financial | Toronto, ON, Canada, Waterloo, ON, Canada | 2 days ago |
@@ -158,7 +161,6 @@ _Updated Thursday 29 October, 04:35 Toronto &middot; 12/13 sources healthy &midd
 | [Developer Intern - Front-End Platform, Winter 2027](https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37/application?embed=true) | 1Password | Remote in USA, Remote in Canada | 7 days ago |
 | [Software Engineering Intern, N/A](https://jobs.ashbyhq.com/veeda-ai/84dfad5c-d790-4c4a-9411-40b676b1abbb/application?embed=true) | Veeda AI | Toronto, ON, Canada | 7 days ago |
 | [Software Engineering Intern, Summer](https://jobs.ashbyhq.com/veeda-ai/84dfad5c-d790-4c4a-9411-40b676b1abbb/application?embed=true) | Veeda AI | Toronto, Canada | 7 days ago |
-| [Marketing Analytics Intern, N/A](https://job-boards.greenhouse.io/kensingtontours/jobs/5270002007) | Kensington | Toronto, ON, Canada | 7 days ago |
 
 ### Sources
 
@@ -166,17 +168,17 @@ _Updated Thursday 29 October, 04:35 Toronto &middot; 12/13 sources healthy &midd
 |---|---|---|
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
-| Canadian-Tech-Internships-2027 \[tracker\] | 285 | ok |
+| Canadian-Tech-Internships-2027 \[tracker\] | 281 | ok |
 | Cohere \[ashby\] | 119 | ok |
-| Faire \[greenhouse\] | 67 | ok |
-| New-Grad-Positions \[tracker\] | 3060 | ok |
-| Summer2027-Internships \[tracker\] | 5029 | ok |
+| Faire \[greenhouse\] | 68 | ok |
+| New-Grad-Positions \[tracker\] | 3084 | ok |
+| Summer2027-Internships \[tracker\] | 5098 | ok |
 | Tenstorrent \[greenhouse\] | 123 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 94 | ok |
-| Wealthsimple \[ashby\] | 38 | ok |
+| Wealthsimple \[ashby\] | 39 | ok |
 | Xanadu \[html\] | - | ok |
-| vansh-Summer2027 \[tracker\] | 1583 | ok |
+| vansh-Summer2027 \[tracker\] | 1588 | ok |
 
 <!-- radar:listings:end -->
 
