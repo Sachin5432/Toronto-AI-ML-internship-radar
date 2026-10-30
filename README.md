@@ -32,7 +32,7 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Friday 30 October, 10:17 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Friday 30 October, 15:56 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 11 AI/ML matches
 
@@ -50,10 +50,12 @@ _Updated Friday 30 October, 10:17 Toronto &middot; 12/13 sources healthy &middot
 | [AI Scientist Co-op, N/A](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-Scientist-Co-op_2622058) | CIBC | Toronto, ON, Canada | 5 days ago |
 | [AI Scientist Co-op, N/A](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/AI-Scientist-Co-op_2622058-1) | CIBC | Toronto, ON, Canada | 5 days ago |
 
-### Loose &middot; 82 to review
+### Loose &middot; 81 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Hardware Design Engineer Intern, Summer](https://go.vansh.nyc/10W) | Altera | Toronto, Canada | **Today** |
+| [FPGA Development Tools Intern, Summer](https://go.vansh.nyc/10V) | Altera | Toronto, Canada | **Today** |
 | [FPGA Software Tool Developer Co-op, Summer](https://go.vansh.nyc/10n) | L3Harris Technologies | Waterdown, Canada | Yesterday |
 | [Soft IP Engineer Co-op Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721862542) | Qualcomm | Ottawa, ON, Canada | Yesterday |
 | [Soft IP Engineer Co-op, Summer](https://go.vansh.nyc/10m) | Qualcomm | Ottawa, Canada | Yesterday |
@@ -133,9 +135,6 @@ _Updated Friday 30 October, 10:17 Toronto &middot; 12/13 sources healthy &middot
 | [Automated Test Engineering Intern, Summer](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Automated-Test-Engineering-Intern--16-Month-Internship-_R58004) | Trimble | Richmond Hill, Canada | 7 days ago |
 | [AI Engineer Intern - Enterprise Technology Services, Summer 2027](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015552) | American Express | Toronto, ON, Canada | 7 days ago |
 | [MScAC Intern, Summer 2027](https://jobs.lever.co/bosonai/3b66f322-55eb-4c4b-9b36-028dfcdd85e9/apply) | Boson Ai | Toronto, ON, Canada | 7 days ago |
-| [Developer Intern - Developer Interfaces, Winter 2027](https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39/application?embed=true) | 1Password | Remote in USA, Remote in Canada | 7 days ago |
-| [Product Management Intern - End User Experience, Winter 2027](https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003/application?embed=true) | 1Password | Remote in USA, Remote in Canada | 7 days ago |
-| [Developer Intern - Credential Brokering, Winter 2027](https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba/application?embed=true) | 1Password | Remote in USA, Remote in Canada | 7 days ago |
 
 ### Sources
 
@@ -143,17 +142,17 @@ _Updated Friday 30 October, 10:17 Toronto &middot; 12/13 sources healthy &middot
 |---|---|---|
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
-| Canadian-Tech-Internships-2027 \[tracker\] | 301 | ok |
+| Canadian-Tech-Internships-2027 \[tracker\] | 295 | ok |
 | Cohere \[ashby\] | 122 | ok |
 | Faire \[greenhouse\] | 67 | ok |
-| New-Grad-Positions \[tracker\] | 3123 | ok |
-| Summer2027-Internships \[tracker\] | 5101 | ok |
-| Tenstorrent \[greenhouse\] | 122 | ok |
+| New-Grad-Positions \[tracker\] | 3119 | ok |
+| Summer2027-Internships \[tracker\] | 5063 | ok |
+| Tenstorrent \[greenhouse\] | 124 | ok |
 | Vector Institute \[html\] | 32 | ok |
-| Waabi \[lever\] | 94 | ok |
-| Wealthsimple \[ashby\] | 39 | ok |
+| Waabi \[lever\] | 93 | ok |
+| Wealthsimple \[ashby\] | 42 | ok |
 | Xanadu \[html\] | - | ok |
-| vansh-Summer2027 \[tracker\] | 1620 | ok |
+| vansh-Summer2027 \[tracker\] | 1627 | ok |
 
 <!-- radar:listings:end -->
 
