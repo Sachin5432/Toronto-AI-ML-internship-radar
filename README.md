@@ -32,12 +32,17 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Friday 30 October, 15:56 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Friday 30 October, 19:52 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 11 AI/ML matches
+### Strict &middot; 16 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Full-stack AI Developer Intern, N/A](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045792) | Revvity | Ontario, Canada | Yesterday |
+| [Full-stack AI Developer Intern, N/A](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045794) | Revvity | Ontario, Canada | Yesterday |
+| [Full-stack AI Developer Intern, N/A](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045793) | Revvity | Ontario, Canada | Yesterday |
+| [Full-stack AI Developer Intern, N/A](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045791) | Revvity | Ontario, Canada | Yesterday |
+| [Full-stack AI Developer Intern, N/A](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045795) | Revvity | Ontario, Canada | Yesterday |
 | [AI Software Engineering Co-op, Summer](https://go.vansh.nyc/ZK) | Qualcomm | Toronto, Canada | Yesterday |
 | [AI Software Systems Co-op, Summer](https://go.vansh.nyc/ZL) | Qualcomm | Toronto, Canada | Yesterday |
 | [Deep Learning Research Intern, Embodied AI Systems, Summer](https://go.vansh.nyc/ZM) | Qualcomm | Markham, Canada | Yesterday |
@@ -50,15 +55,29 @@ _Updated Friday 30 October, 15:56 Toronto &middot; 12/13 sources healthy &middot
 | [AI Scientist Co-op, N/A](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-Scientist-Co-op_2622058) | CIBC | Toronto, ON, Canada | 5 days ago |
 | [AI Scientist Co-op, N/A](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/AI-Scientist-Co-op_2622058-1) | CIBC | Toronto, ON, Canada | 5 days ago |
 
-### Loose &middot; 81 to review
+### Loose &middot; 93 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [High-Speed Electrical and Optical Systems Validation Co-op Intern - Interim Engineering Intern - HW, Winter 2027](https://qualcomm.eightfold.ai/careers/job/446721874877) | Qualcomm | Ottawa, ON, Canada | **Today** |
+| [Direct Channel Operations Co-op Intern, Winter 2027](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9470) | Definity Financial | Toronto, ON, Canada | **Today** |
 | [Hardware Design Engineer Intern, Summer](https://go.vansh.nyc/10W) | Altera | Toronto, Canada | **Today** |
 | [FPGA Development Tools Intern, Summer](https://go.vansh.nyc/10V) | Altera | Toronto, Canada | **Today** |
+| [PhD Machine Learning Engineer Intern, Summer 2027](https://stripe.com/jobs/search?gh_jid=8328664) | Stripe | Toronto, ON, Canada | **Today** |
+| [Machine Learning Engineer Intern, Summer 2027](https://stripe.com/jobs/search?gh_jid=8333122) | Stripe | Toronto, ON, Canada | **Today** |
 | [FPGA Software Tool Developer Co-op, Summer](https://go.vansh.nyc/10n) | L3Harris Technologies | Waterdown, Canada | Yesterday |
 | [Soft IP Engineer Co-op Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721862542) | Qualcomm | Ottawa, ON, Canada | Yesterday |
 | [Soft IP Engineer Co-op, Summer](https://go.vansh.nyc/10m) | Qualcomm | Ottawa, Canada | Yesterday |
+| [Project Analyst Co-op, Winter 2027](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Analyst-Co-op--Winter-2027_2622544) | CIBC | Toronto, ON, Canada | Yesterday |
+| [Mixed Signal Designer Intern, N/A](https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-Canada/Mixed-Signal-Designer-Intern_R031989) | Ciena | Remote in Canada | Yesterday |
+| [Aviation Predictive Analytics Co-op, N/A](https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Aviation-Predictive-Analytics-Co-op-Student_JR-8599) | NAV CANADA | Ottawa, ON, Canada | Yesterday |
+| [FPGA Development Tools Intern, N/A](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Development-Tools---Intern_R03394) | Altera | Toronto, ON, Canada | Yesterday |
+| [Hardware Design Engineer Intern, N/A](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Hardware-Design-Engineer---Intern_R03367) | Altera | Toronto, ON, Canada | Yesterday |
+| [Front End Developer Student Intern, Winter 2027](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Front-End-Developer-Student_R26_00665) | OLG | Toronto, ON, Canada, Sault Ste. Marie, ON, Canada | Yesterday |
+| [Full-Stack AI Developer Intern, Summer](https://go.vansh.nyc/116) | Revvity | Canada | Yesterday |
+| [Aviation Predictive Analytics Co-op, Winter](https://go.vansh.nyc/118) | NAV CANADA | Ottawa, Canada | Yesterday |
+| [Front End Developer Intern, Winter](https://go.vansh.nyc/11s) | OLG | Toronto, Canada, Sault Ste. Marie, Canada | Yesterday |
+| [Project Analyst Co-op, Winter 2027](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Product-Analyst-Co-op--Winter-2027_2622544-1) | CIBC | Toronto, ON, Canada | Yesterday |
 | [Technical Engineer Intern, Summer 2027](https://synopsys.avature.net/careers/JobDetail/19523) | Synopsys | Ottawa, ON, Canada | Yesterday |
 | [Technical Engineer Intern, Summer](https://go.vansh.nyc/10b) | Synopsys | Ottawa, Canada | Yesterday |
 | [Computer Science Co-op, Winter](https://go.vansh.nyc/10a) | Waterworth | Victoria, Canada | Yesterday |
@@ -133,8 +152,6 @@ _Updated Friday 30 October, 15:56 Toronto &middot; 12/13 sources healthy &middot
 | [Software Engineer Intern, N/A](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Intern_R03382) | Altera | Toronto, ON, Canada | 5 days ago |
 | [Software Developer Co-op - Front End, Winter 2027](https://jobs.intuit.com/job/toronto/winter-2027-software-developer-co-op-front-end-8-months/27595/102435217392) | Intuit | Toronto, ON, Canada | 5 days ago |
 | [Automated Test Engineering Intern, Summer](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Automated-Test-Engineering-Intern--16-Month-Internship-_R58004) | Trimble | Richmond Hill, Canada | 7 days ago |
-| [AI Engineer Intern - Enterprise Technology Services, Summer 2027](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015552) | American Express | Toronto, ON, Canada | 7 days ago |
-| [MScAC Intern, Summer 2027](https://jobs.lever.co/bosonai/3b66f322-55eb-4c4b-9b36-028dfcdd85e9/apply) | Boson Ai | Toronto, ON, Canada | 7 days ago |
 
 ### Sources
 
@@ -145,14 +162,14 @@ _Updated Friday 30 October, 15:56 Toronto &middot; 12/13 sources healthy &middot
 | Canadian-Tech-Internships-2027 \[tracker\] | 295 | ok |
 | Cohere \[ashby\] | 122 | ok |
 | Faire \[greenhouse\] | 67 | ok |
-| New-Grad-Positions \[tracker\] | 3119 | ok |
-| Summer2027-Internships \[tracker\] | 5063 | ok |
+| New-Grad-Positions \[tracker\] | 3151 | ok |
+| Summer2027-Internships \[tracker\] | 5175 | ok |
 | Tenstorrent \[greenhouse\] | 124 | ok |
 | Vector Institute \[html\] | 32 | ok |
-| Waabi \[lever\] | 93 | ok |
+| Waabi \[lever\] | 92 | ok |
 | Wealthsimple \[ashby\] | 42 | ok |
 | Xanadu \[html\] | - | ok |
-| vansh-Summer2027 \[tracker\] | 1627 | ok |
+| vansh-Summer2027 \[tracker\] | 1635 | ok |
 
 <!-- radar:listings:end -->
 
