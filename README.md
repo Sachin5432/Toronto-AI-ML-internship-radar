@@ -32,12 +32,14 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Saturday 31 October, 17:40 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Saturday 31 October, 21:15 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 16 AI/ML matches
+### Strict &middot; 18 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Software Engineer Co-op, AI, Winter](https://go.vansh.nyc/13D) | Foresters Financial | Toronto, Canada | Yesterday |
+| [AI Engineer Co-op, Winter](https://go.vansh.nyc/13G) | General Magic | Toronto, Canada | Yesterday |
 | [Full-stack AI Developer Intern, N/A](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045792) | Revvity | Ontario, Canada | 2 days ago |
 | [Full-stack AI Developer Intern, N/A](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045794) | Revvity | Ontario, Canada | 2 days ago |
 | [Full-stack AI Developer Intern, N/A](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045793) | Revvity | Ontario, Canada | 2 days ago |
@@ -55,10 +57,15 @@ _Updated Saturday 31 October, 17:40 Toronto &middot; 12/13 sources healthy &midd
 | [AI Scientist Co-op, N/A](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-Scientist-Co-op_2622058) | CIBC | Toronto, ON, Canada | 6 days ago |
 | [AI Scientist Co-op, N/A](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/AI-Scientist-Co-op_2622058-1) | CIBC | Toronto, ON, Canada | 6 days ago |
 
-### Loose &middot; 92 to review
+### Loose &middot; 97 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Junior Security Analyst Co-op, Winter](https://go.vansh.nyc/13B) | BC Pensions | Victoria, Canada | Yesterday |
+| [Software Engineer Co-op, Winter](https://go.vansh.nyc/13E) | Foresters Financial | Toronto, Canada | Yesterday |
+| [Backend Engineer Co-op, Winter](https://go.vansh.nyc/13H) | General Magic | Toronto, Canada | Yesterday |
+| [Software Engineer Co-op, Agents, Winter](https://go.vansh.nyc/13K) | Solink | Remote, Canada | Yesterday |
+| [Agile Software Engineer Co-op, Winter](https://go.vansh.nyc/13L) | TribalScale | Toronto, Canada | Yesterday |
 | [High-Speed Electrical and Optical Systems Validation Co-op Intern - Interim Engineering Intern - HW, Winter 2027](https://qualcomm.eightfold.ai/careers/job/446721874877) | Qualcomm | Ottawa, ON, Canada | Yesterday |
 | [Direct Channel Operations Co-op Intern, Winter 2027](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9470) | Definity Financial | Toronto, ON, Canada | Yesterday |
 | [Hardware Design Engineer Intern, Summer](https://go.vansh.nyc/10W) | Altera | Toronto, Canada | Yesterday |
@@ -158,17 +165,17 @@ _Updated Saturday 31 October, 17:40 Toronto &middot; 12/13 sources healthy &midd
 |---|---|---|
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
-| Canadian-Tech-Internships-2027 \[tracker\] | 293 | ok |
+| Canadian-Tech-Internships-2027 \[tracker\] | 320 | ok |
 | Cohere \[ashby\] | 122 | ok |
 | Faire \[greenhouse\] | 67 | ok |
 | New-Grad-Positions \[tracker\] | 3154 | ok |
-| Summer2027-Internships \[tracker\] | 5176 | ok |
+| Summer2027-Internships \[tracker\] | 5175 | ok |
 | Tenstorrent \[greenhouse\] | 126 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 92 | ok |
 | Wealthsimple \[ashby\] | 42 | ok |
 | Xanadu \[html\] | - | ok |
-| vansh-Summer2027 \[tracker\] | 1642 | ok |
+| vansh-Summer2027 \[tracker\] | 1720 | ok |
 
 <!-- radar:listings:end -->
 
