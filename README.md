@@ -32,7 +32,7 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Sunday 01 November, 02:39 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Sunday 01 November, 10:15 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 18 AI/ML matches
 
@@ -57,7 +57,7 @@ _Updated Sunday 01 November, 02:39 Toronto &middot; 12/13 sources healthy &middo
 | [AI Scientist Co-op, N/A](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-Scientist-Co-op_2622058) | CIBC | Toronto, ON, Canada | 7 days ago |
 | [AI Scientist Co-op, N/A](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/AI-Scientist-Co-op_2622058-1) | CIBC | Toronto, ON, Canada | 7 days ago |
 
-### Loose &middot; 97 to review
+### Loose &middot; 99 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -116,6 +116,8 @@ _Updated Sunday 01 November, 02:39 Toronto &middot; 12/13 sources healthy &middo
 | [Routing/IP Software Engineer New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Engineer----New-Grad_R032006) | Ciena | Ottawa, ON, Canada | 5 days ago |
 | [Software Engineer Intern, N/A](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304178) | Uber | Toronto, ON, Canada | 5 days ago |
 | [Data Associate Intern, Winter 2027](https://lumerate.breezy.hr/p/baf2283496ad/apply) | Lumerate | Canada, Remote in Canada | 5 days ago |
+| [Software Developer Intern, Geotab Vitality, Winter](https://go.vansh.nyc/17F) | Geotab | Oakville, Canada, Toronto, Canada, Waterloo, Canada | 5 days ago |
+| [Software Developer Intern, MyAdmin, Winter](https://go.vansh.nyc/17E) | Geotab | Oakville, Canada, Waterloo, Canada | 5 days ago |
 | [Software Testing Development Intern, QNX, Winter](https://go.vansh.nyc/Vb) | Blackberry | Ottawa, Canada | 5 days ago |
 | [Junior Insights &amp; Analytics Co-op, N/A](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Junior-Insights---Analytics-Co-op_2622099-1) | CIBC | Toronto, ON, Canada | 6 days ago |
 | [IP Design Intern, N/A](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/IP-Design-Intern_R03322) | Altera | Toronto, ON, Canada | 6 days ago |
@@ -168,14 +170,14 @@ _Updated Sunday 01 November, 02:39 Toronto &middot; 12/13 sources healthy &middo
 | Canadian-Tech-Internships-2027 \[tracker\] | 320 | ok |
 | Cohere \[ashby\] | 122 | ok |
 | Faire \[greenhouse\] | 67 | ok |
-| New-Grad-Positions \[tracker\] | 3122 | ok |
-| Summer2027-Internships \[tracker\] | 5119 | ok |
+| New-Grad-Positions \[tracker\] | 3117 | ok |
+| Summer2027-Internships \[tracker\] | 5132 | ok |
 | Tenstorrent \[greenhouse\] | 126 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 92 | ok |
 | Wealthsimple \[ashby\] | 42 | ok |
 | Xanadu \[html\] | - | ok |
-| vansh-Summer2027 \[tracker\] | 1720 | ok |
+| vansh-Summer2027 \[tracker\] | 1846 | ok |
 
 <!-- radar:listings:end -->
 
