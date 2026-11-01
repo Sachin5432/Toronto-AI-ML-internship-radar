@@ -32,7 +32,7 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Sunday 01 November, 14:46 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Sunday 01 November, 18:39 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 18 AI/ML matches
 
@@ -61,6 +61,7 @@ _Updated Sunday 01 November, 14:46 Toronto &middot; 12/13 sources healthy &middo
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Electrical Intern, N/A](https://job-boards.greenhouse.io/spaceium/jobs/4475283009) | Spaceium | Ottawa, ON, Canada | **Today** |
 | [Junior Security Analyst Co-op, Winter](https://go.vansh.nyc/13B) | BC Pensions | Victoria, Canada | 2 days ago |
 | [Software Engineer Co-op, Winter](https://go.vansh.nyc/13E) | Foresters Financial | Toronto, Canada | 2 days ago |
 | [Backend Engineer Co-op, Winter](https://go.vansh.nyc/13H) | General Magic | Toronto, Canada | 2 days ago |
@@ -159,7 +160,6 @@ _Updated Sunday 01 November, 14:46 Toronto &middot; 12/13 sources healthy &middo
 | [Governance Solutions Analyst Co-op, N/A](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Governance-Solutions-Analyst-Co-op_2622047-2) | CIBC | Toronto, ON, Canada | 7 days ago |
 | [Business Analyst Co-op, N/A](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Business-Analyst-co-op_2622052-1) | CIBC | Toronto, ON, Canada | 7 days ago |
 | [Software Engineer Intern, N/A](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Intern_R03382) | Altera | Toronto, ON, Canada | 7 days ago |
-| [Software Developer Co-op - Front End, Winter 2027](https://jobs.intuit.com/job/toronto/winter-2027-software-developer-co-op-front-end-8-months/27595/102435217392) | Intuit | Toronto, ON, Canada | 7 days ago |
 
 ### Sources
 
@@ -170,14 +170,14 @@ _Updated Sunday 01 November, 14:46 Toronto &middot; 12/13 sources healthy &middo
 | Canadian-Tech-Internships-2027 \[tracker\] | 317 | ok |
 | Cohere \[ashby\] | 120 | ok |
 | Faire \[greenhouse\] | 67 | ok |
-| New-Grad-Positions \[tracker\] | 3122 | ok |
-| Summer2027-Internships \[tracker\] | 5137 | ok |
+| New-Grad-Positions \[tracker\] | 3120 | ok |
+| Summer2027-Internships \[tracker\] | 5113 | ok |
 | Tenstorrent \[greenhouse\] | 126 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 92 | ok |
 | Wealthsimple \[ashby\] | 42 | ok |
 | Xanadu \[html\] | - | ok |
-| vansh-Summer2027 \[tracker\] | 1854 | ok |
+| vansh-Summer2027 \[tracker\] | 1857 | ok |
 
 <!-- radar:listings:end -->
 
