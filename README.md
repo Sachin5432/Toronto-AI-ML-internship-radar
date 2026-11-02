@@ -32,9 +32,9 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Monday 02 November, 11:18 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Monday 02 November, 18:54 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 13 AI/ML matches
+### Strict &middot; 12 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -50,12 +50,14 @@ _Updated Monday 02 November, 11:18 Toronto &middot; 12/13 sources healthy &middo
 | [Deep Learning Research Intern, Embodied AI Systems, Summer](https://go.vansh.nyc/ZM) | Qualcomm | Markham, Canada | 4 days ago |
 | [Deep Learning Research Intern, Summer](https://go.vansh.nyc/YP) | Qualcomm | Markham, Canada | 4 days ago |
 | [Deep Learning Research Intern, Interim Engineering Systems, Summer](https://go.vansh.nyc/Yh) | Qualcomm | Markham, Canada | 5 days ago |
-| [AI Scientist Co-op, Winter](https://go.vansh.nyc/T1) | CIBC | Toronto, Canada | 7 days ago |
 
-### Loose &middot; 84 to review
+### Loose &middot; 78 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [UX/UI Designer Co-op Intern, Winter 2027](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951-1) | Bank of Montreal | Toronto, ON, Canada | **Today** |
+| [UX/UI Designer Co-op Intern, Winter 2027](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951) | Bank of Montreal | Toronto, ON, Canada | **Today** |
+| [SoC Engineering Intern, Summer](https://go.vansh.nyc/1a0) | Qualcomm | Markham, Canada | **Today** |
 | [Test Engineer Intern, N/A](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Test-Engineering-Intern_REQ3667) | Semtech | Burlington, ON, Canada | Yesterday |
 | [Product Engineer Intern, N/A](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Product-Engineering-Intern_REQ3668-1) | Semtech | Burlington, ON, Canada | Yesterday |
 | [Electrical Intern, N/A](https://job-boards.greenhouse.io/spaceium/jobs/4475283009) | Spaceium | Ottawa, ON, Canada | Yesterday |
@@ -131,15 +133,6 @@ _Updated Monday 02 November, 11:18 Toronto &middot; 12/13 sources healthy &middo
 | [Junior Insights &amp; Analytics Co-op, N/A](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Junior-Insights---Analytics-Co-op_2622099) | CIBC | Toronto, ON, Canada | 7 days ago |
 | [Software Analyst Intern, Winter 2027](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R0148741) | Hitachi | Toronto, ON, Canada | 7 days ago |
 | [Data Analyst Co-op, N/A](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Data-Analyst-co-op_2622122-1) | CIBC | Toronto, ON, Canada | 7 days ago |
-| [Developer Intern, Summer 2027](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000187114) | Royal Bank of Canada | Toronto, ON, Canada | 7 days ago |
-| [CPU Software Intern, Summer](https://go.vansh.nyc/Tm) | NUVACORE | Markham, Canada | 7 days ago |
-| [Undergrad Technical Intern, Summer](https://go.vansh.nyc/SU) | Altera | Toronto, Canada | 7 days ago |
-| [eReader Quality Assurance Intern, Winter](https://go.vansh.nyc/SF) | Rakuten International | Toronto, Canada | 7 days ago |
-| [Performance Test Engineer Intern, Winter](https://go.vansh.nyc/SG) | SOTI | Mississauga, Canada | 7 days ago |
-| [Quality Assurance Specialist Intern, SOTI Connect, Winter](https://go.vansh.nyc/SH) | SOTI | Mississauga, Canada | 7 days ago |
-| [Software Developer Intern, Android, Summer](https://go.vansh.nyc/SI) | SOTI | Mississauga, Canada | 7 days ago |
-| [Software Developer Intern, Server, Summer](https://go.vansh.nyc/SJ) | SOTI | Mississauga, Canada | 7 days ago |
-| [Software Developer Intern, Summer](https://go.vansh.nyc/SK) | Member Solutions | Markham, Canada, Remote, Canada | 7 days ago |
 
 ### Sources
 
@@ -149,15 +142,15 @@ _Updated Monday 02 November, 11:18 Toronto &middot; 12/13 sources healthy &middo
 | BenchSci \[lever\] | - | ok |
 | Canadian-Tech-Internships-2027 \[tracker\] | 310 | ok |
 | Cohere \[ashby\] | 120 | ok |
-| Faire \[greenhouse\] | 67 | ok |
-| New-Grad-Positions \[tracker\] | 3121 | ok |
-| Summer2027-Internships \[tracker\] | 5107 | ok |
+| Faire \[greenhouse\] | 64 | ok |
+| New-Grad-Positions \[tracker\] | 3099 | ok |
+| Summer2027-Internships \[tracker\] | 5091 | ok |
 | Tenstorrent \[greenhouse\] | 126 | ok |
 | Vector Institute \[html\] | 32 | ok |
-| Waabi \[lever\] | 91 | ok |
+| Waabi \[lever\] | 94 | ok |
 | Wealthsimple \[ashby\] | 41 | ok |
 | Xanadu \[html\] | - | ok |
-| vansh-Summer2027 \[tracker\] | 1845 | ok |
+| vansh-Summer2027 \[tracker\] | 1909 | ok |
 
 <!-- radar:listings:end -->
 
