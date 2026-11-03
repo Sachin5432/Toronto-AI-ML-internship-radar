@@ -32,7 +32,7 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Tuesday 03 November, 10:15 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Tuesday 03 November, 16:05 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 15 AI/ML matches
 
@@ -54,7 +54,7 @@ _Updated Tuesday 03 November, 10:15 Toronto &middot; 12/13 sources healthy &midd
 | [Deep Learning Research Intern, Summer](https://go.vansh.nyc/YP) | Qualcomm | Markham, Canada | 5 days ago |
 | [Deep Learning Research Intern, Interim Engineering Systems, Summer](https://go.vansh.nyc/Yh) | Qualcomm | Markham, Canada | 6 days ago |
 
-### Loose &middot; 70 to review
+### Loose &middot; 68 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -126,8 +126,6 @@ _Updated Tuesday 03 November, 10:15 Toronto &middot; 12/13 sources healthy &midd
 | [Routing/IP Software Engineer New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Engineer----New-Grad_R032006) | Ciena | Ottawa, ON, Canada | 7 days ago |
 | [Software Engineer Intern, N/A](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304178) | Uber | Toronto, ON, Canada | 7 days ago |
 | [Data Associate Intern, Winter 2027](https://lumerate.breezy.hr/p/baf2283496ad/apply) | Lumerate | Canada, Remote in Canada | 7 days ago |
-| [Software Developer Intern, Geotab Vitality, Winter](https://go.vansh.nyc/17F) | Geotab | Oakville, Canada, Toronto, Canada, Waterloo, Canada | 7 days ago |
-| [Software Developer Intern, MyAdmin, Winter](https://go.vansh.nyc/17E) | Geotab | Oakville, Canada, Waterloo, Canada | 7 days ago |
 
 ### Sources
 
@@ -136,16 +134,16 @@ _Updated Tuesday 03 November, 10:15 Toronto &middot; 12/13 sources healthy &midd
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
 | Canadian-Tech-Internships-2027 \[tracker\] | 302 | ok |
-| Cohere \[ashby\] | 119 | ok |
-| Faire \[greenhouse\] | 64 | ok |
-| New-Grad-Positions \[tracker\] | 3097 | ok |
-| Summer2027-Internships \[tracker\] | 5137 | ok |
+| Cohere \[ashby\] | 118 | ok |
+| Faire \[greenhouse\] | 65 | ok |
+| New-Grad-Positions \[tracker\] | 3070 | ok |
+| Summer2027-Internships \[tracker\] | 5118 | ok |
 | Tenstorrent \[greenhouse\] | 126 | ok |
 | Vector Institute \[html\] | 32 | ok |
-| Waabi \[lever\] | 94 | ok |
+| Waabi \[lever\] | 92 | ok |
 | Wealthsimple \[ashby\] | 42 | ok |
 | Xanadu \[html\] | - | ok |
-| vansh-Summer2027 \[tracker\] | 2025 | ok |
+| vansh-Summer2027 \[tracker\] | 2021 | ok |
 
 <!-- radar:listings:end -->
 
