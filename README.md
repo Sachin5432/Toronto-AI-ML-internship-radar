@@ -32,12 +32,14 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Wednesday 04 November, 04:23 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Wednesday 04 November, 13:02 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 16 AI/ML matches
+### Strict &middot; 18 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Applied AI Test Engineer Intern, Summer](https://go.vansh.nyc/1gu) | Plusgrade | Toronto, Canada | **Today** |
+| [Applied AI Engineer Intern, Summer](https://go.vansh.nyc/1gq) | Plusgrade | Toronto, Canada | **Today** |
 | [AI Engineer Co-op, Capital Markets, Global Equities, Summer](https://go.vansh.nyc/1fV) | Royal Bank of Canada | Toronto, Canada | **Today** |
 | [Robotics Research Co-op, Data Engineering, Winter](https://go.vansh.nyc/1dj) | Rockwell Automation | Waterloo, Canada | Yesterday |
 | [AI Co-op, Winter](https://go.vansh.nyc/1dA) | Manulife Financial | Toronto, Canada | 2 days ago |
@@ -55,11 +57,14 @@ _Updated Wednesday 04 November, 04:23 Toronto &middot; 12/13 sources healthy &mi
 | [Deep Learning Research Intern, Summer](https://go.vansh.nyc/YP) | Qualcomm | Markham, Canada | 6 days ago |
 | [Deep Learning Research Intern, Interim Engineering Systems, Summer](https://go.vansh.nyc/Yh) | Qualcomm | Markham, Canada | 7 days ago |
 
-### Loose &middot; 73 to review
+### Loose &middot; 76 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Junior Cybersecurity Operations Analyst Intern, Winter](https://go.vansh.nyc/1gM) | TMX Group | Toronto, Canada | **Today** |
+| [UI/UX Design and Frontend Engineer Intern, Summer](https://go.vansh.nyc/1gp) | Plusgrade | Toronto, Canada | **Today** |
 | [Student Cyber Security Analyst Intern, Winter](https://go.vansh.nyc/1fU) | MDA | Brampton, Canada | **Today** |
+| [Jr. Security Analyst Student Intern, Winter](https://go.vansh.nyc/1gt) | TMX Group | Toronto, Canada | Yesterday |
 | [Software Developer Intern, Summer](https://go.vansh.nyc/1fe) | Blackberry | Ottawa, Canada | Yesterday |
 | [Software Development Intern, Summer](https://go.vansh.nyc/1ff) | Blackberry | Ottawa, Canada | Yesterday |
 | [Photonics Test Engineer Intern, N/A](https://xanadu.careers.hibob.com/jobs/fa179125-845b-4a10-a648-75c1cc20bda4) | Xanadu | Toronto, ON, Canada | Yesterday |
@@ -139,17 +144,17 @@ _Updated Wednesday 04 November, 04:23 Toronto &middot; 12/13 sources healthy &mi
 |---|---|---|
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
-| Canadian-Tech-Internships-2027 \[tracker\] | 302 | ok |
-| Cohere \[ashby\] | 119 | ok |
-| Faire \[greenhouse\] | 65 | ok |
-| New-Grad-Positions \[tracker\] | 3105 | ok |
-| Summer2027-Internships \[tracker\] | 5141 | ok |
-| Tenstorrent \[greenhouse\] | 127 | ok |
+| Canadian-Tech-Internships-2027 \[tracker\] | 296 | ok |
+| Cohere \[ashby\] | 117 | ok |
+| Faire \[greenhouse\] | 66 | ok |
+| New-Grad-Positions \[tracker\] | 3098 | ok |
+| Summer2027-Internships \[tracker\] | 5166 | ok |
+| Tenstorrent \[greenhouse\] | 125 | ok |
 | Vector Institute \[html\] | 32 | ok |
-| Waabi \[lever\] | 92 | ok |
+| Waabi \[lever\] | 91 | ok |
 | Wealthsimple \[ashby\] | 41 | ok |
 | Xanadu \[html\] | - | ok |
-| vansh-Summer2027 \[tracker\] | 2109 | ok |
+| vansh-Summer2027 \[tracker\] | 2127 | ok |
 
 <!-- radar:listings:end -->
 
