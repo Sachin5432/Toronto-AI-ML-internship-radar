@@ -32,7 +32,7 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Tuesday 03 November, 16:05 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Tuesday 03 November, 20:26 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 15 AI/ML matches
 
@@ -54,11 +54,19 @@ _Updated Tuesday 03 November, 16:05 Toronto &middot; 12/13 sources healthy &midd
 | [Deep Learning Research Intern, Summer](https://go.vansh.nyc/YP) | Qualcomm | Markham, Canada | 5 days ago |
 | [Deep Learning Research Intern, Interim Engineering Systems, Summer](https://go.vansh.nyc/Yh) | Qualcomm | Markham, Canada | 6 days ago |
 
-### Loose &middot; 68 to review
+### Loose &middot; 72 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Software Developer Intern, Summer](https://go.vansh.nyc/1fe) | Blackberry | Ottawa, Canada | **Today** |
+| [Software Development Intern, Summer](https://go.vansh.nyc/1ff) | Blackberry | Ottawa, Canada | **Today** |
+| [Photonics Test Engineer Intern, N/A](https://xanadu.careers.hibob.com/jobs/fa179125-845b-4a10-a648-75c1cc20bda4) | Xanadu | Toronto, ON, Canada | **Today** |
 | [Software Developer Co-op, Winter](https://go.vansh.nyc/1co) | Clio | Toronto, Canada, Vancouver, Canada, Calgary, Canada | **Today** |
+| [Software Developer Student Intern, N/A](https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/Software-Developer-Student_20260342) | Blackberry | Ottawa, ON, Canada | Yesterday |
+| [Software Development Co-op, N/A](https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/Software-Development-Student_20260343) | Blackberry | Ottawa, ON, Canada | Yesterday |
+| [Hardware Engineering Co-op, Winter 2027](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineering-Co-op--Winter-2027-_R032054) | Ciena | Ottawa, ON, Canada | Yesterday |
+| [Firmware Developer Co-op, Winter](https://go.vansh.nyc/1fB) | Arlo Technologies | Richmond, Canada | Yesterday |
+| [Data Analyst Intern, Winter 2027](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Analyst-Intern--4-Months-_R-0000188376) | Royal Bank of Canada | Toronto, ON, Canada | Yesterday |
 | [Teardown Lab Co-op, Winter 2027](https://techinsights.applytojob.com/apply/ukjsdhXDr4/Teardown-Lab-Coop-Student-Winter-2027) | TechInsights | Ottawa, ON, Canada | Yesterday |
 | [SoC Engineering Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721914045) | Qualcomm | Markham, ON, Canada | Yesterday |
 | [Verification Engineer Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721913769) | Qualcomm | Toronto, ON, Canada | Yesterday |
@@ -122,10 +130,6 @@ _Updated Tuesday 03 November, 16:05 Toronto &middot; 12/13 sources healthy &midd
 | [Software Developer Intern, Summer 2027](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10611) | SOTI | Mississauga, ON, Canada | 6 days ago |
 | [Deep Learning Research Intern - Interim Engineering Intern - Systems, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721828828) | Qualcomm | Markham, ON, Canada | 6 days ago |
 | [CPU Software Intern, N/A](https://jobs.lever.co/nuvacore/f167579a-db4b-4f85-91b9-e0bfb444a37c/apply) | NUVACORE | Markham, ON, Canada | 7 days ago |
-| [Operations &amp; Data Analyst Co-op, N/A](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Operations---Data-Analyst-Co-op--8-Months-_JR26091348) | Manulife Financial | Toronto, ON, Canada, Waterloo, ON, Canada | 7 days ago |
-| [Routing/IP Software Engineer New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Engineer----New-Grad_R032006) | Ciena | Ottawa, ON, Canada | 7 days ago |
-| [Software Engineer Intern, N/A](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304178) | Uber | Toronto, ON, Canada | 7 days ago |
-| [Data Associate Intern, Winter 2027](https://lumerate.breezy.hr/p/baf2283496ad/apply) | Lumerate | Canada, Remote in Canada | 7 days ago |
 
 ### Sources
 
@@ -134,16 +138,16 @@ _Updated Tuesday 03 November, 16:05 Toronto &middot; 12/13 sources healthy &midd
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
 | Canadian-Tech-Internships-2027 \[tracker\] | 302 | ok |
-| Cohere \[ashby\] | 118 | ok |
+| Cohere \[ashby\] | 119 | ok |
 | Faire \[greenhouse\] | 65 | ok |
-| New-Grad-Positions \[tracker\] | 3070 | ok |
-| Summer2027-Internships \[tracker\] | 5118 | ok |
-| Tenstorrent \[greenhouse\] | 126 | ok |
+| New-Grad-Positions \[tracker\] | 3115 | ok |
+| Summer2027-Internships \[tracker\] | 5147 | ok |
+| Tenstorrent \[greenhouse\] | 127 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 92 | ok |
-| Wealthsimple \[ashby\] | 42 | ok |
+| Wealthsimple \[ashby\] | 41 | ok |
 | Xanadu \[html\] | - | ok |
-| vansh-Summer2027 \[tracker\] | 2021 | ok |
+| vansh-Summer2027 \[tracker\] | 2102 | ok |
 
 <!-- radar:listings:end -->
 
