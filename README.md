@@ -32,12 +32,14 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Thursday 05 November, 01:55 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Thursday 05 November, 10:33 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 18 AI/ML matches
+### Strict &middot; 20 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Data Operations Engineer AI Co-op, Winter](https://go.vansh.nyc/1ib) | Rodan Energy Solutions Inc. | Mississauga, Canada | **Today** |
+| [AI Solutions Specialist Co-op, Winter](https://go.vansh.nyc/1ic) | Rodan Energy Solutions Inc. | Mississauga, Canada | **Today** |
 | [Machine Learning Engineering Intern, Summer](https://go.vansh.nyc/1ho) | Qualcomm | Markham, Canada | Yesterday |
 | [Data Science Intern, Summer](https://go.vansh.nyc/1gR) | Plusgrade | Toronto, Canada | Yesterday |
 | [Applied AI Test Engineer Intern, Summer](https://go.vansh.nyc/1gu) | Plusgrade | Toronto, Canada | Yesterday |
@@ -57,10 +59,14 @@ _Updated Thursday 05 November, 01:55 Toronto &middot; 12/13 sources healthy &mid
 | [AI Software Systems Co-op, Summer](https://go.vansh.nyc/ZL) | Qualcomm | Toronto, Canada | 7 days ago |
 | [Deep Learning Research Intern, Embodied AI Systems, Summer](https://go.vansh.nyc/ZM) | Qualcomm | Markham, Canada | 7 days ago |
 
-### Loose &middot; 69 to review
+### Loose &middot; 74 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Software Development Co-op, Winter](https://go.vansh.nyc/1ie) | TechInsights | Ottawa, Canada | **Today** |
+| [QA Test Automation Co-op, Winter](https://go.vansh.nyc/1if) | TechInsights | Ottawa, Canada | **Today** |
+| [Robotics Software Co-op, Winter](https://go.vansh.nyc/1ih) | 4AG Robotics | Salmon Arm, Canada | **Today** |
+| [Web Software Developer Intern, WFM, Summer](https://go.vansh.nyc/1hJ) | Genesys | Toronto, Canada | **Today** |
 | [Software Engineer Intern, Winter 2027](https://apply.workable.com/datavisor-jobs/j/2FB6A93BF6/apply) | DataVisor | Remote in Canada | Yesterday |
 | [Software Engineer Intern, Winter](https://go.vansh.nyc/1hA) | DataVisor | Remote, Canada | Yesterday |
 | [Display IP FPGA Emulation Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721972361) | Qualcomm | Markham, ON, Canada | Yesterday |
@@ -96,6 +102,7 @@ _Updated Thursday 05 November, 01:55 Toronto &middot; 12/13 sources healthy &mid
 | [UX/UI Designer Co-op Intern, Winter 2027](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951-1) | Bank of Montreal | Toronto, ON, Canada | 3 days ago |
 | [UX/UI Designer Co-op Intern, Winter 2027](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951) | Bank of Montreal | Toronto, ON, Canada | 3 days ago |
 | [SoC Engineering Intern, Summer](https://go.vansh.nyc/1a0) | Qualcomm | Markham, Canada | 3 days ago |
+| [Software Developer 2 – Early Career](https://www.google.com/about/careers/applications/jobs/results/93868335938052806) | Google | Montreal, QC, Canada, Waterloo, ON, Canada | 3 days ago |
 | [Test Engineer Intern, N/A](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Test-Engineering-Intern_REQ3667) | Semtech | Burlington, ON, Canada | 4 days ago |
 | [Product Engineer Intern, N/A](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Product-Engineering-Intern_REQ3668-1) | Semtech | Burlington, ON, Canada | 4 days ago |
 | [Electrical Intern, N/A](https://job-boards.greenhouse.io/spaceium/jobs/4475283009) | Spaceium | Ottawa, ON, Canada | 4 days ago |
@@ -137,17 +144,17 @@ _Updated Thursday 05 November, 01:55 Toronto &middot; 12/13 sources healthy &mid
 |---|---|---|
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
-| Canadian-Tech-Internships-2027 \[tracker\] | 305 | ok |
+| Canadian-Tech-Internships-2027 \[tracker\] | 297 | ok |
 | Cohere \[ashby\] | 118 | ok |
 | Faire \[greenhouse\] | 66 | ok |
-| New-Grad-Positions \[tracker\] | 3107 | ok |
-| Summer2027-Internships \[tracker\] | 5189 | ok |
-| Tenstorrent \[greenhouse\] | 126 | ok |
+| New-Grad-Positions \[tracker\] | 3234 | ok |
+| Summer2027-Internships \[tracker\] | 5377 | ok |
+| Tenstorrent \[greenhouse\] | 125 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 91 | ok |
 | Wealthsimple \[ashby\] | 41 | ok |
 | Xanadu \[html\] | - | ok |
-| vansh-Summer2027 \[tracker\] | 2135 | ok |
+| vansh-Summer2027 \[tracker\] | 2173 | ok |
 
 <!-- radar:listings:end -->
 
