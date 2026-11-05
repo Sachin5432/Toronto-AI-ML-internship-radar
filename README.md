@@ -32,15 +32,16 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Thursday 05 November, 10:33 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Thursday 05 November, 17:04 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 20 AI/ML matches
+### Strict &middot; 21 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
 | [Data Operations Engineer AI Co-op, Winter](https://go.vansh.nyc/1ib) | Rodan Energy Solutions Inc. | Mississauga, Canada | **Today** |
 | [AI Solutions Specialist Co-op, Winter](https://go.vansh.nyc/1ic) | Rodan Energy Solutions Inc. | Mississauga, Canada | **Today** |
 | [Machine Learning Engineering Intern, Summer](https://go.vansh.nyc/1ho) | Qualcomm | Markham, Canada | Yesterday |
+| [AI Intern, Spring](https://go.vansh.nyc/1jf) | Aerospace Corporation | Kanata, Canada | Yesterday |
 | [Data Science Intern, Summer](https://go.vansh.nyc/1gR) | Plusgrade | Toronto, Canada | Yesterday |
 | [Applied AI Test Engineer Intern, Summer](https://go.vansh.nyc/1gu) | Plusgrade | Toronto, Canada | Yesterday |
 | [Applied AI Engineer Intern, Summer](https://go.vansh.nyc/1gq) | Plusgrade | Toronto, Canada | Yesterday |
@@ -59,10 +60,12 @@ _Updated Thursday 05 November, 10:33 Toronto &middot; 12/13 sources healthy &mid
 | [AI Software Systems Co-op, Summer](https://go.vansh.nyc/ZL) | Qualcomm | Toronto, Canada | 7 days ago |
 | [Deep Learning Research Intern, Embodied AI Systems, Summer](https://go.vansh.nyc/ZM) | Qualcomm | Markham, Canada | 7 days ago |
 
-### Loose &middot; 74 to review
+### Loose &middot; 79 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Platform Engineer Intern, Winter](https://go.vansh.nyc/1iO) | Nelnet | Mississauga, Canada | **Today** |
+| [Forward Deployed Engineer (FDE) Intern, Summer](https://go.vansh.nyc/1iM) | Element Fleet Management | Toronto, Canada | **Today** |
 | [Software Development Co-op, Winter](https://go.vansh.nyc/1ie) | TechInsights | Ottawa, Canada | **Today** |
 | [QA Test Automation Co-op, Winter](https://go.vansh.nyc/1if) | TechInsights | Ottawa, Canada | **Today** |
 | [Robotics Software Co-op, Winter](https://go.vansh.nyc/1ih) | 4AG Robotics | Salmon Arm, Canada | **Today** |
@@ -73,6 +76,10 @@ _Updated Thursday 05 November, 10:33 Toronto &middot; 12/13 sources healthy &mid
 | [Machine Learning Engineering Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721969461) | Qualcomm | Markham, ON, Canada | Yesterday |
 | [Product Management Intern - Digital Banking, Winter 2027](https://jobs.lever.co/eqbank/e4ed38f2-5de1-405f-a02d-c21f421bc7c1/apply) | Equitable Bank | Toronto, ON, Canada | Yesterday |
 | [Display IP FPGA Emulation Intern, Summer](https://go.vansh.nyc/1hp) | Qualcomm | Markham, Canada | Yesterday |
+| [Junior Full-Stack Engineer Intern, N/A](https://volarisgroup.wd3.myworkdayjobs.com/BiblioCommons/job/Canada---Ontario/PEY---Junior-Fullstack-Engineer_R72454) | BiblioCommons | Ontario, Canada | Yesterday |
+| [Software Design/Engineer New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Design-Engineer---New-Grad_R032059) | Ciena | Ottawa, ON, Canada | Yesterday |
+| [Junior Full-Stack Engineer Intern, Summer](https://go.vansh.nyc/1iD) | BiblioCommons | Canada | Yesterday |
+| [Junior Full-Stack Engineer Intern, N/A](https://volarisgroup.wd3.myworkdayjobs.com/BiblioCommons/job/Canada---Ontario/PEY---Junior-Fullstack-Engineer_R72456) | BiblioCommons | Ontario, Canada | Yesterday |
 | [Software Engineering Co-op, Winter](https://go.vansh.nyc/1ha) | Teledyne Technologies Incorporated | Waterloo, Canada | Yesterday |
 | [Senior Systems Design Engineer Intern, N/A](https://careers.amd.com/jobs/95806?icims=1) | AMD | Markham, ON, Canada | Yesterday |
 | [Senior Systems Design Engineer Intern, Summer](https://go.vansh.nyc/1hu) | AMD | Markham, Canada | Yesterday |
@@ -136,7 +143,6 @@ _Updated Thursday 05 November, 10:33 Toronto &middot; 12/13 sources healthy &mid
 | [AI Software Engineering Co-op Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721862429) | Qualcomm | Toronto, ON, Canada | 7 days ago |
 | [AI Software Systems Co-op Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721862430) | Qualcomm | Toronto, ON, Canada | 7 days ago |
 | [Deep Learning Research Intern - Embodied AI - Interim Engineering Intern - Systems, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721858024) | Qualcomm | Markham, ON, Canada | 7 days ago |
-| [Data Governance &amp; Operations Data Analyst Intern, Winter 2027](https://job-boards.greenhouse.io/internshiplist2000/jobs/5444306008) | Geotab | Toronto, ON, Canada, Burnaby, BC, Canada, Oakville, ON, Canada | 7 days ago |
 
 ### Sources
 
@@ -145,16 +151,16 @@ _Updated Thursday 05 November, 10:33 Toronto &middot; 12/13 sources healthy &mid
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
 | Canadian-Tech-Internships-2027 \[tracker\] | 297 | ok |
-| Cohere \[ashby\] | 118 | ok |
+| Cohere \[ashby\] | 119 | ok |
 | Faire \[greenhouse\] | 66 | ok |
-| New-Grad-Positions \[tracker\] | 3234 | ok |
-| Summer2027-Internships \[tracker\] | 5377 | ok |
-| Tenstorrent \[greenhouse\] | 125 | ok |
+| New-Grad-Positions \[tracker\] | 3223 | ok |
+| Summer2027-Internships \[tracker\] | 5351 | ok |
+| Tenstorrent \[greenhouse\] | 127 | ok |
 | Vector Institute \[html\] | 32 | ok |
-| Waabi \[lever\] | 91 | ok |
-| Wealthsimple \[ashby\] | 41 | ok |
+| Waabi \[lever\] | 89 | ok |
+| Wealthsimple \[ashby\] | 42 | ok |
 | Xanadu \[html\] | - | ok |
-| vansh-Summer2027 \[tracker\] | 2173 | ok |
+| vansh-Summer2027 \[tracker\] | 2182 | ok |
 
 <!-- radar:listings:end -->
 
