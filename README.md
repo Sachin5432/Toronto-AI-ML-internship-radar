@@ -32,7 +32,7 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Friday 06 November, 06:00 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Friday 06 November, 13:01 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 14 AI/ML matches
 
@@ -53,10 +53,15 @@ _Updated Friday 06 November, 06:00 Toronto &middot; 12/13 sources healthy &middo
 | [Software Engineer Co-op, AI, Winter](https://go.vansh.nyc/13D) | Foresters Financial | Toronto, Canada | 7 days ago |
 | [AI Engineer Co-op, Winter](https://go.vansh.nyc/13G) | General Magic | Toronto, Canada | 7 days ago |
 
-### Loose &middot; 65 to review
+### Loose &middot; 68 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Embedded Software Developer Co-op, Winter](https://go.vansh.nyc/1kz) | Varian | Canada | **Today** |
+| [RF/Analog Verification Engineer Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446722001120) | Qualcomm | Markham, ON, Canada | **Today** |
+| [Research Assistant Intern - Data Analysis, Winter 2027](https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site/job/Ottawa-ON/CUPE---Winter2027---Data-Analysis_JR41185) | University of Ottawa | Ottawa, ON, Canada | Yesterday |
+| [Personal &amp; Business Banking New Grad](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Personal---Business-Banking-Development-Program--New-Graduate----2-Year-Program_R260031068) | Bank of Montreal | Toronto, ON, Canada | Yesterday |
+| [Personal &amp; Business Banking New Grad](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/BMO-Personal---Business-Banking-Development-Program--New-Graduate----2-Year-Program_R260031068-1) | Bank of Montreal | Toronto, ON, Canada | Yesterday |
 | [Driver and Tools Developer Intern - Telemetry Firmware, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721989047) | Qualcomm | Markham, ON, Canada | Yesterday |
 | [Telemetry Firmware, Driver and Tools Developer Intern, Summer](https://go.vansh.nyc/1jr) | Qualcomm | Markham, Canada | Yesterday |
 | [Platform Engineer Intern, Winter](https://go.vansh.nyc/1iO) | Nelnet | Mississauga, Canada | Yesterday |
@@ -120,8 +125,6 @@ _Updated Friday 06 November, 06:00 Toronto &middot; 12/13 sources healthy &middo
 | [Direct Channel Operations Co-op Intern, Winter 2027](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9470) | Definity Financial | Toronto, ON, Canada | 7 days ago |
 | [Hardware Design Engineer Intern, Summer](https://go.vansh.nyc/10W) | Altera | Toronto, Canada | 7 days ago |
 | [FPGA Development Tools Intern, Summer](https://go.vansh.nyc/10V) | Altera | Toronto, Canada | 7 days ago |
-| [PhD Machine Learning Engineer Intern, Summer 2027](https://stripe.com/jobs/search?gh_jid=8328664) | Stripe | Toronto, ON, Canada | 7 days ago |
-| [Machine Learning Engineer Intern, Summer 2027](https://stripe.com/jobs/search?gh_jid=8333122) | Stripe | Toronto, ON, Canada | 7 days ago |
 
 ### Sources
 
@@ -129,17 +132,17 @@ _Updated Friday 06 November, 06:00 Toronto &middot; 12/13 sources healthy &middo
 |---|---|---|
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
-| Canadian-Tech-Internships-2027 \[tracker\] | 297 | ok |
-| Cohere \[ashby\] | 119 | ok |
+| Canadian-Tech-Internships-2027 \[tracker\] | 288 | ok |
+| Cohere \[ashby\] | 122 | ok |
 | Faire \[greenhouse\] | 65 | ok |
-| New-Grad-Positions \[tracker\] | 3226 | ok |
-| Summer2027-Internships \[tracker\] | 5379 | ok |
-| Tenstorrent \[greenhouse\] | 126 | ok |
+| New-Grad-Positions \[tracker\] | 3222 | ok |
+| Summer2027-Internships \[tracker\] | 5371 | ok |
+| Tenstorrent \[greenhouse\] | 124 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 89 | ok |
 | Wealthsimple \[ashby\] | 42 | ok |
 | Xanadu \[html\] | - | ok |
-| vansh-Summer2027 \[tracker\] | 2193 | ok |
+| vansh-Summer2027 \[tracker\] | 2204 | ok |
 
 <!-- radar:listings:end -->
 
