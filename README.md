@@ -32,7 +32,7 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Saturday 07 November, 11:52 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Saturday 07 November, 15:56 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 12 AI/ML matches
 
@@ -51,10 +51,12 @@ _Updated Saturday 07 November, 11:52 Toronto &middot; 12/13 sources healthy &mid
 | [AI Co-op, Winter](https://go.vansh.nyc/1dA) | Manulife Financial | Toronto, Canada | 5 days ago |
 | [Undergraduate Program AI Engineer Intern, Enterprise Technology Services, Summer](https://go.vansh.nyc/1bH) | American Express | Toronto, Canada | 6 days ago |
 
-### Loose &middot; 74 to review
+### Loose &middot; 76 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Full Stack Developer Intern, C\#, Winter](https://go.vansh.nyc/1mc) | Kinaxis | Ottawa, Canada | **Today** |
+| [Developer Intern, Back End Technologies, Winter](https://go.vansh.nyc/1md) | Kinaxis | Ottawa, Canada | **Today** |
 | [Digital Design Engineer Intern - Interim Engineering Intern - Systems, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446722005254) | Qualcomm | Toronto, ON, Canada | Yesterday |
 | [Digital Design Engineer Intern, Interim Engineering Systems, Summer](https://go.vansh.nyc/1lI) | Qualcomm | Toronto, Canada | Yesterday |
 | [Analytics Engineering &amp; Measurement Intern, Winter](https://go.vansh.nyc/1ld) | OLG | Toronto, Canada, Sault Ste. Marie, Canada | Yesterday |
@@ -139,14 +141,14 @@ _Updated Saturday 07 November, 11:52 Toronto &middot; 12/13 sources healthy &mid
 | Canadian-Tech-Internships-2027 \[tracker\] | 286 | ok |
 | Cohere \[ashby\] | 124 | ok |
 | Faire \[greenhouse\] | 68 | ok |
-| New-Grad-Positions \[tracker\] | 3234 | ok |
+| New-Grad-Positions \[tracker\] | 3232 | ok |
 | Summer2027-Internships \[tracker\] | 5363 | ok |
 | Tenstorrent \[greenhouse\] | 126 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 88 | ok |
 | Wealthsimple \[ashby\] | 42 | ok |
 | Xanadu \[html\] | - | ok |
-| vansh-Summer2027 \[tracker\] | 2236 | ok |
+| vansh-Summer2027 \[tracker\] | 2248 | ok |
 
 <!-- radar:listings:end -->
 
