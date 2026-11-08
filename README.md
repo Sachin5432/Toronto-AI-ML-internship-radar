@@ -32,7 +32,7 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Sunday 08 November, 02:26 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Sunday 08 November, 10:18 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 12 AI/ML matches
 
@@ -51,7 +51,7 @@ _Updated Sunday 08 November, 02:26 Toronto &middot; 12/13 sources healthy &middo
 | [AI Co-op, Winter](https://go.vansh.nyc/1dA) | Manulife Financial | Toronto, Canada | 6 days ago |
 | [Undergraduate Program AI Engineer Intern, Enterprise Technology Services, Summer](https://go.vansh.nyc/1bH) | American Express | Toronto, Canada | 7 days ago |
 
-### Loose &middot; 76 to review
+### Loose &middot; 77 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -79,6 +79,7 @@ _Updated Sunday 08 November, 02:26 Toronto &middot; 12/13 sources healthy &middo
 | [Driver and Tools Developer Intern - Telemetry Firmware, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721989047) | Qualcomm | Markham, ON, Canada | 3 days ago |
 | [Telemetry Firmware, Driver and Tools Developer Intern, Summer](https://go.vansh.nyc/1jr) | Qualcomm | Markham, Canada | 3 days ago |
 | [QA Tester Intern, Datalogger Products, Fall](https://go.vansh.nyc/1kO) | AEM | Victoria, Canada | 3 days ago |
+| [Software Engineer Intern, Summer](https://go.vansh.nyc/1mQ) | DoorDash | Toronto, Canada | 3 days ago |
 | [Platform Engineer Intern, Winter](https://go.vansh.nyc/1iO) | Nelnet | Mississauga, Canada | 3 days ago |
 | [Forward Deployed Engineer (FDE) Intern, Summer](https://go.vansh.nyc/1iM) | Element Fleet Management | Toronto, Canada | 3 days ago |
 | [Software Development Co-op, Winter](https://go.vansh.nyc/1ie) | TechInsights | Ottawa, Canada | 3 days ago |
@@ -141,14 +142,14 @@ _Updated Sunday 08 November, 02:26 Toronto &middot; 12/13 sources healthy &middo
 | Canadian-Tech-Internships-2027 \[tracker\] | 286 | ok |
 | Cohere \[ashby\] | 124 | ok |
 | Faire \[greenhouse\] | 68 | ok |
-| New-Grad-Positions \[tracker\] | 3232 | ok |
-| Summer2027-Internships \[tracker\] | 5376 | ok |
+| New-Grad-Positions \[tracker\] | 3228 | ok |
+| Summer2027-Internships \[tracker\] | 5373 | ok |
 | Tenstorrent \[greenhouse\] | 126 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 88 | ok |
 | Wealthsimple \[ashby\] | 42 | ok |
 | Xanadu \[html\] | - | ok |
-| vansh-Summer2027 \[tracker\] | 2269 | ok |
+| vansh-Summer2027 \[tracker\] | 2273 | ok |
 
 <!-- radar:listings:end -->
 
