@@ -32,7 +32,7 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Monday 09 November, 03:02 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Monday 09 November, 13:52 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 11 AI/ML matches
 
@@ -50,10 +50,13 @@ _Updated Monday 09 November, 03:02 Toronto &middot; 12/13 sources healthy &middo
 | [Robotics Research Co-op, Data Engineering, Winter](https://go.vansh.nyc/1dj) | Rockwell Automation | Waterloo, Canada | 6 days ago |
 | [AI Co-op, Winter](https://go.vansh.nyc/1dA) | Manulife Financial | Toronto, Canada | 7 days ago |
 
-### Loose &middot; 74 to review
+### Loose &middot; 76 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [BI/Data Analyst Intern, N/A](https://job-boards.greenhouse.io/kensingtontours/jobs/5289223007) | Kensington | Toronto, ON, Canada | **Today** |
+| [Associate Technology Leadership Advancement Program Intern, Summer 2027](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Associate-Technology-Leadership-Advancement-Program---Summer-2027_2623078-1) | CIBC | Toronto, ON, Canada | Yesterday |
+| [BI/Data Analyst Intern, Summer](https://go.vansh.nyc/1or) | Kensington | Toronto, Canada | Yesterday |
 | [Full Stack Developer Intern, C\#, Winter](https://go.vansh.nyc/1mc) | Kinaxis | Ottawa, Canada | 2 days ago |
 | [Developer Intern, Back End Technologies, Winter](https://go.vansh.nyc/1md) | Kinaxis | Ottawa, Canada | 2 days ago |
 | [Digital Design Engineer Intern - Interim Engineering Intern - Systems, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446722005254) | Qualcomm | Toronto, ON, Canada | 3 days ago |
@@ -127,7 +130,6 @@ _Updated Monday 09 November, 03:02 Toronto &middot; 12/13 sources healthy &middo
 | [UX/UI Designer Co-op Intern, Winter 2027](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951-1) | Bank of Montreal | Toronto, ON, Canada | 7 days ago |
 | [UX/UI Designer Co-op Intern, Winter 2027](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951) | Bank of Montreal | Toronto, ON, Canada | 7 days ago |
 | [SoC Engineering Intern, Summer](https://go.vansh.nyc/1a0) | Qualcomm | Markham, Canada | 7 days ago |
-| [Software Developer 2 – Early Career](https://www.google.com/about/careers/applications/jobs/results/93868335938052806) | Google | Montreal, QC, Canada, Waterloo, ON, Canada | 7 days ago |
 
 ### Sources
 
@@ -135,17 +137,17 @@ _Updated Monday 09 November, 03:02 Toronto &middot; 12/13 sources healthy &middo
 |---|---|---|
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
-| Canadian-Tech-Internships-2027 \[tracker\] | 283 | ok |
-| Cohere \[ashby\] | 124 | ok |
-| Faire \[greenhouse\] | 68 | ok |
-| New-Grad-Positions \[tracker\] | 3218 | ok |
-| Summer2027-Internships \[tracker\] | 5343 | ok |
-| Tenstorrent \[greenhouse\] | 127 | ok |
+| Canadian-Tech-Internships-2027 \[tracker\] | 277 | ok |
+| Cohere \[ashby\] | 125 | ok |
+| Faire \[greenhouse\] | 67 | ok |
+| New-Grad-Positions \[tracker\] | 3185 | ok |
+| Summer2027-Internships \[tracker\] | 5300 | ok |
+| Tenstorrent \[greenhouse\] | 125 | ok |
 | Vector Institute \[html\] | 32 | ok |
-| Waabi \[lever\] | 88 | ok |
+| Waabi \[lever\] | 87 | ok |
 | Wealthsimple \[ashby\] | 42 | ok |
 | Xanadu \[html\] | - | ok |
-| vansh-Summer2027 \[tracker\] | 2302 | ok |
+| vansh-Summer2027 \[tracker\] | 2339 | ok |
 
 <!-- radar:listings:end -->
 
