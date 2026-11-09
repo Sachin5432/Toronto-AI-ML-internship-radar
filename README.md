@@ -32,102 +32,102 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Sunday 08 November, 19:57 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Monday 09 November, 03:02 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 11 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
-| [Data Operations Engineer AI Co-op, Winter](https://go.vansh.nyc/1ib) | Rodan Energy Solutions Inc. | Mississauga, Canada | 3 days ago |
-| [AI Solutions Specialist Co-op, Winter](https://go.vansh.nyc/1ic) | Rodan Energy Solutions Inc. | Mississauga, Canada | 3 days ago |
-| [Machine Learning Engineering Intern, Summer](https://go.vansh.nyc/1ho) | Qualcomm | Markham, Canada | 4 days ago |
-| [Machine Learning Developer Intern Co-op, Winter 2027](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Machine-Learning-Developer--Winter-2027---Co-op-Internship----4-months_R260029620) | Bank of Montreal | Toronto, ON, Canada | 4 days ago |
-| [AI Intern, Spring](https://go.vansh.nyc/1jf) | Aerospace Corporation | Kanata, Canada | 4 days ago |
-| [Data Science Intern, Summer](https://go.vansh.nyc/1gR) | Plusgrade | Toronto, Canada | 4 days ago |
-| [Applied AI Test Engineer Intern, Summer](https://go.vansh.nyc/1gu) | Plusgrade | Toronto, Canada | 4 days ago |
-| [Applied AI Engineer Intern, Summer](https://go.vansh.nyc/1gq) | Plusgrade | Toronto, Canada | 4 days ago |
-| [AI Engineer Co-op, Capital Markets, Global Equities, Summer](https://go.vansh.nyc/1fV) | Royal Bank of Canada | Toronto, Canada | 4 days ago |
-| [Robotics Research Co-op, Data Engineering, Winter](https://go.vansh.nyc/1dj) | Rockwell Automation | Waterloo, Canada | 5 days ago |
-| [AI Co-op, Winter](https://go.vansh.nyc/1dA) | Manulife Financial | Toronto, Canada | 6 days ago |
+| [Data Operations Engineer AI Co-op, Winter](https://go.vansh.nyc/1ib) | Rodan Energy Solutions Inc. | Mississauga, Canada | 4 days ago |
+| [AI Solutions Specialist Co-op, Winter](https://go.vansh.nyc/1ic) | Rodan Energy Solutions Inc. | Mississauga, Canada | 4 days ago |
+| [Machine Learning Engineering Intern, Summer](https://go.vansh.nyc/1ho) | Qualcomm | Markham, Canada | 5 days ago |
+| [Machine Learning Developer Intern Co-op, Winter 2027](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Machine-Learning-Developer--Winter-2027---Co-op-Internship----4-months_R260029620) | Bank of Montreal | Toronto, ON, Canada | 5 days ago |
+| [AI Intern, Spring](https://go.vansh.nyc/1jf) | Aerospace Corporation | Kanata, Canada | 5 days ago |
+| [Data Science Intern, Summer](https://go.vansh.nyc/1gR) | Plusgrade | Toronto, Canada | 5 days ago |
+| [Applied AI Test Engineer Intern, Summer](https://go.vansh.nyc/1gu) | Plusgrade | Toronto, Canada | 5 days ago |
+| [Applied AI Engineer Intern, Summer](https://go.vansh.nyc/1gq) | Plusgrade | Toronto, Canada | 5 days ago |
+| [AI Engineer Co-op, Capital Markets, Global Equities, Summer](https://go.vansh.nyc/1fV) | Royal Bank of Canada | Toronto, Canada | 5 days ago |
+| [Robotics Research Co-op, Data Engineering, Winter](https://go.vansh.nyc/1dj) | Rockwell Automation | Waterloo, Canada | 6 days ago |
+| [AI Co-op, Winter](https://go.vansh.nyc/1dA) | Manulife Financial | Toronto, Canada | 7 days ago |
 
 ### Loose &middot; 74 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
-| [Full Stack Developer Intern, C\#, Winter](https://go.vansh.nyc/1mc) | Kinaxis | Ottawa, Canada | Yesterday |
-| [Developer Intern, Back End Technologies, Winter](https://go.vansh.nyc/1md) | Kinaxis | Ottawa, Canada | Yesterday |
-| [Digital Design Engineer Intern - Interim Engineering Intern - Systems, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446722005254) | Qualcomm | Toronto, ON, Canada | 2 days ago |
-| [Digital Design Engineer Intern, Interim Engineering Systems, Summer](https://go.vansh.nyc/1lI) | Qualcomm | Toronto, Canada | 2 days ago |
-| [Analytics Engineering &amp; Measurement Intern, Winter](https://go.vansh.nyc/1ld) | OLG | Toronto, Canada, Sault Ste. Marie, Canada | 2 days ago |
-| [Software Development Co-op, Winter](https://go.vansh.nyc/1lf) | Hootsuite | Vancouver, Canada, Toronto, Canada | 2 days ago |
-| [Software Developer Co-op Intern, Winter 2027](https://job-boards.greenhouse.io/hootsuite/jobs/8360176) | Hootsuite | Toronto, ON, Canada, Vancouver, BC, Canada | 2 days ago |
-| [Associate DevOps Engineer Intern, Winter](https://go.vansh.nyc/1l4) | Sun Life | Waterloo, Canada | 2 days ago |
-| [Software Validation Engineering Intern, Summer](https://go.vansh.nyc/1kR) | Qualcomm | Markham, Canada | 2 days ago |
-| [DevOps Co-op, Winter](https://go.vansh.nyc/1l0) | Hootsuite | Canada | 2 days ago |
-| [Embedded Software Developer Co-op, Winter](https://go.vansh.nyc/1kz) | Varian | Canada | 2 days ago |
-| [RF/Analog Verification Engineer Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446722001120) | Qualcomm | Markham, ON, Canada | 2 days ago |
-| [Research Assistant Intern - Data Analysis, Winter 2027](https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site/job/Ottawa-ON/CUPE---Winter2027---Data-Analysis_JR41185) | University of Ottawa | Ottawa, ON, Canada | 3 days ago |
-| [Personal &amp; Business Banking New Grad](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Personal---Business-Banking-Development-Program--New-Graduate----2-Year-Program_R260031068) | Bank of Montreal | Toronto, ON, Canada | 3 days ago |
-| [Technology Research Associate Co-op Intern, Winter 2027](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Technology-Research-Associate--Winter-2027--Co-op-Internship----4-months_R260024978) | Bank of Montreal | Toronto, ON, Canada | 3 days ago |
-| [Analytics Engineering &amp; Measurement Student Intern, Winter 2027](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Analytics-Engineering---Measurement-Student_R26_00700) | OLG | Toronto, ON, Canada, Sault Ste. Marie, ON, Canada | 3 days ago |
-| [Software Design Engineer Intern, N/A](https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Boston-Massachusetts-US/Software-Design-Engineer-Intern_R-102764) | DataRobot | Boston, MA, Seattle, WA, SF, Ontario, Canada | 3 days ago |
-| [Quantitative Analyst Co-op Intern, Summer 2027](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097-1) | Bank of Montreal | Toronto, ON, Canada | 3 days ago |
-| [Embedded Security Software Developer New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Security-Software-Developer---New-Grad_R032066) | Ciena | Ottawa, ON, Canada | 3 days ago |
-| [Personal &amp; Business Banking New Grad](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/BMO-Personal---Business-Banking-Development-Program--New-Graduate----2-Year-Program_R260031068-1) | Bank of Montreal | Toronto, ON, Canada | 3 days ago |
-| [Quantitative Analyst Co-op Intern, Summer 2027](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097) | Bank of Montreal | Toronto, ON, Canada | 3 days ago |
-| [Driver and Tools Developer Intern - Telemetry Firmware, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721989047) | Qualcomm | Markham, ON, Canada | 3 days ago |
-| [Telemetry Firmware, Driver and Tools Developer Intern, Summer](https://go.vansh.nyc/1jr) | Qualcomm | Markham, Canada | 3 days ago |
-| [QA Tester Intern, Datalogger Products, Fall](https://go.vansh.nyc/1kO) | AEM | Victoria, Canada | 3 days ago |
-| [Software Engineer Intern, Summer](https://go.vansh.nyc/1mQ) | DoorDash | Toronto, Canada | 3 days ago |
-| [Platform Engineer Intern, Winter](https://go.vansh.nyc/1iO) | Nelnet | Mississauga, Canada | 3 days ago |
-| [Forward Deployed Engineer (FDE) Intern, Summer](https://go.vansh.nyc/1iM) | Element Fleet Management | Toronto, Canada | 3 days ago |
-| [Software Development Co-op, Winter](https://go.vansh.nyc/1ie) | TechInsights | Ottawa, Canada | 3 days ago |
-| [QA Test Automation Co-op, Winter](https://go.vansh.nyc/1if) | TechInsights | Ottawa, Canada | 3 days ago |
-| [Robotics Software Co-op, Winter](https://go.vansh.nyc/1ih) | 4AG Robotics | Salmon Arm, Canada | 3 days ago |
-| [Web Software Developer Intern, WFM, Summer](https://go.vansh.nyc/1hJ) | Genesys | Toronto, Canada | 3 days ago |
-| [Software Engineer Intern, Winter 2027](https://apply.workable.com/datavisor-jobs/j/2FB6A93BF6/apply) | DataVisor | Remote in Canada | 4 days ago |
-| [Software Engineer Intern, Winter](https://go.vansh.nyc/1hA) | DataVisor | Remote, Canada | 4 days ago |
-| [Display IP FPGA Emulation Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721972361) | Qualcomm | Markham, ON, Canada | 4 days ago |
-| [Machine Learning Engineering Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721969461) | Qualcomm | Markham, ON, Canada | 4 days ago |
-| [Product Management Intern - Digital Banking, Winter 2027](https://jobs.lever.co/eqbank/e4ed38f2-5de1-405f-a02d-c21f421bc7c1/apply) | Equitable Bank | Toronto, ON, Canada | 4 days ago |
-| [Display IP FPGA Emulation Intern, Summer](https://go.vansh.nyc/1hp) | Qualcomm | Markham, Canada | 4 days ago |
-| [Junior Full-Stack Engineer Intern, N/A](https://volarisgroup.wd3.myworkdayjobs.com/BiblioCommons/job/Canada---Ontario/PEY---Junior-Fullstack-Engineer_R72454) | BiblioCommons | Ontario, Canada | 4 days ago |
-| [Software Design/Engineer New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Design-Engineer---New-Grad_R032059) | Ciena | Ottawa, ON, Canada | 4 days ago |
-| [Junior Full-Stack Engineer Intern, Summer](https://go.vansh.nyc/1iD) | BiblioCommons | Canada | 4 days ago |
-| [Forward Deployed Engineer Intern, N/A](https://elementfleet.wd3.myworkdayjobs.com/External_Career_Site/job/Toronto/Forward-Deployed-Engineer--FDE--Intern--8-12-month-intern-_R105989) | Element Fleet Management | Toronto, ON, Canada | 4 days ago |
-| [Junior Full-Stack Engineer Intern, N/A](https://volarisgroup.wd3.myworkdayjobs.com/BiblioCommons/job/Canada---Ontario/PEY---Junior-Fullstack-Engineer_R72456) | BiblioCommons | Ontario, Canada | 4 days ago |
-| [Software Developer Intern, Summer 2027](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10650) | SOTI | Mississauga, ON, Canada | 4 days ago |
-| [Software Developer Intern, N/A](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-12-Months-_R10655) | SOTI | Mississauga, ON, Canada | 4 days ago |
-| [Software Engineering Co-op, Winter](https://go.vansh.nyc/1ha) | Teledyne Technologies Incorporated | Waterloo, Canada | 4 days ago |
-| [Senior Systems Design Engineer Intern, N/A](https://careers.amd.com/jobs/95806?icims=1) | AMD | Markham, ON, Canada | 4 days ago |
-| [Senior Systems Design Engineer Intern, Summer](https://go.vansh.nyc/1hu) | AMD | Markham, Canada | 4 days ago |
-| [Junior Cybersecurity Operations Analyst Intern, Winter](https://go.vansh.nyc/1gM) | TMX Group | Toronto, Canada | 4 days ago |
-| [UI/UX Design and Frontend Engineer Intern, Summer](https://go.vansh.nyc/1gp) | Plusgrade | Toronto, Canada | 4 days ago |
-| [Student Cyber Security Analyst Intern, Winter](https://go.vansh.nyc/1fU) | MDA | Brampton, Canada | 4 days ago |
-| [Jr. Security Analyst Student Intern, Winter](https://go.vansh.nyc/1gt) | TMX Group | Toronto, Canada | 5 days ago |
-| [Intern Bachelors Embedded Eng, Spring](https://go.vansh.nyc/1hl) | Aerospace Corporation | Kanata, Canada | 5 days ago |
-| [Software Developer Intern, Summer](https://go.vansh.nyc/1fe) | Blackberry | Ottawa, Canada | 5 days ago |
-| [Software Development Intern, Summer](https://go.vansh.nyc/1ff) | Blackberry | Ottawa, Canada | 5 days ago |
-| [Photonics Test Engineer Intern, N/A](https://xanadu.careers.hibob.com/jobs/fa179125-845b-4a10-a648-75c1cc20bda4) | Xanadu | Toronto, ON, Canada | 5 days ago |
-| [SmartVu Developer Co-op, Quality and Infrastructure, Winter](https://go.vansh.nyc/1h4) | Survalent | Mississauga, Canada | 5 days ago |
-| [Software Developer Co-op, Winter](https://go.vansh.nyc/1hk) | PlayStation Waterloo Co-Op | Waterloo, Canada | 5 days ago |
-| [Software Developer Co-op, Winter](https://go.vansh.nyc/1co) | Clio | Toronto, Canada, Vancouver, Canada, Calgary, Canada | 5 days ago |
-| [Software Developer Student Intern, N/A](https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/Software-Developer-Student_20260342) | Blackberry | Ottawa, ON, Canada | 6 days ago |
-| [Software Development Co-op, N/A](https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/Software-Development-Student_20260343) | Blackberry | Ottawa, ON, Canada | 6 days ago |
-| [Hardware Engineering Co-op, Winter 2027](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineering-Co-op--Winter-2027-_R032054) | Ciena | Ottawa, ON, Canada | 6 days ago |
-| [Firmware Developer Co-op, Winter](https://go.vansh.nyc/1fB) | Arlo Technologies | Richmond, Canada | 6 days ago |
-| [Data Analyst Intern, Winter 2027](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Analyst-Intern--4-Months-_R-0000188376) | Royal Bank of Canada | Toronto, ON, Canada | 6 days ago |
-| [AI Engineer Co-op - Global Equities, Summer 2027](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-2) | Royal Bank of Canada | Toronto, ON, Canada | 6 days ago |
-| [Teardown Lab Co-op, Winter 2027](https://techinsights.applytojob.com/apply/ukjsdhXDr4/Teardown-Lab-Coop-Student-Winter-2027) | TechInsights | Ottawa, ON, Canada | 6 days ago |
-| [SoC Engineering Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721914045) | Qualcomm | Markham, ON, Canada | 6 days ago |
-| [Verification Engineer Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721913769) | Qualcomm | Toronto, ON, Canada | 6 days ago |
-| [Verification Engineer Intern, Summer](https://go.vansh.nyc/1bu) | Qualcomm | Toronto, Canada | 6 days ago |
-| [Deep Learning Research Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721913898) | Qualcomm | Markham, ON, Canada | 6 days ago |
-| [Digital Design Engineer Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721913672) | Qualcomm | Toronto, ON, Canada | 6 days ago |
-| [UX/UI Designer Co-op Intern, Winter 2027](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951-1) | Bank of Montreal | Toronto, ON, Canada | 6 days ago |
-| [UX/UI Designer Co-op Intern, Winter 2027](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951) | Bank of Montreal | Toronto, ON, Canada | 6 days ago |
-| [SoC Engineering Intern, Summer](https://go.vansh.nyc/1a0) | Qualcomm | Markham, Canada | 6 days ago |
-| [Software Developer 2 – Early Career](https://www.google.com/about/careers/applications/jobs/results/93868335938052806) | Google | Montreal, QC, Canada, Waterloo, ON, Canada | 6 days ago |
+| [Full Stack Developer Intern, C\#, Winter](https://go.vansh.nyc/1mc) | Kinaxis | Ottawa, Canada | 2 days ago |
+| [Developer Intern, Back End Technologies, Winter](https://go.vansh.nyc/1md) | Kinaxis | Ottawa, Canada | 2 days ago |
+| [Digital Design Engineer Intern - Interim Engineering Intern - Systems, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446722005254) | Qualcomm | Toronto, ON, Canada | 3 days ago |
+| [Digital Design Engineer Intern, Interim Engineering Systems, Summer](https://go.vansh.nyc/1lI) | Qualcomm | Toronto, Canada | 3 days ago |
+| [Analytics Engineering &amp; Measurement Intern, Winter](https://go.vansh.nyc/1ld) | OLG | Toronto, Canada, Sault Ste. Marie, Canada | 3 days ago |
+| [Software Development Co-op, Winter](https://go.vansh.nyc/1lf) | Hootsuite | Vancouver, Canada, Toronto, Canada | 3 days ago |
+| [Software Developer Co-op Intern, Winter 2027](https://job-boards.greenhouse.io/hootsuite/jobs/8360176) | Hootsuite | Toronto, ON, Canada, Vancouver, BC, Canada | 3 days ago |
+| [Associate DevOps Engineer Intern, Winter](https://go.vansh.nyc/1l4) | Sun Life | Waterloo, Canada | 3 days ago |
+| [Software Validation Engineering Intern, Summer](https://go.vansh.nyc/1kR) | Qualcomm | Markham, Canada | 3 days ago |
+| [DevOps Co-op, Winter](https://go.vansh.nyc/1l0) | Hootsuite | Canada | 3 days ago |
+| [Embedded Software Developer Co-op, Winter](https://go.vansh.nyc/1kz) | Varian | Canada | 3 days ago |
+| [RF/Analog Verification Engineer Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446722001120) | Qualcomm | Markham, ON, Canada | 3 days ago |
+| [Research Assistant Intern - Data Analysis, Winter 2027](https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site/job/Ottawa-ON/CUPE---Winter2027---Data-Analysis_JR41185) | University of Ottawa | Ottawa, ON, Canada | 4 days ago |
+| [Personal &amp; Business Banking New Grad](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Personal---Business-Banking-Development-Program--New-Graduate----2-Year-Program_R260031068) | Bank of Montreal | Toronto, ON, Canada | 4 days ago |
+| [Technology Research Associate Co-op Intern, Winter 2027](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Technology-Research-Associate--Winter-2027--Co-op-Internship----4-months_R260024978) | Bank of Montreal | Toronto, ON, Canada | 4 days ago |
+| [Analytics Engineering &amp; Measurement Student Intern, Winter 2027](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Analytics-Engineering---Measurement-Student_R26_00700) | OLG | Toronto, ON, Canada, Sault Ste. Marie, ON, Canada | 4 days ago |
+| [Software Design Engineer Intern, N/A](https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Boston-Massachusetts-US/Software-Design-Engineer-Intern_R-102764) | DataRobot | Boston, MA, Seattle, WA, SF, Ontario, Canada | 4 days ago |
+| [Quantitative Analyst Co-op Intern, Summer 2027](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097-1) | Bank of Montreal | Toronto, ON, Canada | 4 days ago |
+| [Embedded Security Software Developer New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Security-Software-Developer---New-Grad_R032066) | Ciena | Ottawa, ON, Canada | 4 days ago |
+| [Personal &amp; Business Banking New Grad](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/BMO-Personal---Business-Banking-Development-Program--New-Graduate----2-Year-Program_R260031068-1) | Bank of Montreal | Toronto, ON, Canada | 4 days ago |
+| [Quantitative Analyst Co-op Intern, Summer 2027](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097) | Bank of Montreal | Toronto, ON, Canada | 4 days ago |
+| [Driver and Tools Developer Intern - Telemetry Firmware, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721989047) | Qualcomm | Markham, ON, Canada | 4 days ago |
+| [Telemetry Firmware, Driver and Tools Developer Intern, Summer](https://go.vansh.nyc/1jr) | Qualcomm | Markham, Canada | 4 days ago |
+| [QA Tester Intern, Datalogger Products, Fall](https://go.vansh.nyc/1kO) | AEM | Victoria, Canada | 4 days ago |
+| [Software Engineer Intern, Summer](https://go.vansh.nyc/1mQ) | DoorDash | Toronto, Canada | 4 days ago |
+| [Platform Engineer Intern, Winter](https://go.vansh.nyc/1iO) | Nelnet | Mississauga, Canada | 4 days ago |
+| [Forward Deployed Engineer (FDE) Intern, Summer](https://go.vansh.nyc/1iM) | Element Fleet Management | Toronto, Canada | 4 days ago |
+| [Software Development Co-op, Winter](https://go.vansh.nyc/1ie) | TechInsights | Ottawa, Canada | 4 days ago |
+| [QA Test Automation Co-op, Winter](https://go.vansh.nyc/1if) | TechInsights | Ottawa, Canada | 4 days ago |
+| [Robotics Software Co-op, Winter](https://go.vansh.nyc/1ih) | 4AG Robotics | Salmon Arm, Canada | 4 days ago |
+| [Web Software Developer Intern, WFM, Summer](https://go.vansh.nyc/1hJ) | Genesys | Toronto, Canada | 4 days ago |
+| [Software Engineer Intern, Winter 2027](https://apply.workable.com/datavisor-jobs/j/2FB6A93BF6/apply) | DataVisor | Remote in Canada | 5 days ago |
+| [Software Engineer Intern, Winter](https://go.vansh.nyc/1hA) | DataVisor | Remote, Canada | 5 days ago |
+| [Display IP FPGA Emulation Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721972361) | Qualcomm | Markham, ON, Canada | 5 days ago |
+| [Machine Learning Engineering Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721969461) | Qualcomm | Markham, ON, Canada | 5 days ago |
+| [Product Management Intern - Digital Banking, Winter 2027](https://jobs.lever.co/eqbank/e4ed38f2-5de1-405f-a02d-c21f421bc7c1/apply) | Equitable Bank | Toronto, ON, Canada | 5 days ago |
+| [Display IP FPGA Emulation Intern, Summer](https://go.vansh.nyc/1hp) | Qualcomm | Markham, Canada | 5 days ago |
+| [Junior Full-Stack Engineer Intern, N/A](https://volarisgroup.wd3.myworkdayjobs.com/BiblioCommons/job/Canada---Ontario/PEY---Junior-Fullstack-Engineer_R72454) | BiblioCommons | Ontario, Canada | 5 days ago |
+| [Software Design/Engineer New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Design-Engineer---New-Grad_R032059) | Ciena | Ottawa, ON, Canada | 5 days ago |
+| [Junior Full-Stack Engineer Intern, Summer](https://go.vansh.nyc/1iD) | BiblioCommons | Canada | 5 days ago |
+| [Forward Deployed Engineer Intern, N/A](https://elementfleet.wd3.myworkdayjobs.com/External_Career_Site/job/Toronto/Forward-Deployed-Engineer--FDE--Intern--8-12-month-intern-_R105989) | Element Fleet Management | Toronto, ON, Canada | 5 days ago |
+| [Junior Full-Stack Engineer Intern, N/A](https://volarisgroup.wd3.myworkdayjobs.com/BiblioCommons/job/Canada---Ontario/PEY---Junior-Fullstack-Engineer_R72456) | BiblioCommons | Ontario, Canada | 5 days ago |
+| [Software Developer Intern, Summer 2027](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10650) | SOTI | Mississauga, ON, Canada | 5 days ago |
+| [Software Developer Intern, N/A](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-12-Months-_R10655) | SOTI | Mississauga, ON, Canada | 5 days ago |
+| [Software Engineering Co-op, Winter](https://go.vansh.nyc/1ha) | Teledyne Technologies Incorporated | Waterloo, Canada | 5 days ago |
+| [Senior Systems Design Engineer Intern, N/A](https://careers.amd.com/jobs/95806?icims=1) | AMD | Markham, ON, Canada | 5 days ago |
+| [Senior Systems Design Engineer Intern, Summer](https://go.vansh.nyc/1hu) | AMD | Markham, Canada | 5 days ago |
+| [Junior Cybersecurity Operations Analyst Intern, Winter](https://go.vansh.nyc/1gM) | TMX Group | Toronto, Canada | 5 days ago |
+| [UI/UX Design and Frontend Engineer Intern, Summer](https://go.vansh.nyc/1gp) | Plusgrade | Toronto, Canada | 5 days ago |
+| [Student Cyber Security Analyst Intern, Winter](https://go.vansh.nyc/1fU) | MDA | Brampton, Canada | 5 days ago |
+| [Jr. Security Analyst Student Intern, Winter](https://go.vansh.nyc/1gt) | TMX Group | Toronto, Canada | 6 days ago |
+| [Intern Bachelors Embedded Eng, Spring](https://go.vansh.nyc/1hl) | Aerospace Corporation | Kanata, Canada | 6 days ago |
+| [Software Developer Intern, Summer](https://go.vansh.nyc/1fe) | Blackberry | Ottawa, Canada | 6 days ago |
+| [Software Development Intern, Summer](https://go.vansh.nyc/1ff) | Blackberry | Ottawa, Canada | 6 days ago |
+| [Photonics Test Engineer Intern, N/A](https://xanadu.careers.hibob.com/jobs/fa179125-845b-4a10-a648-75c1cc20bda4) | Xanadu | Toronto, ON, Canada | 6 days ago |
+| [SmartVu Developer Co-op, Quality and Infrastructure, Winter](https://go.vansh.nyc/1h4) | Survalent | Mississauga, Canada | 6 days ago |
+| [Software Developer Co-op, Winter](https://go.vansh.nyc/1hk) | PlayStation Waterloo Co-Op | Waterloo, Canada | 6 days ago |
+| [Software Developer Co-op, Winter](https://go.vansh.nyc/1co) | Clio | Toronto, Canada, Vancouver, Canada, Calgary, Canada | 6 days ago |
+| [Software Developer Student Intern, N/A](https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/Software-Developer-Student_20260342) | Blackberry | Ottawa, ON, Canada | 7 days ago |
+| [Software Development Co-op, N/A](https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/Software-Development-Student_20260343) | Blackberry | Ottawa, ON, Canada | 7 days ago |
+| [Hardware Engineering Co-op, Winter 2027](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineering-Co-op--Winter-2027-_R032054) | Ciena | Ottawa, ON, Canada | 7 days ago |
+| [Firmware Developer Co-op, Winter](https://go.vansh.nyc/1fB) | Arlo Technologies | Richmond, Canada | 7 days ago |
+| [Data Analyst Intern, Winter 2027](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Analyst-Intern--4-Months-_R-0000188376) | Royal Bank of Canada | Toronto, ON, Canada | 7 days ago |
+| [AI Engineer Co-op - Global Equities, Summer 2027](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-2) | Royal Bank of Canada | Toronto, ON, Canada | 7 days ago |
+| [Teardown Lab Co-op, Winter 2027](https://techinsights.applytojob.com/apply/ukjsdhXDr4/Teardown-Lab-Coop-Student-Winter-2027) | TechInsights | Ottawa, ON, Canada | 7 days ago |
+| [SoC Engineering Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721914045) | Qualcomm | Markham, ON, Canada | 7 days ago |
+| [Verification Engineer Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721913769) | Qualcomm | Toronto, ON, Canada | 7 days ago |
+| [Verification Engineer Intern, Summer](https://go.vansh.nyc/1bu) | Qualcomm | Toronto, Canada | 7 days ago |
+| [Deep Learning Research Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721913898) | Qualcomm | Markham, ON, Canada | 7 days ago |
+| [Digital Design Engineer Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721913672) | Qualcomm | Toronto, ON, Canada | 7 days ago |
+| [UX/UI Designer Co-op Intern, Winter 2027](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951-1) | Bank of Montreal | Toronto, ON, Canada | 7 days ago |
+| [UX/UI Designer Co-op Intern, Winter 2027](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951) | Bank of Montreal | Toronto, ON, Canada | 7 days ago |
+| [SoC Engineering Intern, Summer](https://go.vansh.nyc/1a0) | Qualcomm | Markham, Canada | 7 days ago |
+| [Software Developer 2 – Early Career](https://www.google.com/about/careers/applications/jobs/results/93868335938052806) | Google | Montreal, QC, Canada, Waterloo, ON, Canada | 7 days ago |
 
 ### Sources
 
@@ -138,14 +138,14 @@ _Updated Sunday 08 November, 19:57 Toronto &middot; 12/13 sources healthy &middo
 | Canadian-Tech-Internships-2027 \[tracker\] | 283 | ok |
 | Cohere \[ashby\] | 124 | ok |
 | Faire \[greenhouse\] | 68 | ok |
-| New-Grad-Positions \[tracker\] | 3230 | ok |
-| Summer2027-Internships \[tracker\] | 5367 | ok |
+| New-Grad-Positions \[tracker\] | 3218 | ok |
+| Summer2027-Internships \[tracker\] | 5343 | ok |
 | Tenstorrent \[greenhouse\] | 127 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 88 | ok |
 | Wealthsimple \[ashby\] | 42 | ok |
 | Xanadu \[html\] | - | ok |
-| vansh-Summer2027 \[tracker\] | 2288 | ok |
+| vansh-Summer2027 \[tracker\] | 2302 | ok |
 
 <!-- radar:listings:end -->
 
