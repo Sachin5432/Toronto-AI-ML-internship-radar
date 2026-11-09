@@ -32,9 +32,9 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Sunday 08 November, 15:31 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Sunday 08 November, 19:57 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 12 AI/ML matches
+### Strict &middot; 11 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -49,9 +49,8 @@ _Updated Sunday 08 November, 15:31 Toronto &middot; 12/13 sources healthy &middo
 | [AI Engineer Co-op, Capital Markets, Global Equities, Summer](https://go.vansh.nyc/1fV) | Royal Bank of Canada | Toronto, Canada | 4 days ago |
 | [Robotics Research Co-op, Data Engineering, Winter](https://go.vansh.nyc/1dj) | Rockwell Automation | Waterloo, Canada | 5 days ago |
 | [AI Co-op, Winter](https://go.vansh.nyc/1dA) | Manulife Financial | Toronto, Canada | 6 days ago |
-| [Undergraduate Program AI Engineer Intern, Enterprise Technology Services, Summer](https://go.vansh.nyc/1bH) | American Express | Toronto, Canada | 7 days ago |
 
-### Loose &middot; 76 to review
+### Loose &middot; 74 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -129,8 +128,6 @@ _Updated Sunday 08 November, 15:31 Toronto &middot; 12/13 sources healthy &middo
 | [UX/UI Designer Co-op Intern, Winter 2027](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951) | Bank of Montreal | Toronto, ON, Canada | 6 days ago |
 | [SoC Engineering Intern, Summer](https://go.vansh.nyc/1a0) | Qualcomm | Markham, Canada | 6 days ago |
 | [Software Developer 2 – Early Career](https://www.google.com/about/careers/applications/jobs/results/93868335938052806) | Google | Montreal, QC, Canada, Waterloo, ON, Canada | 6 days ago |
-| [Test Engineer Intern, N/A](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Test-Engineering-Intern_REQ3667) | Semtech | Burlington, ON, Canada | 7 days ago |
-| [Product Engineer Intern, N/A](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Product-Engineering-Intern_REQ3668-1) | Semtech | Burlington, ON, Canada | 7 days ago |
 
 ### Sources
 
@@ -141,14 +138,14 @@ _Updated Sunday 08 November, 15:31 Toronto &middot; 12/13 sources healthy &middo
 | Canadian-Tech-Internships-2027 \[tracker\] | 283 | ok |
 | Cohere \[ashby\] | 124 | ok |
 | Faire \[greenhouse\] | 68 | ok |
-| New-Grad-Positions \[tracker\] | 3227 | ok |
-| Summer2027-Internships \[tracker\] | 5348 | ok |
+| New-Grad-Positions \[tracker\] | 3230 | ok |
+| Summer2027-Internships \[tracker\] | 5367 | ok |
 | Tenstorrent \[greenhouse\] | 127 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 88 | ok |
 | Wealthsimple \[ashby\] | 42 | ok |
 | Xanadu \[html\] | - | ok |
-| vansh-Summer2027 \[tracker\] | 2279 | ok |
+| vansh-Summer2027 \[tracker\] | 2288 | ok |
 
 <!-- radar:listings:end -->
 
