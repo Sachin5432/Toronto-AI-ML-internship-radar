@@ -32,12 +32,13 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Wednesday 11 November, 01:34 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Wednesday 11 November, 10:18 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 18 AI/ML matches
+### Strict &middot; 17 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Engineering Documentation and AI Automation Co-op, Summer](https://go.vansh.nyc/1uz) | Synopsys | Nepean, Canada | **Today** |
 | [Data Scientist Intern, Summer](https://go.vansh.nyc/1qF) | Avary.ai | Remote, United States, Canada | Yesterday |
 | [AI Research Residency Intern, Summer](https://go.vansh.nyc/1qU) | Maincode | Remote, United States, Canada | Yesterday |
 | [Data Scientist Intern, Summer](https://go.vansh.nyc/1qX) | Metasys | Remote, United States, Canada | Yesterday |
@@ -54,10 +55,8 @@ _Updated Wednesday 11 November, 01:34 Toronto &middot; 12/13 sources healthy &mi
 | [Machine Learning Developer Intern Co-op, Winter 2027](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Machine-Learning-Developer--Winter-2027---Co-op-Internship----4-months_R260029620) | Bank of Montreal | Toronto, ON, Canada | 7 days ago |
 | [AI Intern, Spring](https://go.vansh.nyc/1jf) | Aerospace Corporation | Kanata, Canada | 7 days ago |
 | [Data Science Intern, Summer](https://go.vansh.nyc/1gR) | Plusgrade | Toronto, Canada | 7 days ago |
-| [Applied AI Test Engineer Intern, Summer](https://go.vansh.nyc/1gu) | Plusgrade | Toronto, Canada | 7 days ago |
-| [Applied AI Engineer Intern, Summer](https://go.vansh.nyc/1gq) | Plusgrade | Toronto, Canada | 7 days ago |
 
-### Loose &middot; 91 to review
+### Loose &middot; 90 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -151,7 +150,6 @@ _Updated Wednesday 11 November, 01:34 Toronto &middot; 12/13 sources healthy &mi
 | [Senior Systems Design Engineer Intern, N/A](https://careers.amd.com/jobs/95806?icims=1) | AMD | Markham, ON, Canada | 7 days ago |
 | [Senior Systems Design Engineer Intern, Summer](https://go.vansh.nyc/1hu) | AMD | Markham, Canada | 7 days ago |
 | [Junior Cybersecurity Operations Analyst Intern, Winter](https://go.vansh.nyc/1gM) | TMX Group | Toronto, Canada | 7 days ago |
-| [UI/UX Design and Frontend Engineer Intern, Summer](https://go.vansh.nyc/1gp) | Plusgrade | Toronto, Canada | 7 days ago |
 
 ### Sources
 
@@ -160,16 +158,16 @@ _Updated Wednesday 11 November, 01:34 Toronto &middot; 12/13 sources healthy &mi
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
 | Canadian-Tech-Internships-2027 \[tracker\] | 270 | ok |
-| Cohere \[ashby\] | 127 | ok |
+| Cohere \[ashby\] | 124 | ok |
 | Faire \[greenhouse\] | 69 | ok |
-| New-Grad-Positions \[tracker\] | 3259 | ok |
+| New-Grad-Positions \[tracker\] | 3224 | ok |
 | Summer2027-Internships \[tracker\] | 5353 | ok |
-| Tenstorrent \[greenhouse\] | 123 | ok |
+| Tenstorrent \[greenhouse\] | 122 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 86 | ok |
 | Wealthsimple \[ashby\] | 37 | ok |
-| Xanadu \[html\] | 30 | ok |
-| vansh-Summer2027 \[tracker\] | 2470 | ok |
+| Xanadu \[html\] | 31 | ok |
+| vansh-Summer2027 \[tracker\] | 2444 | ok |
 
 <!-- radar:listings:end -->
 
