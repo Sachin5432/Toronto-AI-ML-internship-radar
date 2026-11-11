@@ -32,9 +32,9 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Wednesday 11 November, 10:18 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Wednesday 11 November, 17:44 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 17 AI/ML matches
+### Strict &middot; 15 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -53,14 +53,14 @@ _Updated Wednesday 11 November, 10:18 Toronto &middot; 12/13 sources healthy &mi
 | [AI Solutions Specialist Co-op, Winter](https://go.vansh.nyc/1ic) | Rodan Energy Solutions Inc. | Mississauga, Canada | 6 days ago |
 | [Machine Learning Engineering Intern, Summer](https://go.vansh.nyc/1ho) | Qualcomm | Markham, Canada | 7 days ago |
 | [Machine Learning Developer Intern Co-op, Winter 2027](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Machine-Learning-Developer--Winter-2027---Co-op-Internship----4-months_R260029620) | Bank of Montreal | Toronto, ON, Canada | 7 days ago |
-| [AI Intern, Spring](https://go.vansh.nyc/1jf) | Aerospace Corporation | Kanata, Canada | 7 days ago |
-| [Data Science Intern, Summer](https://go.vansh.nyc/1gR) | Plusgrade | Toronto, Canada | 7 days ago |
 
-### Loose &middot; 90 to review
+### Loose &middot; 89 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Data and Analytics Intern, Summer 2027](https://ats.rippling.com/exacare-inc/jobs/e42f12bc-041a-4ef2-90d8-a77cd7f1f166) | exacare ai | Toronto, ON, Canada | **Today** |
 | [Information Security Analyst Co-op, Winter](https://go.vansh.nyc/1se) | Magnet Forensics | Waterloo, Canada, Ottawa, Canada | Yesterday |
+| [Embedded Software Engineer Co-op, Winter](https://go.vansh.nyc/1vc) | Gastronomous Technologies | Oakville, Canada | Yesterday |
 | [Full Stack Developer Intern, Summer](https://go.vansh.nyc/1qD) | Akeshya Private Limited | Remote, United States, Canada | Yesterday |
 | [Flutter Developer Intern, Summer](https://go.vansh.nyc/1qE) | Akeshya Private Limited | Remote, United States, Canada | Yesterday |
 | [Web Developer Intern, Summer](https://go.vansh.nyc/1qH) | Business Web Solutions | Remote, United States, Canada | Yesterday |
@@ -85,6 +85,7 @@ _Updated Wednesday 11 November, 10:18 Toronto &middot; 12/13 sources healthy &mi
 | [Software Engineer Intern, Infrastructure, Spring](https://go.vansh.nyc/1ri) | Peripheral | Toronto, Canada | Yesterday |
 | [Embedded Systems Engineering Intern, Capture Systems, Spring](https://go.vansh.nyc/1rk) | Peripheral | Toronto, Canada | Yesterday |
 | [DevOps Analyst Intern, Winter](https://go.vansh.nyc/1ro) | Hitachi | Toronto, Canada | Yesterday |
+| [Full Stack Developer Co-op, Winter](https://go.vansh.nyc/1vb) | Gastronomous Technologies | Oakville, Canada | Yesterday |
 | [IT Business Application Development Intern, Summer](https://go.vansh.nyc/1pV) | Celestica | Toronto, Canada | 2 days ago |
 | [Data Analyst Co-op Intern, Winter 2027](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-Analyst--Winter-2027--Co-o-Internship----8-months_R260026973) | Bank of Montreal | Toronto, ON, Canada | 2 days ago |
 | [Treasury &amp; Payment Solutions Strategy Intern, Spring 2027](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Treasury---Payment-Solutions-Strategy-Internship--Summer-2027--4-months-_R260031382) | Bank of Montreal | Toronto, ON, Canada | 2 days ago |
@@ -146,10 +147,6 @@ _Updated Wednesday 11 November, 10:18 Toronto &middot; 12/13 sources healthy &mi
 | [Junior Full-Stack Engineer Intern, N/A](https://volarisgroup.wd3.myworkdayjobs.com/BiblioCommons/job/Canada---Ontario/PEY---Junior-Fullstack-Engineer_R72456) | BiblioCommons | Ontario, Canada | 7 days ago |
 | [Software Developer Intern, Summer 2027](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10650) | SOTI | Mississauga, ON, Canada | 7 days ago |
 | [Software Developer Intern, N/A](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-12-Months-_R10655) | SOTI | Mississauga, ON, Canada | 7 days ago |
-| [Software Engineering Co-op, Winter](https://go.vansh.nyc/1ha) | Teledyne Technologies Incorporated | Waterloo, Canada | 7 days ago |
-| [Senior Systems Design Engineer Intern, N/A](https://careers.amd.com/jobs/95806?icims=1) | AMD | Markham, ON, Canada | 7 days ago |
-| [Senior Systems Design Engineer Intern, Summer](https://go.vansh.nyc/1hu) | AMD | Markham, Canada | 7 days ago |
-| [Junior Cybersecurity Operations Analyst Intern, Winter](https://go.vansh.nyc/1gM) | TMX Group | Toronto, Canada | 7 days ago |
 
 ### Sources
 
@@ -157,17 +154,17 @@ _Updated Wednesday 11 November, 10:18 Toronto &middot; 12/13 sources healthy &mi
 |---|---|---|
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
-| Canadian-Tech-Internships-2027 \[tracker\] | 270 | ok |
-| Cohere \[ashby\] | 124 | ok |
+| Canadian-Tech-Internships-2027 \[tracker\] | 268 | ok |
+| Cohere \[ashby\] | 123 | ok |
 | Faire \[greenhouse\] | 69 | ok |
-| New-Grad-Positions \[tracker\] | 3224 | ok |
-| Summer2027-Internships \[tracker\] | 5353 | ok |
+| New-Grad-Positions \[tracker\] | 3207 | ok |
+| Summer2027-Internships \[tracker\] | 5292 | ok |
 | Tenstorrent \[greenhouse\] | 122 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 86 | ok |
-| Wealthsimple \[ashby\] | 37 | ok |
+| Wealthsimple \[ashby\] | 38 | ok |
 | Xanadu \[html\] | 31 | ok |
-| vansh-Summer2027 \[tracker\] | 2444 | ok |
+| vansh-Summer2027 \[tracker\] | 2440 | ok |
 
 <!-- radar:listings:end -->
 
