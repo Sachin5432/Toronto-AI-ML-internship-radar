@@ -32,12 +32,13 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Thursday 12 November, 07:49 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Thursday 12 November, 15:52 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 12 AI/ML matches
+### Strict &middot; 13 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [AI Engineering Intern, Winter](https://go.vansh.nyc/1wI) | TMX Group | Toronto, Canada | **Today** |
 | [Engineering Documentation and AI Automation Co-op, Summer](https://go.vansh.nyc/1uz) | Synopsys | Nepean, Canada | Yesterday |
 | [AI/ML Layout Engineering Intern, Winter 2027](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI-ML-Layout-Engineering-Intern--Winter-2027-_R032102) | Ciena | Ottawa, ON, Canada | 2 days ago |
 | [Data Scientist Intern, Summer](https://go.vansh.nyc/1qF) | Avary.ai | Remote, United States, Canada | 2 days ago |
@@ -51,10 +52,11 @@ _Updated Thursday 12 November, 07:49 Toronto &middot; 12/13 sources healthy &mid
 | [ML Research Intern, Reconstruction, Spring](https://go.vansh.nyc/1rl) | Peripheral | Toronto, Canada | 2 days ago |
 | [Marketing Data &amp; AI Analyst Intern, Winter 2027](https://bb.wd3.myworkdayjobs.com/Student/job/Waterloo-Ontario/Marketing-Data---AI-Analyst-Student--Winter-2027-_20260327) | Blackberry | Waterloo, ON, Canada | 4 days ago |
 
-### Loose &middot; 75 to review
+### Loose &middot; 72 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Analog Design Intern, N/A](https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Ottawa/Analog-Design-Engineering-Intern_R267446) | Analog Devices | Ottawa, ON, Canada | Yesterday |
 | [Circuit Analyst New Grad](https://techinsights.applytojob.com/apply/ycOBoo1em8/Circuit-Analyst-New-Grad-Opportunity) | TechInsights | Ottawa, ON, Canada | Yesterday |
 | [Data and Analytics Intern, Summer 2027](https://ats.rippling.com/exacare-inc/jobs/e42f12bc-041a-4ef2-90d8-a77cd7f1f166) | exacare ai | Toronto, ON, Canada | Yesterday |
 | [Layout Design Co-op, Winter 2027](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Layout-Design-Co-op--Winter-2027-_R032103) | Ciena | Ottawa, ON, Canada | 2 days ago |
@@ -126,10 +128,6 @@ _Updated Thursday 12 November, 07:49 Toronto &middot; 12/13 sources healthy &mid
 | [Quantitative Analyst Co-op Intern, Summer 2027](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097) | Bank of Montreal | Toronto, ON, Canada | 7 days ago |
 | [Driver and Tools Developer Intern - Telemetry Firmware, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721989047) | Qualcomm | Markham, ON, Canada | 7 days ago |
 | [Telemetry Firmware, Driver and Tools Developer Intern, Summer](https://go.vansh.nyc/1jr) | Qualcomm | Markham, Canada | 7 days ago |
-| [QA Tester Intern, Datalogger Products, Fall](https://go.vansh.nyc/1kO) | AEM | Victoria, Canada | 7 days ago |
-| [Software Engineer Intern, Summer](https://go.vansh.nyc/1mQ) | DoorDash | Toronto, Canada | 7 days ago |
-| [Platform Engineer Intern, Winter](https://go.vansh.nyc/1iO) | Nelnet | Mississauga, Canada | 7 days ago |
-| [Forward Deployed Engineer (FDE) Intern, Summer](https://go.vansh.nyc/1iM) | Element Fleet Management | Toronto, Canada | 7 days ago |
 
 ### Sources
 
@@ -138,16 +136,16 @@ _Updated Thursday 12 November, 07:49 Toronto &middot; 12/13 sources healthy &mid
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
 | Canadian-Tech-Internships-2027 \[tracker\] | 268 | ok |
-| Cohere \[ashby\] | 123 | ok |
+| Cohere \[ashby\] | 122 | ok |
 | Faire \[greenhouse\] | 69 | ok |
 | New-Grad-Positions \[tracker\] | 3246 | ok |
-| Summer2027-Internships \[tracker\] | 5334 | ok |
-| Tenstorrent \[greenhouse\] | 120 | ok |
+| Summer2027-Internships \[tracker\] | 5347 | ok |
+| Tenstorrent \[greenhouse\] | 128 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 86 | ok |
 | Wealthsimple \[ashby\] | 37 | ok |
 | Xanadu \[html\] | 31 | ok |
-| vansh-Summer2027 \[tracker\] | 2450 | ok |
+| vansh-Summer2027 \[tracker\] | 2475 | ok |
 
 <!-- radar:listings:end -->
 
