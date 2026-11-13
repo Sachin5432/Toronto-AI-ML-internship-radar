@@ -32,7 +32,7 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Friday 13 November, 04:37 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Friday 13 November, 12:48 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 16 AI/ML matches
 
@@ -55,10 +55,11 @@ _Updated Friday 13 November, 04:37 Toronto &middot; 12/13 sources healthy &middo
 | [ML Research Intern, Reconstruction, Spring](https://go.vansh.nyc/1rl) | Peripheral | Toronto, Canada | 3 days ago |
 | [Marketing Data &amp; AI Analyst Intern, Winter 2027](https://bb.wd3.myworkdayjobs.com/Student/job/Waterloo-Ontario/Marketing-Data---AI-Analyst-Student--Winter-2027-_20260327) | Blackberry | Waterloo, ON, Canada | 5 days ago |
 
-### Loose &middot; 62 to review
+### Loose &middot; 61 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Personal &amp; Business Banking Development Program New Grad](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/BMO-Personal---Business-Banking-Development-Program--New-Graduate----2-Year-Program_R260031068-3) | Bank of Montreal | Toronto, ON, Canada | Yesterday |
 | [Analog Design Intern, N/A](https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Ottawa/Analog-Design-Engineering-Intern_R267446) | Analog Devices | Ottawa, ON, Canada | 2 days ago |
 | [Product Engineer Intern - Product Development, Summer 2027](https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Ottawa/Product-Engineering--Prod-Dev--Intern_R267447) | Analog Devices | Ottawa, ON, Canada | 2 days ago |
 | [Circuit Analyst New Grad](https://techinsights.applytojob.com/apply/ycOBoo1em8/Circuit-Analyst-New-Grad-Opportunity) | TechInsights | Ottawa, ON, Canada | 2 days ago |
@@ -119,8 +120,6 @@ _Updated Friday 13 November, 04:37 Toronto &middot; 12/13 sources healthy &middo
 | [Software Developer Co-op - Full Stack / Backend, Winter](https://go.vansh.nyc/1tS) | Cisco | Kanata, Canada, Saint-Laurent, Canada, Calgary, Canada, Toronto, Canada, Montreal, Canada, Vancouver, Canada, Halifax, Canada, Ottawa, Canada | 7 days ago |
 | [Software Validation Engineering Intern, Summer](https://go.vansh.nyc/1kR) | Qualcomm | Markham, Canada | 7 days ago |
 | [DevOps Co-op, Winter](https://go.vansh.nyc/1l0) | Hootsuite | Canada | 7 days ago |
-| [Embedded Software Developer Co-op, Winter](https://go.vansh.nyc/1kz) | Varian | Canada | 7 days ago |
-| [RF/Analog Verification Engineer Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446722001120) | Qualcomm | Markham, ON, Canada | 7 days ago |
 
 ### Sources
 
@@ -128,17 +127,17 @@ _Updated Friday 13 November, 04:37 Toronto &middot; 12/13 sources healthy &middo
 |---|---|---|
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
-| Canadian-Tech-Internships-2027 \[tracker\] | 267 | ok |
-| Cohere \[ashby\] | 121 | ok |
-| Faire \[greenhouse\] | 69 | ok |
-| New-Grad-Positions \[tracker\] | 3247 | ok |
-| Summer2027-Internships \[tracker\] | 5393 | ok |
-| Tenstorrent \[greenhouse\] | 131 | ok |
+| Canadian-Tech-Internships-2027 \[tracker\] | 261 | ok |
+| Cohere \[ashby\] | 120 | ok |
+| Faire \[greenhouse\] | 70 | ok |
+| New-Grad-Positions \[tracker\] | 3248 | ok |
+| Summer2027-Internships \[tracker\] | 5348 | ok |
+| Tenstorrent \[greenhouse\] | 132 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 86 | ok |
 | Wealthsimple \[ashby\] | 38 | ok |
 | Xanadu \[html\] | 31 | ok |
-| vansh-Summer2027 \[tracker\] | 2500 | ok |
+| vansh-Summer2027 \[tracker\] | 2494 | ok |
 
 <!-- radar:listings:end -->
 
