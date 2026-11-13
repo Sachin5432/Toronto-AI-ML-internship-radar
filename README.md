@@ -32,13 +32,16 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Thursday 12 November, 15:52 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Thursday 12 November, 20:52 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 13 AI/ML matches
+### Strict &middot; 16 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
 | [AI Engineering Intern, Winter](https://go.vansh.nyc/1wI) | TMX Group | Toronto, Canada | **Today** |
+| [AI Developer Co-op Intern, Winter 2027](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/AI-Developer--Winter-2027--Co-op-Internship----4-months_R260026323) | Bank of Montreal | Toronto, ON, Canada | Yesterday |
+| [AI Engineer Intern, Winter 2027](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/AI-Engineering-Intern_R-6680) | TMX Group | Toronto, ON, Canada | Yesterday |
+| [AI Developer Co-op, Winter](https://go.vansh.nyc/1y4) | Bank of Montreal | Toronto, Canada | Yesterday |
 | [Engineering Documentation and AI Automation Co-op, Summer](https://go.vansh.nyc/1uz) | Synopsys | Nepean, Canada | Yesterday |
 | [AI/ML Layout Engineering Intern, Winter 2027](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI-ML-Layout-Engineering-Intern--Winter-2027-_R032102) | Ciena | Ottawa, ON, Canada | 2 days ago |
 | [Data Scientist Intern, Summer](https://go.vansh.nyc/1qF) | Avary.ai | Remote, United States, Canada | 2 days ago |
@@ -52,11 +55,12 @@ _Updated Thursday 12 November, 15:52 Toronto &middot; 12/13 sources healthy &mid
 | [ML Research Intern, Reconstruction, Spring](https://go.vansh.nyc/1rl) | Peripheral | Toronto, Canada | 2 days ago |
 | [Marketing Data &amp; AI Analyst Intern, Winter 2027](https://bb.wd3.myworkdayjobs.com/Student/job/Waterloo-Ontario/Marketing-Data---AI-Analyst-Student--Winter-2027-_20260327) | Blackberry | Waterloo, ON, Canada | 4 days ago |
 
-### Loose &middot; 72 to review
+### Loose &middot; 62 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
 | [Analog Design Intern, N/A](https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Ottawa/Analog-Design-Engineering-Intern_R267446) | Analog Devices | Ottawa, ON, Canada | Yesterday |
+| [Product Engineer Intern - Product Development, Summer 2027](https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Ottawa/Product-Engineering--Prod-Dev--Intern_R267447) | Analog Devices | Ottawa, ON, Canada | Yesterday |
 | [Circuit Analyst New Grad](https://techinsights.applytojob.com/apply/ycOBoo1em8/Circuit-Analyst-New-Grad-Opportunity) | TechInsights | Ottawa, ON, Canada | Yesterday |
 | [Data and Analytics Intern, Summer 2027](https://ats.rippling.com/exacare-inc/jobs/e42f12bc-041a-4ef2-90d8-a77cd7f1f166) | exacare ai | Toronto, ON, Canada | Yesterday |
 | [Layout Design Co-op, Winter 2027](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Layout-Design-Co-op--Winter-2027-_R032103) | Ciena | Ottawa, ON, Canada | 2 days ago |
@@ -117,17 +121,6 @@ _Updated Thursday 12 November, 15:52 Toronto &middot; 12/13 sources healthy &mid
 | [DevOps Co-op, Winter](https://go.vansh.nyc/1l0) | Hootsuite | Canada | 6 days ago |
 | [Embedded Software Developer Co-op, Winter](https://go.vansh.nyc/1kz) | Varian | Canada | 6 days ago |
 | [RF/Analog Verification Engineer Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446722001120) | Qualcomm | Markham, ON, Canada | 6 days ago |
-| [Research Assistant Intern - Data Analysis, Winter 2027](https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site/job/Ottawa-ON/CUPE---Winter2027---Data-Analysis_JR41185) | University of Ottawa | Ottawa, ON, Canada | 7 days ago |
-| [Personal &amp; Business Banking New Grad](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Personal---Business-Banking-Development-Program--New-Graduate----2-Year-Program_R260031068) | Bank of Montreal | Toronto, ON, Canada | 7 days ago |
-| [Technology Research Associate Co-op Intern, Winter 2027](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Technology-Research-Associate--Winter-2027--Co-op-Internship----4-months_R260024978) | Bank of Montreal | Toronto, ON, Canada | 7 days ago |
-| [Analytics Engineering &amp; Measurement Student Intern, Winter 2027](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Analytics-Engineering---Measurement-Student_R26_00700) | OLG | Toronto, ON, Canada, Sault Ste. Marie, ON, Canada | 7 days ago |
-| [Software Design Engineer Intern, N/A](https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Boston-Massachusetts-US/Software-Design-Engineer-Intern_R-102764) | DataRobot | Boston, MA, Seattle, WA, SF, Ontario, Canada | 7 days ago |
-| [Quantitative Analyst Co-op Intern, Summer 2027](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097-1) | Bank of Montreal | Toronto, ON, Canada | 7 days ago |
-| [Embedded Security Software Developer New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Security-Software-Developer---New-Grad_R032066) | Ciena | Ottawa, ON, Canada | 7 days ago |
-| [Personal &amp; Business Banking New Grad](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/BMO-Personal---Business-Banking-Development-Program--New-Graduate----2-Year-Program_R260031068-1) | Bank of Montreal | Toronto, ON, Canada | 7 days ago |
-| [Quantitative Analyst Co-op Intern, Summer 2027](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097) | Bank of Montreal | Toronto, ON, Canada | 7 days ago |
-| [Driver and Tools Developer Intern - Telemetry Firmware, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446721989047) | Qualcomm | Markham, ON, Canada | 7 days ago |
-| [Telemetry Firmware, Driver and Tools Developer Intern, Summer](https://go.vansh.nyc/1jr) | Qualcomm | Markham, Canada | 7 days ago |
 
 ### Sources
 
@@ -135,17 +128,17 @@ _Updated Thursday 12 November, 15:52 Toronto &middot; 12/13 sources healthy &mid
 |---|---|---|
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
-| Canadian-Tech-Internships-2027 \[tracker\] | 268 | ok |
-| Cohere \[ashby\] | 122 | ok |
+| Canadian-Tech-Internships-2027 \[tracker\] | 267 | ok |
+| Cohere \[ashby\] | 121 | ok |
 | Faire \[greenhouse\] | 69 | ok |
-| New-Grad-Positions \[tracker\] | 3246 | ok |
-| Summer2027-Internships \[tracker\] | 5347 | ok |
-| Tenstorrent \[greenhouse\] | 128 | ok |
+| New-Grad-Positions \[tracker\] | 3261 | ok |
+| Summer2027-Internships \[tracker\] | 5396 | ok |
+| Tenstorrent \[greenhouse\] | 129 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 86 | ok |
-| Wealthsimple \[ashby\] | 37 | ok |
+| Wealthsimple \[ashby\] | 39 | ok |
 | Xanadu \[html\] | 31 | ok |
-| vansh-Summer2027 \[tracker\] | 2475 | ok |
+| vansh-Summer2027 \[tracker\] | 2511 | ok |
 
 <!-- radar:listings:end -->
 
