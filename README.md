@@ -32,7 +32,7 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Saturday 14 November, 01:33 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Saturday 14 November, 09:13 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 16 AI/ML matches
 
@@ -55,10 +55,11 @@ _Updated Saturday 14 November, 01:33 Toronto &middot; 12/13 sources healthy &mid
 | [ML Research Intern, Reconstruction, Spring](https://go.vansh.nyc/1rl) | Peripheral | Toronto, Canada | 4 days ago |
 | [Marketing Data &amp; AI Analyst Intern, Winter 2027](https://bb.wd3.myworkdayjobs.com/Student/job/Waterloo-Ontario/Marketing-Data---AI-Analyst-Student--Winter-2027-_20260327) | Blackberry | Waterloo, ON, Canada | 6 days ago |
 
-### Loose &middot; 56 to review
+### Loose &middot; 57 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [GCAN Field Operations Analyst Intern, Summer 2027](https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Field-Operations-Analyst-Intern-ON-L3T-7W8/1450732300/?ats=successfactors) | W.W. Grainger | Thornhill, Vaughan, ON, Canada | Yesterday |
 | [Customer Experience Intern, Summer 2027](https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Customer-Experience-Intern-ON-L3T-7W8/1450621700/?ats=successfactors) | W.W. Grainger | Thornhill, Vaughan, ON, Canada | Yesterday |
 | [Programmer Analyst Intern, Winter](https://go.vansh.nyc/1yQ) | Canadian Tire Corporation, Limited | Mississauga, Canada | Yesterday |
 | [Personal &amp; Business Banking Development Program New Grad](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/BMO-Personal---Business-Banking-Development-Program--New-Graduate----2-Year-Program_R260031068-3) | Bank of Montreal | Toronto, ON, Canada | 2 days ago |
@@ -125,14 +126,14 @@ _Updated Saturday 14 November, 01:33 Toronto &middot; 12/13 sources healthy &mid
 | Canadian-Tech-Internships-2027 \[tracker\] | 266 | ok |
 | Cohere \[ashby\] | 121 | ok |
 | Faire \[greenhouse\] | 71 | ok |
-| New-Grad-Positions \[tracker\] | 3217 | ok |
-| Summer2027-Internships \[tracker\] | 5255 | ok |
+| New-Grad-Positions \[tracker\] | 3247 | ok |
+| Summer2027-Internships \[tracker\] | 5347 | ok |
 | Tenstorrent \[greenhouse\] | 133 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 86 | ok |
 | Wealthsimple \[ashby\] | 41 | ok |
 | Xanadu \[html\] | 31 | ok |
-| vansh-Summer2027 \[tracker\] | 2481 | ok |
+| vansh-Summer2027 \[tracker\] | 2480 | ok |
 
 <!-- radar:listings:end -->
 
