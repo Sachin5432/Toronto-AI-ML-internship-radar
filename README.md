@@ -32,9 +32,9 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Sunday 15 November, 17:53 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Sunday 15 November, 21:47 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 16 AI/ML matches
+### Strict &middot; 15 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -53,9 +53,8 @@ _Updated Sunday 15 November, 17:53 Toronto &middot; 12/13 sources healthy &middo
 | [AI Engineer Intern, Summer](https://go.vansh.nyc/1rb) | Holiday World | Remote, United States, Canada | 5 days ago |
 | [Robotics Engineering Intern, Capture Systems, Summer](https://go.vansh.nyc/1rj) | Peripheral | Toronto, Canada | 5 days ago |
 | [ML Research Intern, Reconstruction, Spring](https://go.vansh.nyc/1rl) | Peripheral | Toronto, Canada | 5 days ago |
-| [Marketing Data &amp; AI Analyst Intern, Winter 2027](https://bb.wd3.myworkdayjobs.com/Student/job/Waterloo-Ontario/Marketing-Data---AI-Analyst-Student--Winter-2027-_20260327) | Blackberry | Waterloo, ON, Canada | 7 days ago |
 
-### Loose &middot; 57 to review
+### Loose &middot; 52 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -111,11 +110,6 @@ _Updated Sunday 15 November, 17:53 Toronto &middot; 12/13 sources healthy &middo
 | [Application Software Developer Co-op, Winter](https://go.vansh.nyc/1p8) | Varian | Canada | 6 days ago |
 | [FPGA Design Verification Intern, Summer](https://go.vansh.nyc/1p3) | Altera | Toronto, Canada | 6 days ago |
 | [BI/Data Analyst Intern, N/A](https://job-boards.greenhouse.io/kensingtontours/jobs/5289223007) | Kensington | Toronto, ON, Canada | 6 days ago |
-| [Associate Technology Leadership Advancement Program Intern, Summer 2027](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Associate-Technology-Leadership-Advancement-Program---Summer-2027_2623078-1) | CIBC | Toronto, ON, Canada | 7 days ago |
-| [BI/Data Analyst Intern, Summer](https://go.vansh.nyc/1or) | Kensington | Toronto, Canada | 7 days ago |
-| [FPGA Design Verification Intern, N/A](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Design-Verification-Intern_R03440) | Altera | Toronto, ON, Canada | 7 days ago |
-| [Software Developer New Grad](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer_R260028581) | Bank of Montreal | Toronto, ON, Canada | 7 days ago |
-| [Software Engineer Intern, N/A](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03414) | Altera | Toronto, ON, Canada | 7 days ago |
 
 ### Sources
 
@@ -123,17 +117,17 @@ _Updated Sunday 15 November, 17:53 Toronto &middot; 12/13 sources healthy &middo
 |---|---|---|
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
-| Canadian-Tech-Internships-2027 \[tracker\] | 266 | ok |
+| Canadian-Tech-Internships-2027 \[tracker\] | 265 | ok |
 | Cohere \[ashby\] | 121 | ok |
 | Faire \[greenhouse\] | 71 | ok |
-| New-Grad-Positions \[tracker\] | 3233 | ok |
-| Summer2027-Internships \[tracker\] | 5314 | ok |
+| New-Grad-Positions \[tracker\] | 3235 | ok |
+| Summer2027-Internships \[tracker\] | 5318 | ok |
 | Tenstorrent \[greenhouse\] | 133 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 86 | ok |
 | Wealthsimple \[ashby\] | 41 | ok |
 | Xanadu \[html\] | 31 | ok |
-| vansh-Summer2027 \[tracker\] | 2479 | ok |
+| vansh-Summer2027 \[tracker\] | 2481 | ok |
 
 <!-- radar:listings:end -->
 
