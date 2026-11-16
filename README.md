@@ -32,12 +32,13 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Monday 16 November, 06:33 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Monday 16 November, 17:12 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 15 AI/ML matches
+### Strict &middot; 16 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Applied Machine Learning Engineer Intern, Summer](https://go.vansh.nyc/1Ae) | Shopify | Montreal, Canada, Toronto, Canada, Ottawa, Canada | **Today** |
 | [AI Engineering Intern, Winter](https://go.vansh.nyc/1wI) | TMX Group | Toronto, Canada | 4 days ago |
 | [AI Developer Co-op Intern, Winter 2027](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/AI-Developer--Winter-2027--Co-op-Internship----4-months_R260026323) | Bank of Montreal | Toronto, ON, Canada | 5 days ago |
 | [AI Engineer Intern, Winter 2027](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/AI-Engineering-Intern_R-6680) | TMX Group | Toronto, ON, Canada | 5 days ago |
@@ -54,10 +55,16 @@ _Updated Monday 16 November, 06:33 Toronto &middot; 12/13 sources healthy &middo
 | [Robotics Engineering Intern, Capture Systems, Summer](https://go.vansh.nyc/1rj) | Peripheral | Toronto, Canada | 6 days ago |
 | [ML Research Intern, Reconstruction, Spring](https://go.vansh.nyc/1rl) | Peripheral | Toronto, Canada | 6 days ago |
 
-### Loose &middot; 53 to review
+### Loose &middot; 56 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Software Engineer Intern, Summer 2027](https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a) | Shopify | Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada | **Today** |
+| [Data Intern, Summer 2027](https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95) | Shopify | Montreal, QC, Canada, Toronto, ON, Canada, NYC, Ottawa, ON, Canada | **Today** |
+| [Applied Machine Learning Engineer Intern, Summer 2027](https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536) | Shopify | Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada | **Today** |
+| [Software Engineer Intern, Summer](https://go.vansh.nyc/1Ac) | Shopify | Montreal, Canada, Toronto, Canada, Ottawa, Canada | **Today** |
+| [Data Intern, Summer](https://go.vansh.nyc/1Ad) | Shopify | Montreal, Canada, Toronto, Canada, New York, NY, Ottawa, Canada | **Today** |
+| [Campus Undergraduate Full-Time Engineer - Software Engineer 1](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016677) | American Express | Toronto, ON, Canada | **Today** |
 | [Manufacturing Excellence Co-op, Winter 2027](https://aliaxis.wd3.myworkdayjobs.com/IPEX/job/CA---Oakville-3---Office/Manufacturing-Excellence-Co-Op-Student--Winter-2027---Etudiant-Coop-excellence-manufacturire--Hiver-2027_R-58664-1) | IPEX | Oakville, ON, Canada | 2 days ago |
 | [GCAN Field Operations Analyst Intern, Summer 2027](https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Field-Operations-Analyst-Intern-ON-L3T-7W8/1450732300/?ats=successfactors) | W.W. Grainger | Thornhill, Vaughan, ON, Canada | 3 days ago |
 | [Customer Experience Intern, Summer 2027](https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Customer-Experience-Intern-ON-L3T-7W8/1450621700/?ats=successfactors) | W.W. Grainger | Thornhill, Vaughan, ON, Canada | 3 days ago |
@@ -108,9 +115,6 @@ _Updated Monday 16 November, 06:33 Toronto &middot; 12/13 sources healthy &middo
 | [Treasury &amp; Payment Solutions Strategy Intern, Spring 2027](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Treasury---Payment-Solutions-Strategy-Internship--Summer-2027--4-months-_R260031382-1) | Bank of Montreal | Toronto, ON, Canada | 7 days ago |
 | [Firmware Engineering Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446722038614) | Qualcomm | Toronto, ON, Canada | 7 days ago |
 | [Firmware Engineering Intern, Summer](https://go.vansh.nyc/1pw) | Qualcomm | Toronto, Canada | 7 days ago |
-| [Application Software Developer Co-op, Winter](https://go.vansh.nyc/1p8) | Varian | Canada | 7 days ago |
-| [FPGA Design Verification Intern, Summer](https://go.vansh.nyc/1p3) | Altera | Toronto, Canada | 7 days ago |
-| [BI/Data Analyst Intern, N/A](https://job-boards.greenhouse.io/kensingtontours/jobs/5289223007) | Kensington | Toronto, ON, Canada | 7 days ago |
 
 ### Sources
 
@@ -119,16 +123,16 @@ _Updated Monday 16 November, 06:33 Toronto &middot; 12/13 sources healthy &middo
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
 | Canadian-Tech-Internships-2027 \[tracker\] | 265 | ok |
-| Cohere \[ashby\] | 122 | ok |
-| Faire \[greenhouse\] | 71 | ok |
-| New-Grad-Positions \[tracker\] | 3223 | ok |
-| Summer2027-Internships \[tracker\] | 5301 | ok |
-| Tenstorrent \[greenhouse\] | 133 | ok |
+| Cohere \[ashby\] | 121 | ok |
+| Faire \[greenhouse\] | 69 | ok |
+| New-Grad-Positions \[tracker\] | 3188 | ok |
+| Summer2027-Internships \[tracker\] | 5219 | ok |
+| Tenstorrent \[greenhouse\] | 134 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 86 | ok |
-| Wealthsimple \[ashby\] | 40 | ok |
-| Xanadu \[html\] | 31 | ok |
-| vansh-Summer2027 \[tracker\] | 2456 | ok |
+| Wealthsimple \[ashby\] | 41 | ok |
+| Xanadu \[html\] | 32 | ok |
+| vansh-Summer2027 \[tracker\] | 2432 | ok |
 
 <!-- radar:listings:end -->
 
