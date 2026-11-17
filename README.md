@@ -32,12 +32,13 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Tuesday 17 November, 09:31 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Tuesday 17 November, 17:56 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 22 AI/ML matches
+### Strict &middot; 14 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [AI/Machine Learning Intern, Summer](https://go.vansh.nyc/1Bt) | Qualcomm | Markham, Canada | **Today** |
 | [AI Systems Intern, N/A](https://birdseyeaccount.bamboohr.com/careers/287/) | Birdseye Security Solutions | Mississauga, ON, Canada | **Today** |
 | [Computer Vision Intern, N/A](https://birdseyeaccount.bamboohr.com/careers/289/) | Birdseye Security Solutions | Mississauga, ON, Canada | **Today** |
 | [AI Systems Intern, Summer](https://go.vansh.nyc/1AX) | Birdseye Security Solutions | Mississauga, Canada | **Today** |
@@ -51,17 +52,8 @@ _Updated Tuesday 17 November, 09:31 Toronto &middot; 12/13 sources healthy &midd
 | [AI Developer Co-op, Winter](https://go.vansh.nyc/1y4) | Bank of Montreal | Toronto, Canada | 6 days ago |
 | [Engineering Documentation and AI Automation Co-op, Summer](https://go.vansh.nyc/1uz) | Synopsys | Nepean, Canada | 6 days ago |
 | [AI/ML Layout Engineering Intern, Winter 2027](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI-ML-Layout-Engineering-Intern--Winter-2027-_R032102) | Ciena | Ottawa, ON, Canada | 7 days ago |
-| [Data Scientist Intern, Summer](https://go.vansh.nyc/1qF) | Avary.ai | Remote, United States, Canada | 7 days ago |
-| [AI Research Residency Intern, Summer](https://go.vansh.nyc/1qU) | Maincode | Remote, United States, Canada | 7 days ago |
-| [Data Scientist Intern, Summer](https://go.vansh.nyc/1qX) | Metasys | Remote, United States, Canada | 7 days ago |
-| [AI/ML Engineer Intern, Summer](https://go.vansh.nyc/1r2) | Metasys | Remote, United States, Canada | 7 days ago |
-| [MLOps Engineer Intern, Summer](https://go.vansh.nyc/1r6) | Metasys | Remote, United States, Canada | 7 days ago |
-| [Data Engineer Intern, Summer](https://go.vansh.nyc/1r7) | Metasys | Remote, United States, Canada | 7 days ago |
-| [AI Engineer Intern, Summer](https://go.vansh.nyc/1rb) | Holiday World | Remote, United States, Canada | 7 days ago |
-| [Robotics Engineering Intern, Capture Systems, Summer](https://go.vansh.nyc/1rj) | Peripheral | Toronto, Canada | 7 days ago |
-| [ML Research Intern, Reconstruction, Spring](https://go.vansh.nyc/1rl) | Peripheral | Toronto, Canada | 7 days ago |
 
-### Loose &middot; 50 to review
+### Loose &middot; 24 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -89,32 +81,6 @@ _Updated Tuesday 17 November, 09:31 Toronto &middot; 12/13 sources healthy &midd
 | [Data and Analytics Intern, Summer 2027](https://ats.rippling.com/exacare-inc/jobs/e42f12bc-041a-4ef2-90d8-a77cd7f1f166) | exacare ai | Toronto, ON, Canada | 6 days ago |
 | [Layout Design Co-op, Winter 2027](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Layout-Design-Co-op--Winter-2027-_R032103) | Ciena | Ottawa, ON, Canada | 7 days ago |
 | [Embedded Software Engineer New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R032090-1) | Ciena | Ottawa, ON, Canada | 7 days ago |
-| [Information Security Analyst Co-op, Winter](https://go.vansh.nyc/1se) | Magnet Forensics | Waterloo, Canada, Ottawa, Canada | 7 days ago |
-| [Embedded Software Engineer Co-op, Winter](https://go.vansh.nyc/1vc) | Gastronomous Technologies | Oakville, Canada | 7 days ago |
-| [Full Stack Developer Intern, Summer](https://go.vansh.nyc/1qD) | Akeshya Private Limited | Remote, United States, Canada | 7 days ago |
-| [Flutter Developer Intern, Summer](https://go.vansh.nyc/1qE) | Akeshya Private Limited | Remote, United States, Canada | 7 days ago |
-| [Web Developer Intern, Summer](https://go.vansh.nyc/1qH) | Business Web Solutions | Remote, United States, Canada | 7 days ago |
-| [Software Engineer Intern, WW, Summer](https://go.vansh.nyc/1qI) | Decoda Health | Toronto, Canada | 7 days ago |
-| [Senior Back-End Engineer Intern, Summer](https://go.vansh.nyc/1qL) | Flowai | Remote, United States, Canada | 7 days ago |
-| [Software Engineering Intern, Summer](https://go.vansh.nyc/1qM) | getIntro | Remote, United States, Canada | 7 days ago |
-| [Backend Engineering &amp; Security Intern, Summer](https://go.vansh.nyc/1qP) | Intelura | Remote, United States, Canada | 7 days ago |
-| [Mobile Application Developer Intern, Summer](https://go.vansh.nyc/1qQ) | Intelura | Remote, United States, Canada | 7 days ago |
-| [Full Stack Engineer Intern, Summer](https://go.vansh.nyc/1qT) | Klatch AI | Remote, United States, Canada | 7 days ago |
-| [Data Architect Intern, Summer](https://go.vansh.nyc/1qW) | Metasys | Remote, United States, Canada | 7 days ago |
-| [Site Reliability Engineer Intern, Summer](https://go.vansh.nyc/1qY) | Metasys | Remote, United States, Canada | 7 days ago |
-| [Automation QA Engineer Intern, Summer](https://go.vansh.nyc/1qZ) | Metasys | Remote, United States, Canada | 7 days ago |
-| [Frontend Engineer Intern, Summer](https://go.vansh.nyc/1r0) | Metasys | Remote, United States, Canada | 7 days ago |
-| [Backend Engineer Intern, Summer](https://go.vansh.nyc/1r1) | Metasys | Remote, United States, Canada | 7 days ago |
-| [Technical Architect Intern, Frontend/Backend, Summer](https://go.vansh.nyc/1r3) | Metasys | Remote, United States, Canada | 7 days ago |
-| [DevOps Engineer Intern, Summer](https://go.vansh.nyc/1r4) | Metasys | Remote, United States, Canada | 7 days ago |
-| [Security Engineer Intern, Summer](https://go.vansh.nyc/1r5) | Metasys | Remote, United States, Canada | 7 days ago |
-| [DevSecOps Engineer Intern, Summer](https://go.vansh.nyc/1r8) | Metasys | Remote, United States, Canada | 7 days ago |
-| [Software Engineer Intern, Summer](https://go.vansh.nyc/1ra) | Holiday World | Remote, United States, Canada | 7 days ago |
-| [Software Engineer Intern, Summer](https://go.vansh.nyc/1re) | Nura | Remote, United States, Canada | 7 days ago |
-| [Software Engineering Intern, Summer](https://go.vansh.nyc/1rh) | Stealth Startup \| Enterprise AI | Remote, United States, Canada | 7 days ago |
-| [Software Engineer Intern, Infrastructure, Spring](https://go.vansh.nyc/1ri) | Peripheral | Toronto, Canada | 7 days ago |
-| [Embedded Systems Engineering Intern, Capture Systems, Spring](https://go.vansh.nyc/1rk) | Peripheral | Toronto, Canada | 7 days ago |
-| [DevOps Analyst Intern, Winter](https://go.vansh.nyc/1ro) | Hitachi | Toronto, Canada | 7 days ago |
 
 ### Sources
 
@@ -123,16 +89,16 @@ _Updated Tuesday 17 November, 09:31 Toronto &middot; 12/13 sources healthy &midd
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
 | Canadian-Tech-Internships-2027 \[tracker\] | 259 | ok |
-| Cohere \[ashby\] | 126 | ok |
-| Faire \[greenhouse\] | 70 | ok |
-| New-Grad-Positions \[tracker\] | 3166 | ok |
-| Summer2027-Internships \[tracker\] | 5229 | ok |
+| Cohere \[ashby\] | 127 | ok |
+| Faire \[greenhouse\] | 71 | ok |
+| New-Grad-Positions \[tracker\] | 3134 | ok |
+| Summer2027-Internships \[tracker\] | 5186 | ok |
 | Tenstorrent \[greenhouse\] | 133 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 86 | ok |
-| Wealthsimple \[ashby\] | 42 | ok |
+| Wealthsimple \[ashby\] | 41 | ok |
 | Xanadu \[html\] | 32 | ok |
-| vansh-Summer2027 \[tracker\] | 2451 | ok |
+| vansh-Summer2027 \[tracker\] | 2445 | ok |
 
 <!-- radar:listings:end -->
 
