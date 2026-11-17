@@ -32,12 +32,14 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Monday 16 November, 17:12 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Monday 16 November, 23:33 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 16 AI/ML matches
+### Strict &middot; 18 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Data Analytics &amp; AI Intern, N/A](https://www.careers.zurich.com/job/Toronto-Data-Analytics-&-AI-Intern-ON/1377641357/?ats=successfactors) | Zurich Insurance | Toronto, ON, Canada | **Today** |
+| [Data Analytics &amp; AI Intern, Summer](https://go.vansh.nyc/1AD) | Zurich Insurance | Toronto, Canada | **Today** |
 | [Applied Machine Learning Engineer Intern, Summer](https://go.vansh.nyc/1Ae) | Shopify | Montreal, Canada, Toronto, Canada, Ottawa, Canada | **Today** |
 | [AI Engineering Intern, Winter](https://go.vansh.nyc/1wI) | TMX Group | Toronto, Canada | 4 days ago |
 | [AI Developer Co-op Intern, Winter 2027](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/AI-Developer--Winter-2027--Co-op-Internship----4-months_R260026323) | Bank of Montreal | Toronto, ON, Canada | 5 days ago |
@@ -55,7 +57,7 @@ _Updated Monday 16 November, 17:12 Toronto &middot; 12/13 sources healthy &middo
 | [Robotics Engineering Intern, Capture Systems, Summer](https://go.vansh.nyc/1rj) | Peripheral | Toronto, Canada | 6 days ago |
 | [ML Research Intern, Reconstruction, Spring](https://go.vansh.nyc/1rl) | Peripheral | Toronto, Canada | 6 days ago |
 
-### Loose &middot; 56 to review
+### Loose &middot; 48 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -107,14 +109,6 @@ _Updated Monday 16 November, 17:12 Toronto &middot; 12/13 sources healthy &middo
 | [Embedded Systems Engineering Intern, Capture Systems, Spring](https://go.vansh.nyc/1rk) | Peripheral | Toronto, Canada | 6 days ago |
 | [DevOps Analyst Intern, Winter](https://go.vansh.nyc/1ro) | Hitachi | Toronto, Canada | 6 days ago |
 | [Full Stack Developer Co-op, Winter](https://go.vansh.nyc/1vb) | Gastronomous Technologies | Oakville, Canada | 6 days ago |
-| [IT Business Application Development Intern, Summer](https://go.vansh.nyc/1pV) | Celestica | Toronto, Canada | 7 days ago |
-| [Data Analyst Co-op Intern, Winter 2027](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-Analyst--Winter-2027--Co-o-Internship----8-months_R260026973) | Bank of Montreal | Toronto, ON, Canada | 7 days ago |
-| [Treasury &amp; Payment Solutions Strategy Intern, Spring 2027](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Treasury---Payment-Solutions-Strategy-Internship--Summer-2027--4-months-_R260031382) | Bank of Montreal | Toronto, ON, Canada | 7 days ago |
-| [Mixed Signal Designer Co-op, N/A](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Mixed-Signal-Designer---coop_R032100) | Ciena | Ottawa, ON, Canada | 7 days ago |
-| [Software Developer Intern, Summer 2027](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027---12-months-_R10677) | SOTI | Mississauga, ON, Canada | 7 days ago |
-| [Treasury &amp; Payment Solutions Strategy Intern, Spring 2027](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Treasury---Payment-Solutions-Strategy-Internship--Summer-2027--4-months-_R260031382-1) | Bank of Montreal | Toronto, ON, Canada | 7 days ago |
-| [Firmware Engineering Intern, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446722038614) | Qualcomm | Toronto, ON, Canada | 7 days ago |
-| [Firmware Engineering Intern, Summer](https://go.vansh.nyc/1pw) | Qualcomm | Toronto, Canada | 7 days ago |
 
 ### Sources
 
@@ -123,16 +117,16 @@ _Updated Monday 16 November, 17:12 Toronto &middot; 12/13 sources healthy &middo
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
 | Canadian-Tech-Internships-2027 \[tracker\] | 265 | ok |
-| Cohere \[ashby\] | 121 | ok |
-| Faire \[greenhouse\] | 69 | ok |
-| New-Grad-Positions \[tracker\] | 3188 | ok |
-| Summer2027-Internships \[tracker\] | 5219 | ok |
+| Cohere \[ashby\] | 124 | ok |
+| Faire \[greenhouse\] | 70 | ok |
+| New-Grad-Positions \[tracker\] | 3168 | ok |
+| Summer2027-Internships \[tracker\] | 5230 | ok |
 | Tenstorrent \[greenhouse\] | 134 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 86 | ok |
-| Wealthsimple \[ashby\] | 41 | ok |
+| Wealthsimple \[ashby\] | 42 | ok |
 | Xanadu \[html\] | 32 | ok |
-| vansh-Summer2027 \[tracker\] | 2432 | ok |
+| vansh-Summer2027 \[tracker\] | 2444 | ok |
 
 <!-- radar:listings:end -->
 
