@@ -32,12 +32,14 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Tuesday 17 November, 17:56 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Tuesday 17 November, 23:28 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 14 AI/ML matches
+### Strict &middot; 15 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Research Assistant Co-op - AI Focus, Winter 2027](https://jobs.jobvite.com/ross-video-careers/job/o51QAfwg?nl=1&nl=1&fr=false) | Ross Video | Nepean, Ottawa, ON, Canada | **Today** |
+| [Research Assistant Co-op, AI Focus, Winter](https://go.vansh.nyc/1BN) | Ross Video | Ottawa, Canada | **Today** |
 | [AI/Machine Learning Intern, Summer](https://go.vansh.nyc/1Bt) | Qualcomm | Markham, Canada | **Today** |
 | [AI Systems Intern, N/A](https://birdseyeaccount.bamboohr.com/careers/287/) | Birdseye Security Solutions | Mississauga, ON, Canada | **Today** |
 | [Computer Vision Intern, N/A](https://birdseyeaccount.bamboohr.com/careers/289/) | Birdseye Security Solutions | Mississauga, ON, Canada | **Today** |
@@ -51,12 +53,12 @@ _Updated Tuesday 17 November, 17:56 Toronto &middot; 12/13 sources healthy &midd
 | [AI Engineer Intern, Winter 2027](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/AI-Engineering-Intern_R-6680) | TMX Group | Toronto, ON, Canada | 6 days ago |
 | [AI Developer Co-op, Winter](https://go.vansh.nyc/1y4) | Bank of Montreal | Toronto, Canada | 6 days ago |
 | [Engineering Documentation and AI Automation Co-op, Summer](https://go.vansh.nyc/1uz) | Synopsys | Nepean, Canada | 6 days ago |
-| [AI/ML Layout Engineering Intern, Winter 2027](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI-ML-Layout-Engineering-Intern--Winter-2027-_R032102) | Ciena | Ottawa, ON, Canada | 7 days ago |
 
-### Loose &middot; 24 to review
+### Loose &middot; 23 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [AI/Machine Learning Intern - Interim Engineering Intern - SW, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446722176432) | Qualcomm | Markham, ON, Canada | **Today** |
 | [Computer Science Co-op, Winter](https://go.vansh.nyc/1B1) | Critical Environment Technologies | Delta, Canada | **Today** |
 | [Software Developer Intern, N/A](https://birdseyeaccount.bamboohr.com/careers/286/) | Birdseye Security Solutions | Mississauga, ON, Canada | **Today** |
 | [Software Developer Intern, Summer](https://go.vansh.nyc/1AZ) | Birdseye Security Solutions | Mississauga, Canada | **Today** |
@@ -79,8 +81,6 @@ _Updated Tuesday 17 November, 17:56 Toronto &middot; 12/13 sources healthy &midd
 | [Product Engineer Intern - Product Development, Summer 2027](https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Ottawa/Product-Engineering--Prod-Dev--Intern_R267447) | Analog Devices | Ottawa, ON, Canada | 6 days ago |
 | [Circuit Analyst New Grad](https://techinsights.applytojob.com/apply/ycOBoo1em8/Circuit-Analyst-New-Grad-Opportunity) | TechInsights | Ottawa, ON, Canada | 6 days ago |
 | [Data and Analytics Intern, Summer 2027](https://ats.rippling.com/exacare-inc/jobs/e42f12bc-041a-4ef2-90d8-a77cd7f1f166) | exacare ai | Toronto, ON, Canada | 6 days ago |
-| [Layout Design Co-op, Winter 2027](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Layout-Design-Co-op--Winter-2027-_R032103) | Ciena | Ottawa, ON, Canada | 7 days ago |
-| [Embedded Software Engineer New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R032090-1) | Ciena | Ottawa, ON, Canada | 7 days ago |
 
 ### Sources
 
@@ -88,17 +88,17 @@ _Updated Tuesday 17 November, 17:56 Toronto &middot; 12/13 sources healthy &midd
 |---|---|---|
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
-| Canadian-Tech-Internships-2027 \[tracker\] | 259 | ok |
+| Canadian-Tech-Internships-2027 \[tracker\] | 268 | ok |
 | Cohere \[ashby\] | 127 | ok |
 | Faire \[greenhouse\] | 71 | ok |
-| New-Grad-Positions \[tracker\] | 3134 | ok |
-| Summer2027-Internships \[tracker\] | 5186 | ok |
+| New-Grad-Positions \[tracker\] | 3147 | ok |
+| Summer2027-Internships \[tracker\] | 5204 | ok |
 | Tenstorrent \[greenhouse\] | 133 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 86 | ok |
 | Wealthsimple \[ashby\] | 41 | ok |
 | Xanadu \[html\] | 32 | ok |
-| vansh-Summer2027 \[tracker\] | 2445 | ok |
+| vansh-Summer2027 \[tracker\] | 2460 | ok |
 
 <!-- radar:listings:end -->
 
