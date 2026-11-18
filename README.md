@@ -32,7 +32,7 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Wednesday 18 November, 09:07 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Wednesday 18 November, 17:01 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 14 AI/ML matches
 
@@ -57,6 +57,7 @@ _Updated Wednesday 18 November, 09:07 Toronto &middot; 12/13 sources healthy &mi
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Global Analytic Financial Engineering (GAFE) Co-op, Global Banking and Markets, Summer](https://go.vansh.nyc/1Ch) | Scotiabank | Toronto, Canada | **Today** |
 | [Engineering Intern - Labs, N/A](https://csmc.bamboohr.com/careers/51/) | Canadian Strategic Missions | Waterloo, ON, Canada | **Today** |
 | [AI/Machine Learning Intern - Interim Engineering Intern - SW, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446722176432) | Qualcomm | Markham, ON, Canada | Yesterday |
 | [Computer Science Co-op, Winter](https://go.vansh.nyc/1B1) | Critical Environment Technologies | Delta, Canada | Yesterday |
@@ -80,7 +81,6 @@ _Updated Wednesday 18 November, 09:07 Toronto &middot; 12/13 sources healthy &mi
 | [Analog Design Intern, N/A](https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Ottawa/Analog-Design-Engineering-Intern_R267446) | Analog Devices | Ottawa, ON, Canada | 7 days ago |
 | [Product Engineer Intern - Product Development, Summer 2027](https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Ottawa/Product-Engineering--Prod-Dev--Intern_R267447) | Analog Devices | Ottawa, ON, Canada | 7 days ago |
 | [Circuit Analyst New Grad](https://techinsights.applytojob.com/apply/ycOBoo1em8/Circuit-Analyst-New-Grad-Opportunity) | TechInsights | Ottawa, ON, Canada | 7 days ago |
-| [Data and Analytics Intern, Summer 2027](https://ats.rippling.com/exacare-inc/jobs/e42f12bc-041a-4ef2-90d8-a77cd7f1f166) | exacare ai | Toronto, ON, Canada | 7 days ago |
 
 ### Sources
 
@@ -89,16 +89,16 @@ _Updated Wednesday 18 November, 09:07 Toronto &middot; 12/13 sources healthy &mi
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
 | Canadian-Tech-Internships-2027 \[tracker\] | 264 | ok |
-| Cohere \[ashby\] | 127 | ok |
-| Faire \[greenhouse\] | 71 | ok |
-| New-Grad-Positions \[tracker\] | 3142 | ok |
-| Summer2027-Internships \[tracker\] | 5181 | ok |
-| Tenstorrent \[greenhouse\] | 133 | ok |
+| Cohere \[ashby\] | 125 | ok |
+| Faire \[greenhouse\] | 70 | ok |
+| New-Grad-Positions \[tracker\] | 3126 | ok |
+| Summer2027-Internships \[tracker\] | 5137 | ok |
+| Tenstorrent \[greenhouse\] | 131 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 86 | ok |
-| Wealthsimple \[ashby\] | 41 | ok |
+| Wealthsimple \[ashby\] | 40 | ok |
 | Xanadu \[html\] | 32 | ok |
-| vansh-Summer2027 \[tracker\] | 2462 | ok |
+| vansh-Summer2027 \[tracker\] | 2452 | ok |
 
 <!-- radar:listings:end -->
 
