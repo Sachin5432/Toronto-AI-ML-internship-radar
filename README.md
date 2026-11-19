@@ -32,12 +32,13 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Thursday 19 November, 08:19 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Thursday 19 November, 17:12 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 11 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Associate AI-Enablement Developer Co-op, Winter](https://go.vansh.nyc/1D7) | EUNA Solutions | Oakville, Canada | **Today** |
 | [Research Assistant Co-op - AI Focus, Winter 2027](https://jobs.jobvite.com/ross-video-careers/job/o51QAfwg?nl=1&nl=1&fr=false) | Ross Video | Nepean, Ottawa, ON, Canada | 2 days ago |
 | [Research Assistant Co-op, AI Focus, Winter](https://go.vansh.nyc/1BN) | Ross Video | Ottawa, Canada | 2 days ago |
 | [AI/Machine Learning Intern, Summer](https://go.vansh.nyc/1Bt) | Qualcomm | Markham, Canada | 2 days ago |
@@ -48,12 +49,12 @@ _Updated Thursday 19 November, 08:19 Toronto &middot; 12/13 sources healthy &mid
 | [Data Analytics &amp; AI Intern, N/A](https://www.careers.zurich.com/job/Toronto-Data-Analytics-&-AI-Intern-ON/1377641357/?ats=successfactors) | Zurich Insurance | Toronto, ON, Canada | 3 days ago |
 | [Data Analytics &amp; AI Intern, Summer](https://go.vansh.nyc/1AD) | Zurich Insurance | Toronto, Canada | 3 days ago |
 | [Applied Machine Learning Engineer Intern, Summer](https://go.vansh.nyc/1Ae) | Shopify | Montreal, Canada, Toronto, Canada, Ottawa, Canada | 3 days ago |
-| [AI Engineering Intern, Winter](https://go.vansh.nyc/1wI) | TMX Group | Toronto, Canada | 7 days ago |
 
-### Loose &middot; 23 to review
+### Loose &middot; 25 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Software Engineering Intern, Viewer, Spring](https://go.vansh.nyc/1CX) | Peripheral | Toronto, Canada | **Today** |
 | [GPU Compiler Development Intern - Interim Engineering Intern - HW, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446722198182) | Qualcomm | Markham, ON, Canada | Yesterday |
 | [GPU Compiler Development Intern, HW, Summer](https://go.vansh.nyc/1Cy) | Qualcomm | Markham, Canada | Yesterday |
 | [Global Analytic Financial Engineering (GAFE) Co-op, Global Banking and Markets, Summer](https://go.vansh.nyc/1Ch) | Scotiabank | Toronto, Canada | Yesterday |
@@ -62,6 +63,7 @@ _Updated Thursday 19 November, 08:19 Toronto &middot; 12/13 sources healthy &mid
 | [Computer Science Co-op, Winter](https://go.vansh.nyc/1B1) | Critical Environment Technologies | Delta, Canada | 2 days ago |
 | [Software Developer Intern, N/A](https://birdseyeaccount.bamboohr.com/careers/286/) | Birdseye Security Solutions | Mississauga, ON, Canada | 2 days ago |
 | [Software Developer Intern, Summer](https://go.vansh.nyc/1AZ) | Birdseye Security Solutions | Mississauga, Canada | 2 days ago |
+| [Technology Enablement Analyst Co-op, Winter 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Technology-Enablement-Analyst_JR26090774-1) | Manulife Financial | Toronto, ON, Canada | 3 days ago |
 | [Software Engineer Intern, Summer 2027](https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a) | Shopify | Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada | 3 days ago |
 | [Data Intern, Summer 2027](https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95) | Shopify | Montreal, QC, Canada, Toronto, ON, Canada, NYC, Ottawa, ON, Canada | 3 days ago |
 | [Applied Machine Learning Engineer Intern, Summer 2027](https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536) | Shopify | Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada | 3 days ago |
@@ -84,17 +86,17 @@ _Updated Thursday 19 November, 08:19 Toronto &middot; 12/13 sources healthy &mid
 |---|---|---|
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
-| Canadian-Tech-Internships-2027 \[tracker\] | 264 | ok |
+| Canadian-Tech-Internships-2027 \[tracker\] | 245 | ok |
 | Cohere \[ashby\] | 125 | ok |
-| Faire \[greenhouse\] | 71 | ok |
-| New-Grad-Positions \[tracker\] | 3100 | ok |
-| Summer2027-Internships \[tracker\] | 5083 | ok |
-| Tenstorrent \[greenhouse\] | 132 | ok |
+| Faire \[greenhouse\] | 73 | ok |
+| New-Grad-Positions \[tracker\] | 3086 | ok |
+| Summer2027-Internships \[tracker\] | 5041 | ok |
+| Tenstorrent \[greenhouse\] | 140 | ok |
 | Vector Institute \[html\] | 32 | ok |
-| Waabi \[lever\] | 86 | ok |
-| Wealthsimple \[ashby\] | 40 | ok |
+| Waabi \[lever\] | 85 | ok |
+| Wealthsimple \[ashby\] | 39 | ok |
 | Xanadu \[html\] | 32 | ok |
-| vansh-Summer2027 \[tracker\] | 2441 | ok |
+| vansh-Summer2027 \[tracker\] | 2449 | ok |
 
 <!-- radar:listings:end -->
 
