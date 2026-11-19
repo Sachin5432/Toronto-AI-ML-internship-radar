@@ -32,51 +32,51 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Wednesday 18 November, 22:35 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Thursday 19 November, 08:19 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 11 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
-| [Research Assistant Co-op - AI Focus, Winter 2027](https://jobs.jobvite.com/ross-video-careers/job/o51QAfwg?nl=1&nl=1&fr=false) | Ross Video | Nepean, Ottawa, ON, Canada | Yesterday |
-| [Research Assistant Co-op, AI Focus, Winter](https://go.vansh.nyc/1BN) | Ross Video | Ottawa, Canada | Yesterday |
-| [AI/Machine Learning Intern, Summer](https://go.vansh.nyc/1Bt) | Qualcomm | Markham, Canada | Yesterday |
-| [AI Systems Intern, N/A](https://birdseyeaccount.bamboohr.com/careers/287/) | Birdseye Security Solutions | Mississauga, ON, Canada | Yesterday |
-| [Computer Vision Intern, N/A](https://birdseyeaccount.bamboohr.com/careers/289/) | Birdseye Security Solutions | Mississauga, ON, Canada | Yesterday |
-| [AI Systems Intern, Summer](https://go.vansh.nyc/1AX) | Birdseye Security Solutions | Mississauga, Canada | Yesterday |
-| [Computer Vision Intern, Summer](https://go.vansh.nyc/1AY) | Birdseye Security Solutions | Mississauga, Canada | Yesterday |
-| [Data Analytics &amp; AI Intern, N/A](https://www.careers.zurich.com/job/Toronto-Data-Analytics-&-AI-Intern-ON/1377641357/?ats=successfactors) | Zurich Insurance | Toronto, ON, Canada | 2 days ago |
-| [Data Analytics &amp; AI Intern, Summer](https://go.vansh.nyc/1AD) | Zurich Insurance | Toronto, Canada | 2 days ago |
-| [Applied Machine Learning Engineer Intern, Summer](https://go.vansh.nyc/1Ae) | Shopify | Montreal, Canada, Toronto, Canada, Ottawa, Canada | 2 days ago |
-| [AI Engineering Intern, Winter](https://go.vansh.nyc/1wI) | TMX Group | Toronto, Canada | 6 days ago |
+| [Research Assistant Co-op - AI Focus, Winter 2027](https://jobs.jobvite.com/ross-video-careers/job/o51QAfwg?nl=1&nl=1&fr=false) | Ross Video | Nepean, Ottawa, ON, Canada | 2 days ago |
+| [Research Assistant Co-op, AI Focus, Winter](https://go.vansh.nyc/1BN) | Ross Video | Ottawa, Canada | 2 days ago |
+| [AI/Machine Learning Intern, Summer](https://go.vansh.nyc/1Bt) | Qualcomm | Markham, Canada | 2 days ago |
+| [AI Systems Intern, N/A](https://birdseyeaccount.bamboohr.com/careers/287/) | Birdseye Security Solutions | Mississauga, ON, Canada | 2 days ago |
+| [Computer Vision Intern, N/A](https://birdseyeaccount.bamboohr.com/careers/289/) | Birdseye Security Solutions | Mississauga, ON, Canada | 2 days ago |
+| [AI Systems Intern, Summer](https://go.vansh.nyc/1AX) | Birdseye Security Solutions | Mississauga, Canada | 2 days ago |
+| [Computer Vision Intern, Summer](https://go.vansh.nyc/1AY) | Birdseye Security Solutions | Mississauga, Canada | 2 days ago |
+| [Data Analytics &amp; AI Intern, N/A](https://www.careers.zurich.com/job/Toronto-Data-Analytics-&-AI-Intern-ON/1377641357/?ats=successfactors) | Zurich Insurance | Toronto, ON, Canada | 3 days ago |
+| [Data Analytics &amp; AI Intern, Summer](https://go.vansh.nyc/1AD) | Zurich Insurance | Toronto, Canada | 3 days ago |
+| [Applied Machine Learning Engineer Intern, Summer](https://go.vansh.nyc/1Ae) | Shopify | Montreal, Canada, Toronto, Canada, Ottawa, Canada | 3 days ago |
+| [AI Engineering Intern, Winter](https://go.vansh.nyc/1wI) | TMX Group | Toronto, Canada | 7 days ago |
 
 ### Loose &middot; 23 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
-| [GPU Compiler Development Intern - Interim Engineering Intern - HW, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446722198182) | Qualcomm | Markham, ON, Canada | **Today** |
-| [GPU Compiler Development Intern, HW, Summer](https://go.vansh.nyc/1Cy) | Qualcomm | Markham, Canada | **Today** |
-| [Global Analytic Financial Engineering (GAFE) Co-op, Global Banking and Markets, Summer](https://go.vansh.nyc/1Ch) | Scotiabank | Toronto, Canada | **Today** |
-| [Engineering Intern - Labs, N/A](https://csmc.bamboohr.com/careers/51/) | Canadian Strategic Missions | Waterloo, ON, Canada | **Today** |
-| [AI/Machine Learning Intern - Interim Engineering Intern - SW, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446722176432) | Qualcomm | Markham, ON, Canada | Yesterday |
-| [Computer Science Co-op, Winter](https://go.vansh.nyc/1B1) | Critical Environment Technologies | Delta, Canada | Yesterday |
-| [Software Developer Intern, N/A](https://birdseyeaccount.bamboohr.com/careers/286/) | Birdseye Security Solutions | Mississauga, ON, Canada | Yesterday |
-| [Software Developer Intern, Summer](https://go.vansh.nyc/1AZ) | Birdseye Security Solutions | Mississauga, Canada | Yesterday |
-| [Software Engineer Intern, Summer 2027](https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a) | Shopify | Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada | 2 days ago |
-| [Data Intern, Summer 2027](https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95) | Shopify | Montreal, QC, Canada, Toronto, ON, Canada, NYC, Ottawa, ON, Canada | 2 days ago |
-| [Applied Machine Learning Engineer Intern, Summer 2027](https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536) | Shopify | Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada | 2 days ago |
-| [Software Engineer Intern, Summer](https://go.vansh.nyc/1Ac) | Shopify | Montreal, Canada, Toronto, Canada, Ottawa, Canada | 2 days ago |
-| [Data Intern, Summer](https://go.vansh.nyc/1Ad) | Shopify | Montreal, Canada, Toronto, Canada, New York, NY, Ottawa, Canada | 2 days ago |
-| [Campus Undergraduate Full-Time Engineer - Software Engineer 1](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016677) | American Express | Toronto, ON, Canada | 2 days ago |
-| [Manufacturing Excellence Co-op, Winter 2027](https://aliaxis.wd3.myworkdayjobs.com/IPEX/job/CA---Oakville-3---Office/Manufacturing-Excellence-Co-Op-Student--Winter-2027---Etudiant-Coop-excellence-manufacturire--Hiver-2027_R-58664-1) | IPEX | Oakville, ON, Canada | 4 days ago |
-| [GCAN Field Operations Analyst Intern, Summer 2027](https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Field-Operations-Analyst-Intern-ON-L3T-7W8/1450732300/?ats=successfactors) | W.W. Grainger | Thornhill, Vaughan, ON, Canada | 5 days ago |
-| [Customer Experience Intern, Summer 2027](https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Customer-Experience-Intern-ON-L3T-7W8/1450621700/?ats=successfactors) | W.W. Grainger | Thornhill, Vaughan, ON, Canada | 5 days ago |
-| [Programmer Analyst Intern, Winter](https://go.vansh.nyc/1yQ) | Canadian Tire Corporation, Limited | Mississauga, Canada | 5 days ago |
-| [Software Developer Co-op, Winter](https://go.vansh.nyc/1zJ) | SSI ShipConstructor | Victoria, Canada | 5 days ago |
-| [Personal &amp; Business Banking Development Program New Grad](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/BMO-Personal---Business-Banking-Development-Program--New-Graduate----2-Year-Program_R260031068-3) | Bank of Montreal | Toronto, ON, Canada | 6 days ago |
-| [Programmer Analyst Intern, Winter 2027](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Mississauga-ON/Programmer-Analyst-Intern--12-months----Winter-2027_JR167748) | Canadian Tire | Mississauga, ON, Canada | 6 days ago |
-| [Analog Layout Engineer Intern Co-op, N/A](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Layout-Intern---BS-MS---2027-Co-Op_2604789) | Marvell | Toronto, ON, Canada | 6 days ago |
-| [Technical Solution Engineer Intern - SE&amp;I, Winter 2027](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Technical-Solution-Engineer--Intern---SE-I_R032114) | Ciena | Montreal, QC, Canada, Ottawa, ON, Canada | 6 days ago |
+| [GPU Compiler Development Intern - Interim Engineering Intern - HW, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446722198182) | Qualcomm | Markham, ON, Canada | Yesterday |
+| [GPU Compiler Development Intern, HW, Summer](https://go.vansh.nyc/1Cy) | Qualcomm | Markham, Canada | Yesterday |
+| [Global Analytic Financial Engineering (GAFE) Co-op, Global Banking and Markets, Summer](https://go.vansh.nyc/1Ch) | Scotiabank | Toronto, Canada | Yesterday |
+| [Engineering Intern - Labs, N/A](https://csmc.bamboohr.com/careers/51/) | Canadian Strategic Missions | Waterloo, ON, Canada | Yesterday |
+| [AI/Machine Learning Intern - Interim Engineering Intern - SW, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446722176432) | Qualcomm | Markham, ON, Canada | 2 days ago |
+| [Computer Science Co-op, Winter](https://go.vansh.nyc/1B1) | Critical Environment Technologies | Delta, Canada | 2 days ago |
+| [Software Developer Intern, N/A](https://birdseyeaccount.bamboohr.com/careers/286/) | Birdseye Security Solutions | Mississauga, ON, Canada | 2 days ago |
+| [Software Developer Intern, Summer](https://go.vansh.nyc/1AZ) | Birdseye Security Solutions | Mississauga, Canada | 2 days ago |
+| [Software Engineer Intern, Summer 2027](https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a) | Shopify | Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada | 3 days ago |
+| [Data Intern, Summer 2027](https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95) | Shopify | Montreal, QC, Canada, Toronto, ON, Canada, NYC, Ottawa, ON, Canada | 3 days ago |
+| [Applied Machine Learning Engineer Intern, Summer 2027](https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536) | Shopify | Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada | 3 days ago |
+| [Software Engineer Intern, Summer](https://go.vansh.nyc/1Ac) | Shopify | Montreal, Canada, Toronto, Canada, Ottawa, Canada | 3 days ago |
+| [Data Intern, Summer](https://go.vansh.nyc/1Ad) | Shopify | Montreal, Canada, Toronto, Canada, New York, NY, Ottawa, Canada | 3 days ago |
+| [Campus Undergraduate Full-Time Engineer - Software Engineer 1](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016677) | American Express | Toronto, ON, Canada | 3 days ago |
+| [Manufacturing Excellence Co-op, Winter 2027](https://aliaxis.wd3.myworkdayjobs.com/IPEX/job/CA---Oakville-3---Office/Manufacturing-Excellence-Co-Op-Student--Winter-2027---Etudiant-Coop-excellence-manufacturire--Hiver-2027_R-58664-1) | IPEX | Oakville, ON, Canada | 5 days ago |
+| [GCAN Field Operations Analyst Intern, Summer 2027](https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Field-Operations-Analyst-Intern-ON-L3T-7W8/1450732300/?ats=successfactors) | W.W. Grainger | Thornhill, Vaughan, ON, Canada | 6 days ago |
+| [Customer Experience Intern, Summer 2027](https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Customer-Experience-Intern-ON-L3T-7W8/1450621700/?ats=successfactors) | W.W. Grainger | Thornhill, Vaughan, ON, Canada | 6 days ago |
+| [Programmer Analyst Intern, Winter](https://go.vansh.nyc/1yQ) | Canadian Tire Corporation, Limited | Mississauga, Canada | 6 days ago |
+| [Software Developer Co-op, Winter](https://go.vansh.nyc/1zJ) | SSI ShipConstructor | Victoria, Canada | 6 days ago |
+| [Personal &amp; Business Banking Development Program New Grad](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/BMO-Personal---Business-Banking-Development-Program--New-Graduate----2-Year-Program_R260031068-3) | Bank of Montreal | Toronto, ON, Canada | 7 days ago |
+| [Programmer Analyst Intern, Winter 2027](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Mississauga-ON/Programmer-Analyst-Intern--12-months----Winter-2027_JR167748) | Canadian Tire | Mississauga, ON, Canada | 7 days ago |
+| [Analog Layout Engineer Intern Co-op, N/A](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Layout-Intern---BS-MS---2027-Co-Op_2604789) | Marvell | Toronto, ON, Canada | 7 days ago |
+| [Technical Solution Engineer Intern - SE&amp;I, Winter 2027](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Technical-Solution-Engineer--Intern---SE-I_R032114) | Ciena | Montreal, QC, Canada, Ottawa, ON, Canada | 7 days ago |
 
 ### Sources
 
@@ -87,14 +87,14 @@ _Updated Wednesday 18 November, 22:35 Toronto &middot; 12/13 sources healthy &mi
 | Canadian-Tech-Internships-2027 \[tracker\] | 264 | ok |
 | Cohere \[ashby\] | 125 | ok |
 | Faire \[greenhouse\] | 71 | ok |
-| New-Grad-Positions \[tracker\] | 3125 | ok |
-| Summer2027-Internships \[tracker\] | 5113 | ok |
+| New-Grad-Positions \[tracker\] | 3100 | ok |
+| Summer2027-Internships \[tracker\] | 5083 | ok |
 | Tenstorrent \[greenhouse\] | 132 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 86 | ok |
 | Wealthsimple \[ashby\] | 40 | ok |
 | Xanadu \[html\] | 32 | ok |
-| vansh-Summer2027 \[tracker\] | 2447 | ok |
+| vansh-Summer2027 \[tracker\] | 2441 | ok |
 
 <!-- radar:listings:end -->
 
