@@ -32,12 +32,13 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Thursday 19 November, 17:12 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Thursday 19 November, 22:24 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 11 AI/ML matches
+### Strict &middot; 12 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Associate AI-Enablement Developer Co-op, Winter 2027](https://euna.bamboohr.com/careers/822/) | EUNA Solutions | Oakville, ON, Canada | **Today** |
 | [Associate AI-Enablement Developer Co-op, Winter](https://go.vansh.nyc/1D7) | EUNA Solutions | Oakville, Canada | **Today** |
 | [Research Assistant Co-op - AI Focus, Winter 2027](https://jobs.jobvite.com/ross-video-careers/job/o51QAfwg?nl=1&nl=1&fr=false) | Ross Video | Nepean, Ottawa, ON, Canada | 2 days ago |
 | [Research Assistant Co-op, AI Focus, Winter](https://go.vansh.nyc/1BN) | Ross Video | Ottawa, Canada | 2 days ago |
@@ -50,11 +51,13 @@ _Updated Thursday 19 November, 17:12 Toronto &middot; 12/13 sources healthy &mid
 | [Data Analytics &amp; AI Intern, Summer](https://go.vansh.nyc/1AD) | Zurich Insurance | Toronto, Canada | 3 days ago |
 | [Applied Machine Learning Engineer Intern, Summer](https://go.vansh.nyc/1Ae) | Shopify | Montreal, Canada, Toronto, Canada, Ottawa, Canada | 3 days ago |
 
-### Loose &middot; 25 to review
+### Loose &middot; 23 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Engineering Student Intern, AI/ML Specialist, Winter](https://go.vansh.nyc/1DO) | MDA | Richmond, Canada | **Today** |
 | [Software Engineering Intern, Viewer, Spring](https://go.vansh.nyc/1CX) | Peripheral | Toronto, Canada | **Today** |
+| [Physical AI and Robotics Intern, Summer 2027](https://jobs.ashbyhq.com/georgian/62da47ff-0424-4e28-bffa-cff0de8ca228/application?embed=true) | Georgian Partners Growth | Toronto, ON, Canada | Yesterday |
 | [GPU Compiler Development Intern - Interim Engineering Intern - HW, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446722198182) | Qualcomm | Markham, ON, Canada | Yesterday |
 | [GPU Compiler Development Intern, HW, Summer](https://go.vansh.nyc/1Cy) | Qualcomm | Markham, Canada | Yesterday |
 | [Global Analytic Financial Engineering (GAFE) Co-op, Global Banking and Markets, Summer](https://go.vansh.nyc/1Ch) | Scotiabank | Toronto, Canada | Yesterday |
@@ -75,10 +78,6 @@ _Updated Thursday 19 November, 17:12 Toronto &middot; 12/13 sources healthy &mid
 | [Customer Experience Intern, Summer 2027](https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Customer-Experience-Intern-ON-L3T-7W8/1450621700/?ats=successfactors) | W.W. Grainger | Thornhill, Vaughan, ON, Canada | 6 days ago |
 | [Programmer Analyst Intern, Winter](https://go.vansh.nyc/1yQ) | Canadian Tire Corporation, Limited | Mississauga, Canada | 6 days ago |
 | [Software Developer Co-op, Winter](https://go.vansh.nyc/1zJ) | SSI ShipConstructor | Victoria, Canada | 6 days ago |
-| [Personal &amp; Business Banking Development Program New Grad](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/BMO-Personal---Business-Banking-Development-Program--New-Graduate----2-Year-Program_R260031068-3) | Bank of Montreal | Toronto, ON, Canada | 7 days ago |
-| [Programmer Analyst Intern, Winter 2027](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Mississauga-ON/Programmer-Analyst-Intern--12-months----Winter-2027_JR167748) | Canadian Tire | Mississauga, ON, Canada | 7 days ago |
-| [Analog Layout Engineer Intern Co-op, N/A](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Layout-Intern---BS-MS---2027-Co-Op_2604789) | Marvell | Toronto, ON, Canada | 7 days ago |
-| [Technical Solution Engineer Intern - SE&amp;I, Winter 2027](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Technical-Solution-Engineer--Intern---SE-I_R032114) | Ciena | Montreal, QC, Canada, Ottawa, ON, Canada | 7 days ago |
 
 ### Sources
 
@@ -89,14 +88,14 @@ _Updated Thursday 19 November, 17:12 Toronto &middot; 12/13 sources healthy &mid
 | Canadian-Tech-Internships-2027 \[tracker\] | 245 | ok |
 | Cohere \[ashby\] | 125 | ok |
 | Faire \[greenhouse\] | 73 | ok |
-| New-Grad-Positions \[tracker\] | 3086 | ok |
-| Summer2027-Internships \[tracker\] | 5041 | ok |
+| New-Grad-Positions \[tracker\] | 3092 | ok |
+| Summer2027-Internships \[tracker\] | 5074 | ok |
 | Tenstorrent \[greenhouse\] | 140 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 85 | ok |
 | Wealthsimple \[ashby\] | 39 | ok |
 | Xanadu \[html\] | 32 | ok |
-| vansh-Summer2027 \[tracker\] | 2449 | ok |
+| vansh-Summer2027 \[tracker\] | 2469 | ok |
 
 <!-- radar:listings:end -->
 
