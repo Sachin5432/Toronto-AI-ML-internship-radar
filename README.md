@@ -32,7 +32,7 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Friday 20 November, 08:00 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Friday 20 November, 16:11 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 13 AI/ML matches
 
@@ -52,14 +52,16 @@ _Updated Friday 20 November, 08:00 Toronto &middot; 12/13 sources healthy &middo
 | [Data Analytics &amp; AI Intern, Summer](https://go.vansh.nyc/1AD) | Zurich Insurance | Toronto, Canada | 4 days ago |
 | [Applied Machine Learning Engineer Intern, Summer](https://go.vansh.nyc/1Ae) | Shopify | Montreal, Canada, Toronto, Canada, Ottawa, Canada | 4 days ago |
 
-### Loose &middot; 25 to review
+### Loose &middot; 26 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Researcher Intern - Mathematical Foundations of Differentiable World Models, N/A](https://huaweicanada.recruitee.com/o/intern-researcher-mathematical-foundations-of-differentiable-world-models) | Huawei | Ottawa, ON, Canada | **Today** |
 | [Electronics Engineering Technologist Co-op, Winter 2027](https://avnan.bamboohr.com/careers/125/) | Avnan | Mississauga, ON, Canada | **Today** |
 | [Embedded Engineer Intern, N/A](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127880) | Honeywell Aerospace | Kanata, Ottawa, ON, Canada | **Today** |
 | [Electrical Engineer Intern, N/A](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127344) | Honeywell Aerospace | Kanata, Ottawa, ON, Canada | **Today** |
 | [Engineering Student Intern, AI/ML Specialist, Winter](https://go.vansh.nyc/1DO) | MDA | Richmond, Canada | Yesterday |
+| [FPGA Software Engineer Intern, Summer](https://go.vansh.nyc/1Et) | Altera | Toronto, Canada | Yesterday |
 | [Software Engineering Intern, Viewer, Spring](https://go.vansh.nyc/1CX) | Peripheral | Toronto, Canada | Yesterday |
 | [Physical AI and Robotics Intern, Summer 2027](https://jobs.ashbyhq.com/georgian/62da47ff-0424-4e28-bffa-cff0de8ca228/application?embed=true) | Georgian Partners Growth | Toronto, ON, Canada | 2 days ago |
 | [GPU Compiler Development Intern - Interim Engineering Intern - HW, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446722198182) | Qualcomm | Markham, ON, Canada | 2 days ago |
@@ -80,7 +82,6 @@ _Updated Friday 20 November, 08:00 Toronto &middot; 12/13 sources healthy &middo
 | [Manufacturing Excellence Co-op, Winter 2027](https://aliaxis.wd3.myworkdayjobs.com/IPEX/job/CA---Oakville-3---Office/Manufacturing-Excellence-Co-Op-Student--Winter-2027---Etudiant-Coop-excellence-manufacturire--Hiver-2027_R-58664-1) | IPEX | Oakville, ON, Canada | 6 days ago |
 | [GCAN Field Operations Analyst Intern, Summer 2027](https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Field-Operations-Analyst-Intern-ON-L3T-7W8/1450732300/?ats=successfactors) | W.W. Grainger | Thornhill, Vaughan, ON, Canada | 7 days ago |
 | [Customer Experience Intern, Summer 2027](https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Customer-Experience-Intern-ON-L3T-7W8/1450621700/?ats=successfactors) | W.W. Grainger | Thornhill, Vaughan, ON, Canada | 7 days ago |
-| [Programmer Analyst Intern, Winter](https://go.vansh.nyc/1yQ) | Canadian Tire Corporation, Limited | Mississauga, Canada | 7 days ago |
 
 ### Sources
 
@@ -91,14 +92,14 @@ _Updated Friday 20 November, 08:00 Toronto &middot; 12/13 sources healthy &middo
 | Canadian-Tech-Internships-2027 \[tracker\] | 245 | ok |
 | Cohere \[ashby\] | 125 | ok |
 | Faire \[greenhouse\] | 73 | ok |
-| New-Grad-Positions \[tracker\] | 3092 | ok |
-| Summer2027-Internships \[tracker\] | 5082 | ok |
-| Tenstorrent \[greenhouse\] | 141 | ok |
+| New-Grad-Positions \[tracker\] | 3081 | ok |
+| Summer2027-Internships \[tracker\] | 5045 | ok |
+| Tenstorrent \[greenhouse\] | 145 | ok |
 | Vector Institute \[html\] | 32 | ok |
-| Waabi \[lever\] | 85 | ok |
-| Wealthsimple \[ashby\] | 39 | ok |
+| Waabi \[lever\] | 84 | ok |
+| Wealthsimple \[ashby\] | 38 | ok |
 | Xanadu \[html\] | 32 | ok |
-| vansh-Summer2027 \[tracker\] | 2486 | ok |
+| vansh-Summer2027 \[tracker\] | 2484 | ok |
 
 <!-- radar:listings:end -->
 
