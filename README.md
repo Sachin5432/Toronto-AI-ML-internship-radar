@@ -32,7 +32,7 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Saturday 21 November, 06:14 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Saturday 21 November, 13:03 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 18 AI/ML matches
 
@@ -57,7 +57,7 @@ _Updated Saturday 21 November, 06:14 Toronto &middot; 12/13 sources healthy &mid
 | [Data Analytics &amp; AI Intern, Summer](https://go.vansh.nyc/1AD) | Zurich Insurance | Toronto, Canada | 5 days ago |
 | [Applied Machine Learning Engineer Intern, Summer](https://go.vansh.nyc/1Ae) | Shopify | Montreal, Canada, Toronto, Canada, Ottawa, Canada | 5 days ago |
 
-### Loose &middot; 31 to review
+### Loose &middot; 33 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -76,6 +76,8 @@ _Updated Saturday 21 November, 06:14 Toronto &middot; 12/13 sources healthy &mid
 | [Junior Vulnerability Management Analyst Intern, Winter](https://go.vansh.nyc/1Fp) | TMX Group | Toronto, Canada | 2 days ago |
 | [Software Engineering Intern, Viewer, Spring](https://go.vansh.nyc/1CX) | Peripheral | Toronto, Canada | 2 days ago |
 | [Physical AI and Robotics Intern, Summer 2027](https://jobs.ashbyhq.com/georgian/62da47ff-0424-4e28-bffa-cff0de8ca228/application?embed=true) | Georgian Partners Growth | Toronto, ON, Canada | 3 days ago |
+| [Software Developer Co-op - Common Cloud Services, N/A](https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/Canada-Quebec-Montreal/Software-Developer---Common-Cloud-Services--Co-Op-_REQ-2026-3079) | Ribbon | Canada | 3 days ago |
+| [Software Developer Co-op, Common Cloud Services, Winter](https://go.vansh.nyc/1Gf) | Ribbon | Canada | 3 days ago |
 | [GPU Compiler Development Intern - Interim Engineering Intern - HW, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446722198182) | Qualcomm | Markham, ON, Canada | 3 days ago |
 | [GPU Compiler Development Intern, HW, Summer](https://go.vansh.nyc/1Cy) | Qualcomm | Markham, Canada | 3 days ago |
 | [Global Analytic Financial Engineering (GAFE) Co-op, Global Banking and Markets, Summer](https://go.vansh.nyc/1Ch) | Scotiabank | Toronto, Canada | 3 days ago |
@@ -102,14 +104,14 @@ _Updated Saturday 21 November, 06:14 Toronto &middot; 12/13 sources healthy &mid
 | Canadian-Tech-Internships-2027 \[tracker\] | 242 | ok |
 | Cohere \[ashby\] | 124 | ok |
 | Faire \[greenhouse\] | 74 | ok |
-| New-Grad-Positions \[tracker\] | 3128 | ok |
-| Summer2027-Internships \[tracker\] | 5112 | ok |
+| New-Grad-Positions \[tracker\] | 3131 | ok |
+| Summer2027-Internships \[tracker\] | 5122 | ok |
 | Tenstorrent \[greenhouse\] | 145 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 84 | ok |
 | Wealthsimple \[ashby\] | 38 | ok |
 | Xanadu \[html\] | 32 | ok |
-| vansh-Summer2027 \[tracker\] | 2506 | ok |
+| vansh-Summer2027 \[tracker\] | 2505 | ok |
 
 <!-- radar:listings:end -->
 
