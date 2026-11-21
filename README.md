@@ -32,13 +32,17 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Friday 20 November, 16:11 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Friday 20 November, 21:23 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 13 AI/ML matches
+### Strict &middot; 17 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Data and Artificial Intelligence Student Intern, N/A](https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=ea375757-76a7-4b9e-81d0-478ed7beb2e1) | Meridian Credit Union | Etobicoke, ON, Canada, St. Catharines, ON, Canada | **Today** |
+| [Data and Artificial Intelligence Student Intern, Summer](https://go.vansh.nyc/1Fg) | Meridian Credit Union | Etobicoke, Canada, St. Catharines, Canada | **Today** |
 | [Artificial Intelligence Engineer Intern, N/A](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127878) | Honeywell Aerospace | Kanata, Ottawa, ON, Canada | **Today** |
+| [AI Program Intern, Winter 2027](https://careersen-mackenzieinvestments.icims.com/jobs/6446/job?mobile=true&needsRedirect=false) | Mackenzie Investments | Toronto, ON, Canada | Yesterday |
+| [AI Program Intern, Winter](https://go.vansh.nyc/1F8) | Mackenzie Investments | Toronto, Canada | Yesterday |
 | [Associate AI-Enablement Developer Co-op, Winter 2027](https://euna.bamboohr.com/careers/822/) | EUNA Solutions | Oakville, ON, Canada | Yesterday |
 | [Associate AI-Enablement Developer Co-op, Winter](https://go.vansh.nyc/1D7) | EUNA Solutions | Oakville, Canada | Yesterday |
 | [Research Assistant Co-op - AI Focus, Winter 2027](https://jobs.jobvite.com/ross-video-careers/job/o51QAfwg?nl=1&nl=1&fr=false) | Ross Video | Nepean, Ottawa, ON, Canada | 3 days ago |
@@ -52,16 +56,23 @@ _Updated Friday 20 November, 16:11 Toronto &middot; 12/13 sources healthy &middo
 | [Data Analytics &amp; AI Intern, Summer](https://go.vansh.nyc/1AD) | Zurich Insurance | Toronto, Canada | 4 days ago |
 | [Applied Machine Learning Engineer Intern, Summer](https://go.vansh.nyc/1Ae) | Shopify | Montreal, Canada, Toronto, Canada, Ottawa, Canada | 4 days ago |
 
-### Loose &middot; 26 to review
+### Loose &middot; 31 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Salesforce Developer 1 Intern, Summer](https://go.vansh.nyc/1FT) | Celestica | Toronto, Canada | **Today** |
+| [Product Management Intern, Summer 2027](https://job-boards.greenhouse.io/method/jobs/8207585003) | Method | Remote in USA, Santa Clara, CA, Charlotte, NC, NYC, Remote in Canada | **Today** |
+| [Engineering Resident Intern, N/A](https://job-boards.greenhouse.io/method/jobs/8208724003) | Method | Remote in USA, Santa Clara, CA, Charlotte, NC, NYC, Remote in Canada | **Today** |
+| [Engineering Resident Intern, Summer](https://go.vansh.nyc/1Fq) | Method | Remote, United States, Canada, Santa Clara, CA, Charlotte, NC, New York, NY | **Today** |
+| [Software Development Co-op, Winter](https://go.vansh.nyc/1FG) | Loblaw Companies | Toronto, Canada | **Today** |
 | [Researcher Intern - Mathematical Foundations of Differentiable World Models, N/A](https://huaweicanada.recruitee.com/o/intern-researcher-mathematical-foundations-of-differentiable-world-models) | Huawei | Ottawa, ON, Canada | **Today** |
 | [Electronics Engineering Technologist Co-op, Winter 2027](https://avnan.bamboohr.com/careers/125/) | Avnan | Mississauga, ON, Canada | **Today** |
 | [Embedded Engineer Intern, N/A](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127880) | Honeywell Aerospace | Kanata, Ottawa, ON, Canada | **Today** |
 | [Electrical Engineer Intern, N/A](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127344) | Honeywell Aerospace | Kanata, Ottawa, ON, Canada | **Today** |
 | [Engineering Student Intern, AI/ML Specialist, Winter](https://go.vansh.nyc/1DO) | MDA | Richmond, Canada | Yesterday |
 | [FPGA Software Engineer Intern, Summer](https://go.vansh.nyc/1Et) | Altera | Toronto, Canada | Yesterday |
+| [Software Engineer New Grad](https://jobs.ashbyhq.com/keplar/9da9bb8e-d7f1-4247-b6da-8392ebc852bd/application?embed=true) | Keplar | Toronto, ON, Canada, Waterloo, ON, Canada | Yesterday |
+| [Junior Vulnerability Management Analyst Intern, Winter](https://go.vansh.nyc/1Fp) | TMX Group | Toronto, Canada | Yesterday |
 | [Software Engineering Intern, Viewer, Spring](https://go.vansh.nyc/1CX) | Peripheral | Toronto, Canada | Yesterday |
 | [Physical AI and Robotics Intern, Summer 2027](https://jobs.ashbyhq.com/georgian/62da47ff-0424-4e28-bffa-cff0de8ca228/application?embed=true) | Georgian Partners Growth | Toronto, ON, Canada | 2 days ago |
 | [GPU Compiler Development Intern - Interim Engineering Intern - HW, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446722198182) | Qualcomm | Markham, ON, Canada | 2 days ago |
@@ -80,8 +91,6 @@ _Updated Friday 20 November, 16:11 Toronto &middot; 12/13 sources healthy &middo
 | [Data Intern, Summer](https://go.vansh.nyc/1Ad) | Shopify | Montreal, Canada, Toronto, Canada, New York, NY, Ottawa, Canada | 4 days ago |
 | [Campus Undergraduate Full-Time Engineer - Software Engineer 1](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016677) | American Express | Toronto, ON, Canada | 4 days ago |
 | [Manufacturing Excellence Co-op, Winter 2027](https://aliaxis.wd3.myworkdayjobs.com/IPEX/job/CA---Oakville-3---Office/Manufacturing-Excellence-Co-Op-Student--Winter-2027---Etudiant-Coop-excellence-manufacturire--Hiver-2027_R-58664-1) | IPEX | Oakville, ON, Canada | 6 days ago |
-| [GCAN Field Operations Analyst Intern, Summer 2027](https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Field-Operations-Analyst-Intern-ON-L3T-7W8/1450732300/?ats=successfactors) | W.W. Grainger | Thornhill, Vaughan, ON, Canada | 7 days ago |
-| [Customer Experience Intern, Summer 2027](https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Customer-Experience-Intern-ON-L3T-7W8/1450621700/?ats=successfactors) | W.W. Grainger | Thornhill, Vaughan, ON, Canada | 7 days ago |
 
 ### Sources
 
@@ -89,17 +98,17 @@ _Updated Friday 20 November, 16:11 Toronto &middot; 12/13 sources healthy &middo
 |---|---|---|
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
-| Canadian-Tech-Internships-2027 \[tracker\] | 245 | ok |
-| Cohere \[ashby\] | 125 | ok |
-| Faire \[greenhouse\] | 73 | ok |
-| New-Grad-Positions \[tracker\] | 3081 | ok |
-| Summer2027-Internships \[tracker\] | 5045 | ok |
+| Canadian-Tech-Internships-2027 \[tracker\] | 242 | ok |
+| Cohere \[ashby\] | 124 | ok |
+| Faire \[greenhouse\] | 74 | ok |
+| New-Grad-Positions \[tracker\] | 3124 | ok |
+| Summer2027-Internships \[tracker\] | 5138 | ok |
 | Tenstorrent \[greenhouse\] | 145 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 84 | ok |
 | Wealthsimple \[ashby\] | 38 | ok |
 | Xanadu \[html\] | 32 | ok |
-| vansh-Summer2027 \[tracker\] | 2484 | ok |
+| vansh-Summer2027 \[tracker\] | 2503 | ok |
 
 <!-- radar:listings:end -->
 
