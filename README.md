@@ -32,9 +32,9 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Sunday 22 November, 16:51 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Sunday 22 November, 21:51 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 20 AI/ML matches
+### Strict &middot; 19 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -57,7 +57,6 @@ _Updated Sunday 22 November, 16:51 Toronto &middot; 12/13 sources healthy &middo
 | [Data Analytics &amp; AI Intern, N/A](https://www.careers.zurich.com/job/Toronto-Data-Analytics-&-AI-Intern-ON/1377641357/?ats=successfactors) | Zurich Insurance | Toronto, ON, Canada | 6 days ago |
 | [Data Analytics &amp; AI Intern, Summer](https://go.vansh.nyc/1AD) | Zurich Insurance | Toronto, Canada | 6 days ago |
 | [Applied Machine Learning Engineer Intern, Summer](https://go.vansh.nyc/1Ae) | Shopify | Montreal, Canada, Toronto, Canada, Ottawa, Canada | 6 days ago |
-| [AI Engineer Co-op Intern, Winter 2027](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/AI-Engineer---Co-op-Intern_20261778) | Lumentum | Ottawa, ON, Canada | 7 days ago |
 
 ### Loose &middot; 34 to review
 
@@ -107,14 +106,14 @@ _Updated Sunday 22 November, 16:51 Toronto &middot; 12/13 sources healthy &middo
 | Canadian-Tech-Internships-2027 \[tracker\] | 242 | ok |
 | Cohere \[ashby\] | 124 | ok |
 | Faire \[greenhouse\] | 74 | ok |
-| New-Grad-Positions \[tracker\] | 3130 | ok |
-| Summer2027-Internships \[tracker\] | 5132 | ok |
-| Tenstorrent \[greenhouse\] | 145 | ok |
+| New-Grad-Positions \[tracker\] | 3135 | ok |
+| Summer2027-Internships \[tracker\] | 5140 | ok |
+| Tenstorrent \[greenhouse\] | 146 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 84 | ok |
 | Wealthsimple \[ashby\] | 38 | ok |
 | Xanadu \[html\] | 32 | ok |
-| vansh-Summer2027 \[tracker\] | 2504 | ok |
+| vansh-Summer2027 \[tracker\] | 2502 | ok |
 
 <!-- radar:listings:end -->
 
