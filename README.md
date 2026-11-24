@@ -32,9 +32,9 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Monday 23 November, 07:58 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Monday 23 November, 19:57 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 20 AI/ML matches
+### Strict &middot; 17 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -43,9 +43,9 @@ _Updated Monday 23 November, 07:58 Toronto &middot; 12/13 sources healthy &middo
 | [Data and Artificial Intelligence Student Intern, N/A](https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=ea375757-76a7-4b9e-81d0-478ed7beb2e1) | Meridian Credit Union | Etobicoke, ON, Canada, St. Catharines, ON, Canada | 3 days ago |
 | [Data and Artificial Intelligence Student Intern, Summer](https://go.vansh.nyc/1Fg) | Meridian Credit Union | Etobicoke, Canada, St. Catharines, Canada | 3 days ago |
 | [Artificial Intelligence Engineer Intern, N/A](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127878) | Honeywell Aerospace | Kanata, Ottawa, ON, Canada | 3 days ago |
-| [Digital Graduate Program - Product Analyst - Data and AI Engineer](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/XMLNAME-2027-Digital-Graduate-Program--Product-Analyst--Data-and-AI-Engineer_R2876172-1) | Sanofi | Toronto, ON, Canada | 4 days ago |
 | [AI Program Intern, Winter 2027](https://careersen-mackenzieinvestments.icims.com/jobs/6446/job?mobile=true&needsRedirect=false) | Mackenzie Investments | Toronto, ON, Canada | 4 days ago |
 | [AI Program Intern, Winter](https://go.vansh.nyc/1F8) | Mackenzie Investments | Toronto, Canada | 4 days ago |
+| [Digital Graduate Program - Product Analyst - Data and AI Engineer](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/XMLNAME-2027-Digital-Graduate-Program--Product-Analyst--Data-and-AI-Engineer_R2876172-1) | Sanofi | Toronto, ON, Canada | 4 days ago |
 | [Associate AI-Enablement Developer Co-op, Winter 2027](https://euna.bamboohr.com/careers/822/) | EUNA Solutions | Oakville, ON, Canada | 4 days ago |
 | [Associate AI-Enablement Developer Co-op, Winter](https://go.vansh.nyc/1D7) | EUNA Solutions | Oakville, Canada | 4 days ago |
 | [Research Assistant Co-op - AI Focus, Winter 2027](https://jobs.jobvite.com/ross-video-careers/job/o51QAfwg?nl=1&nl=1&fr=false) | Ross Video | Nepean, Ottawa, ON, Canada | 6 days ago |
@@ -55,14 +55,12 @@ _Updated Monday 23 November, 07:58 Toronto &middot; 12/13 sources healthy &middo
 | [Computer Vision Intern, N/A](https://birdseyeaccount.bamboohr.com/careers/289/) | Birdseye Security Solutions | Mississauga, ON, Canada | 6 days ago |
 | [AI Systems Intern, Summer](https://go.vansh.nyc/1AX) | Birdseye Security Solutions | Mississauga, Canada | 6 days ago |
 | [Computer Vision Intern, Summer](https://go.vansh.nyc/1AY) | Birdseye Security Solutions | Mississauga, Canada | 6 days ago |
-| [Data Analytics &amp; AI Intern, N/A](https://www.careers.zurich.com/job/Toronto-Data-Analytics-&-AI-Intern-ON/1377641357/?ats=successfactors) | Zurich Insurance | Toronto, ON, Canada | 7 days ago |
-| [Data Analytics &amp; AI Intern, Summer](https://go.vansh.nyc/1AD) | Zurich Insurance | Toronto, Canada | 7 days ago |
-| [Applied Machine Learning Engineer Intern, Summer](https://go.vansh.nyc/1Ae) | Shopify | Montreal, Canada, Toronto, Canada, Ottawa, Canada | 7 days ago |
 
-### Loose &middot; 36 to review
+### Loose &middot; 29 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Software Development Intern, Winter](https://go.vansh.nyc/1Hf) | Canadian Tire Corporation, Limited | Toronto, Canada | **Today** |
 | [Salesforce Developer 1 Intern, Summer](https://go.vansh.nyc/1FT) | Celestica | Toronto, Canada | 3 days ago |
 | [Product Management Intern, Summer 2027](https://job-boards.greenhouse.io/method/jobs/8207585003) | Method | Remote in USA, Santa Clara, CA, Charlotte, NC, NYC, Remote in Canada | 3 days ago |
 | [Engineering Resident Intern, N/A](https://job-boards.greenhouse.io/method/jobs/8208724003) | Method | Remote in USA, Santa Clara, CA, Charlotte, NC, NYC, Remote in Canada | 3 days ago |
@@ -91,14 +89,6 @@ _Updated Monday 23 November, 07:58 Toronto &middot; 12/13 sources healthy &middo
 | [Computer Science Co-op, Winter](https://go.vansh.nyc/1B1) | Critical Environment Technologies | Delta, Canada | 6 days ago |
 | [Software Developer Intern, N/A](https://birdseyeaccount.bamboohr.com/careers/286/) | Birdseye Security Solutions | Mississauga, ON, Canada | 6 days ago |
 | [Software Developer Intern, Summer](https://go.vansh.nyc/1AZ) | Birdseye Security Solutions | Mississauga, Canada | 6 days ago |
-| [Forensic Investigations Intern, Winter 2027](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Student---Forensic-Investigations_R26_00701) | OLG | Sault Ste. Marie, ON, Canada | 7 days ago |
-| [Technology Enablement Analyst Co-op, Winter 2027](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Technology-Enablement-Analyst_JR26090774-1) | Manulife Financial | Toronto, ON, Canada | 7 days ago |
-| [Software Engineer Intern, Summer 2027](https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a) | Shopify | Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada | 7 days ago |
-| [Data Intern, Summer 2027](https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95) | Shopify | Montreal, QC, Canada, Toronto, ON, Canada, NYC, Ottawa, ON, Canada | 7 days ago |
-| [Applied Machine Learning Engineer Intern, Summer 2027](https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536) | Shopify | Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada | 7 days ago |
-| [Software Engineer Intern, Summer](https://go.vansh.nyc/1Ac) | Shopify | Montreal, Canada, Toronto, Canada, Ottawa, Canada | 7 days ago |
-| [Data Intern, Summer](https://go.vansh.nyc/1Ad) | Shopify | Montreal, Canada, Toronto, Canada, New York, NY, Ottawa, Canada | 7 days ago |
-| [Campus Undergraduate Full-Time Engineer - Software Engineer 1](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016677) | American Express | Toronto, ON, Canada | 7 days ago |
 
 ### Sources
 
@@ -107,16 +97,16 @@ _Updated Monday 23 November, 07:58 Toronto &middot; 12/13 sources healthy &middo
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
 | Canadian-Tech-Internships-2027 \[tracker\] | 236 | ok |
-| Cohere \[ashby\] | 123 | ok |
-| Faire \[greenhouse\] | 74 | ok |
-| New-Grad-Positions \[tracker\] | 3139 | ok |
-| Summer2027-Internships \[tracker\] | 5132 | ok |
+| Cohere \[ashby\] | 125 | ok |
+| Faire \[greenhouse\] | 72 | ok |
+| New-Grad-Positions \[tracker\] | 3111 | ok |
+| Summer2027-Internships \[tracker\] | 5088 | ok |
 | Tenstorrent \[greenhouse\] | 147 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 84 | ok |
 | Wealthsimple \[ashby\] | 38 | ok |
 | Xanadu \[html\] | 32 | ok |
-| vansh-Summer2027 \[tracker\] | 2505 | ok |
+| vansh-Summer2027 \[tracker\] | 2496 | ok |
 
 <!-- radar:listings:end -->
 
