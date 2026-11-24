@@ -32,12 +32,13 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Tuesday 24 November, 06:01 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Tuesday 24 November, 16:18 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 13 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [AI Software Development Engineer Intern, Summer](https://go.vansh.nyc/1Ih) | Altera | Toronto, Canada | **Today** |
 | [Data Engineering Intern, Summer](https://go.vansh.nyc/1G8) | Canadian Solar | Kitchener, Canada | 3 days ago |
 | [AI Engineer Co-op, Winter](https://go.vansh.nyc/1Gn) | Lumentum | Ottawa, Canada | 4 days ago |
 | [Data and Artificial Intelligence Student Intern, N/A](https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=ea375757-76a7-4b9e-81d0-478ed7beb2e1) | Meridian Credit Union | Etobicoke, ON, Canada, St. Catharines, ON, Canada | 4 days ago |
@@ -50,12 +51,13 @@ _Updated Tuesday 24 November, 06:01 Toronto &middot; 12/13 sources healthy &midd
 | [Associate AI-Enablement Developer Co-op, Winter](https://go.vansh.nyc/1D7) | EUNA Solutions | Oakville, Canada | 5 days ago |
 | [Research Assistant Co-op - AI Focus, Winter 2027](https://jobs.jobvite.com/ross-video-careers/job/o51QAfwg?nl=1&nl=1&fr=false) | Ross Video | Nepean, Ottawa, ON, Canada | 7 days ago |
 | [Research Assistant Co-op, AI Focus, Winter](https://go.vansh.nyc/1BN) | Ross Video | Ottawa, Canada | 7 days ago |
-| [AI/Machine Learning Intern, Summer](https://go.vansh.nyc/1Bt) | Qualcomm | Markham, Canada | 7 days ago |
 
-### Loose &middot; 26 to review
+### Loose &middot; 28 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Data and Business Intelligence Analyst Intern, Winter](https://go.vansh.nyc/1Ia) | Hitachi | Toronto, Canada | **Today** |
+| [Embedded Solutions Intern, Summer](https://go.vansh.nyc/1Ii) | Altera | Toronto, Canada | **Today** |
 | [Software Development Intern, Winter](https://go.vansh.nyc/1Hf) | Canadian Tire Corporation, Limited | Toronto, Canada | Yesterday |
 | [Salesforce Developer 1 Intern, Summer](https://go.vansh.nyc/1FT) | Celestica | Toronto, Canada | 4 days ago |
 | [Product Management Intern, Summer 2027](https://job-boards.greenhouse.io/method/jobs/8207585003) | Method | Remote in USA, Santa Clara, CA, Charlotte, NC, NYC, Remote in Canada | 4 days ago |
@@ -89,15 +91,15 @@ _Updated Tuesday 24 November, 06:01 Toronto &middot; 12/13 sources healthy &midd
 |---|---|---|
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
-| Canadian-Tech-Internships-2027 \[tracker\] | 236 | ok |
-| Cohere \[ashby\] | 124 | ok |
+| Canadian-Tech-Internships-2027 \[tracker\] | 230 | ok |
+| Cohere \[ashby\] | 122 | ok |
 | Faire \[greenhouse\] | 72 | ok |
-| New-Grad-Positions \[tracker\] | 3087 | ok |
-| Summer2027-Internships \[tracker\] | 5078 | ok |
-| Tenstorrent \[greenhouse\] | 147 | ok |
+| New-Grad-Positions \[tracker\] | 3075 | ok |
+| Summer2027-Internships \[tracker\] | 5064 | ok |
+| Tenstorrent \[greenhouse\] | 149 | ok |
 | Vector Institute \[html\] | 32 | ok |
-| Waabi \[lever\] | 84 | ok |
-| Wealthsimple \[ashby\] | 37 | ok |
+| Waabi \[lever\] | 85 | ok |
+| Wealthsimple \[ashby\] | 38 | ok |
 | Xanadu \[html\] | 32 | ok |
 | vansh-Summer2027 \[tracker\] | 2495 | ok |
 
