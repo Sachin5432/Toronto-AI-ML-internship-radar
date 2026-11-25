@@ -32,12 +32,13 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Tuesday 24 November, 16:18 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Tuesday 24 November, 23:55 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 13 AI/ML matches
+### Strict &middot; 12 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Data Engineering Intern, Winter](https://go.vansh.nyc/1IL) | Super | Toronto, Canada | **Today** |
 | [AI Software Development Engineer Intern, Summer](https://go.vansh.nyc/1Ih) | Altera | Toronto, Canada | **Today** |
 | [Data Engineering Intern, Summer](https://go.vansh.nyc/1G8) | Canadian Solar | Kitchener, Canada | 3 days ago |
 | [AI Engineer Co-op, Winter](https://go.vansh.nyc/1Gn) | Lumentum | Ottawa, Canada | 4 days ago |
@@ -49,15 +50,16 @@ _Updated Tuesday 24 November, 16:18 Toronto &middot; 12/13 sources healthy &midd
 | [Digital Graduate Program - Product Analyst - Data and AI Engineer](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/XMLNAME-2027-Digital-Graduate-Program--Product-Analyst--Data-and-AI-Engineer_R2876172-1) | Sanofi | Toronto, ON, Canada | 5 days ago |
 | [Associate AI-Enablement Developer Co-op, Winter 2027](https://euna.bamboohr.com/careers/822/) | EUNA Solutions | Oakville, ON, Canada | 5 days ago |
 | [Associate AI-Enablement Developer Co-op, Winter](https://go.vansh.nyc/1D7) | EUNA Solutions | Oakville, Canada | 5 days ago |
-| [Research Assistant Co-op - AI Focus, Winter 2027](https://jobs.jobvite.com/ross-video-careers/job/o51QAfwg?nl=1&nl=1&fr=false) | Ross Video | Nepean, Ottawa, ON, Canada | 7 days ago |
-| [Research Assistant Co-op, AI Focus, Winter](https://go.vansh.nyc/1BN) | Ross Video | Ottawa, Canada | 7 days ago |
 
-### Loose &middot; 28 to review
+### Loose &middot; 30 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
 | [Data and Business Intelligence Analyst Intern, Winter](https://go.vansh.nyc/1Ia) | Hitachi | Toronto, Canada | **Today** |
+| [Junior Risk Analyst Intern, N/A](https://careers.kpmg.ca/jobs/38148?icims=1&lang=en-us) | KPMG | Toronto, ON, Canada, Victoria, BC, Canada, Saskatoon, SK, Canada, Calgary, AB, Canada, Vaughan, ON, Canada, Hamilton, ON, Canada, Edmonton, AB, Canada, St. John's, NL, Canada, Regina, SK, Canada, London, ON, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada, Prince George, BC, Canada, Fredericton, NB, Canada | **Today** |
 | [Embedded Solutions Intern, Summer](https://go.vansh.nyc/1Ii) | Altera | Toronto, Canada | **Today** |
+| [Data Foundations Intern - Data &amp; Analytics, Winter 2027](https://jobs-kinaxis.icims.com/jobs/36672/job?mobile=true&needsRedirect=false) | Kinaxis | Ottawa, ON, Canada, Remote in Canada | Yesterday |
+| [Data Foundations Intern, Data &amp; Analytics, Winter](https://go.vansh.nyc/1IM) | Kinaxis | Ottawa, Canada, Remote, Canada | Yesterday |
 | [Software Development Intern, Winter](https://go.vansh.nyc/1Hf) | Canadian Tire Corporation, Limited | Toronto, Canada | Yesterday |
 | [Salesforce Developer 1 Intern, Summer](https://go.vansh.nyc/1FT) | Celestica | Toronto, Canada | 4 days ago |
 | [Product Management Intern, Summer 2027](https://job-boards.greenhouse.io/method/jobs/8207585003) | Method | Remote in USA, Santa Clara, CA, Charlotte, NC, NYC, Remote in Canada | 4 days ago |
@@ -83,7 +85,6 @@ _Updated Tuesday 24 November, 16:18 Toronto &middot; 12/13 sources healthy &midd
 | [GPU Compiler Development Intern, HW, Summer](https://go.vansh.nyc/1Cy) | Qualcomm | Markham, Canada | 6 days ago |
 | [Global Analytic Financial Engineering (GAFE) Co-op, Global Banking and Markets, Summer](https://go.vansh.nyc/1Ch) | Scotiabank | Toronto, Canada | 6 days ago |
 | [Engineering Intern - Labs, N/A](https://csmc.bamboohr.com/careers/51/) | Canadian Strategic Missions | Waterloo, ON, Canada | 6 days ago |
-| [AI/Machine Learning Intern - Interim Engineering Intern - SW, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446722176432) | Qualcomm | Markham, ON, Canada | 7 days ago |
 
 ### Sources
 
@@ -91,16 +92,16 @@ _Updated Tuesday 24 November, 16:18 Toronto &middot; 12/13 sources healthy &midd
 |---|---|---|
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
-| Canadian-Tech-Internships-2027 \[tracker\] | 230 | ok |
-| Cohere \[ashby\] | 122 | ok |
+| Canadian-Tech-Internships-2027 \[tracker\] | 234 | ok |
+| Cohere \[ashby\] | 123 | ok |
 | Faire \[greenhouse\] | 72 | ok |
-| New-Grad-Positions \[tracker\] | 3075 | ok |
-| Summer2027-Internships \[tracker\] | 5064 | ok |
+| New-Grad-Positions \[tracker\] | 3077 | ok |
+| Summer2027-Internships \[tracker\] | 5070 | ok |
 | Tenstorrent \[greenhouse\] | 149 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 85 | ok |
 | Wealthsimple \[ashby\] | 38 | ok |
-| Xanadu \[html\] | 32 | ok |
+| Xanadu \[html\] | 35 | ok |
 | vansh-Summer2027 \[tracker\] | 2495 | ok |
 
 <!-- radar:listings:end -->
