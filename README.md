@@ -32,7 +32,7 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Thursday 26 November, 04:36 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Thursday 26 November, 14:40 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 14 AI/ML matches
 
@@ -57,6 +57,7 @@ _Updated Thursday 26 November, 04:36 Toronto &middot; 12/13 sources healthy &mid
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Software Intern, Winter](https://go.vansh.nyc/1Kd) | ABB | Dorval, Canada | Yesterday |
 | [Engineering Data Analytics Intern, Summer](https://go.vansh.nyc/1Jm) | Celestica | Toronto, Canada | Yesterday |
 | [Data and Business Intelligence Analyst Intern, Winter](https://go.vansh.nyc/1Ia) | Hitachi | Toronto, Canada | 2 days ago |
 | [Junior Risk Analyst Intern, N/A](https://careers.kpmg.ca/jobs/38148?icims=1&lang=en-us) | KPMG | Toronto, ON, Canada, Victoria, BC, Canada, Saskatoon, SK, Canada, Calgary, AB, Canada, Vaughan, ON, Canada, Hamilton, ON, Canada, Edmonton, AB, Canada, St. John's, NL, Canada, Regina, SK, Canada, London, ON, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada, Prince George, BC, Canada, Fredericton, NB, Canada | 2 days ago |
@@ -80,7 +81,6 @@ _Updated Thursday 26 November, 04:36 Toronto &middot; 12/13 sources healthy &mid
 | [Hardware Engineering Student Intern - Radar, N/A](https://bb.wd3.myworkdayjobs.com/Student/job/Waterloo-Ontario/Hardware-Engineering-Student--Radar_20260313) | Blackberry | Waterloo, ON, Canada | 7 days ago |
 | [Product Analyst New Grad](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/XMLNAME-2027-Digital-Graduate-Program--Product-Analyst-_R2879279-1) | Sanofi | Toronto, ON, Canada | 7 days ago |
 | [Digital New Grad - Product Analyst](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/XMLNAME-2027-Digital-Graduate-Program--Product-Analyst_R2878972-1) | Sanofi | Toronto, ON, Canada | 7 days ago |
-| [Software Engineering Intern, Viewer, Spring](https://go.vansh.nyc/1CX) | Peripheral | Toronto, Canada | 7 days ago |
 
 ### Sources
 
@@ -88,17 +88,17 @@ _Updated Thursday 26 November, 04:36 Toronto &middot; 12/13 sources healthy &mid
 |---|---|---|
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
-| Canadian-Tech-Internships-2027 \[tracker\] | 219 | ok |
-| Cohere \[ashby\] | 122 | ok |
-| Faire \[greenhouse\] | 71 | ok |
-| New-Grad-Positions \[tracker\] | 3072 | ok |
-| Summer2027-Internships \[tracker\] | 5087 | ok |
+| Canadian-Tech-Internships-2027 \[tracker\] | 215 | ok |
+| Cohere \[ashby\] | 123 | ok |
+| Faire \[greenhouse\] | 72 | ok |
+| New-Grad-Positions \[tracker\] | 3055 | ok |
+| Summer2027-Internships \[tracker\] | 5079 | ok |
 | Tenstorrent \[greenhouse\] | 154 | ok |
 | Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 80 | ok |
 | Wealthsimple \[ashby\] | 37 | ok |
 | Xanadu \[html\] | 35 | ok |
-| vansh-Summer2027 \[tracker\] | 2508 | ok |
+| vansh-Summer2027 \[tracker\] | 2506 | ok |
 
 <!-- radar:listings:end -->
 
