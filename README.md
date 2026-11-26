@@ -32,55 +32,55 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Wednesday 25 November, 19:27 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Thursday 26 November, 04:36 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 14 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
-| [Engineering AI Development Intern, Summer](https://go.vansh.nyc/1Jn) | Celestica | Toronto, Canada | **Today** |
-| [Data Engineer Intern, Enterprise Analytics, Summer](https://go.vansh.nyc/1Jd) | Saputo | Mississauga, Canada | **Today** |
-| [Data Engineering Intern, Winter](https://go.vansh.nyc/1IL) | Super | Toronto, Canada | Yesterday |
-| [AI Software Development Engineer Intern, Summer](https://go.vansh.nyc/1Ih) | Altera | Toronto, Canada | Yesterday |
-| [Data Engineering Intern, Summer](https://go.vansh.nyc/1G8) | Canadian Solar | Kitchener, Canada | 4 days ago |
-| [AI Engineer Co-op, Winter](https://go.vansh.nyc/1Gn) | Lumentum | Ottawa, Canada | 5 days ago |
-| [Data and Artificial Intelligence Student Intern, N/A](https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=ea375757-76a7-4b9e-81d0-478ed7beb2e1) | Meridian Credit Union | Etobicoke, ON, Canada, St. Catharines, ON, Canada | 5 days ago |
-| [Data and Artificial Intelligence Student Intern, Summer](https://go.vansh.nyc/1Fg) | Meridian Credit Union | Etobicoke, Canada, St. Catharines, Canada | 5 days ago |
-| [Artificial Intelligence Engineer Intern, N/A](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127878) | Honeywell Aerospace | Kanata, Ottawa, ON, Canada | 5 days ago |
-| [AI Program Intern, Winter 2027](https://careersen-mackenzieinvestments.icims.com/jobs/6446/job?mobile=true&needsRedirect=false) | Mackenzie Investments | Toronto, ON, Canada | 6 days ago |
-| [AI Program Intern, Winter](https://go.vansh.nyc/1F8) | Mackenzie Investments | Toronto, Canada | 6 days ago |
-| [Digital Graduate Program - Product Analyst - Data and AI Engineer](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/XMLNAME-2027-Digital-Graduate-Program--Product-Analyst--Data-and-AI-Engineer_R2876172-1) | Sanofi | Toronto, ON, Canada | 6 days ago |
-| [Associate AI-Enablement Developer Co-op, Winter 2027](https://euna.bamboohr.com/careers/822/) | EUNA Solutions | Oakville, ON, Canada | 6 days ago |
-| [Associate AI-Enablement Developer Co-op, Winter](https://go.vansh.nyc/1D7) | EUNA Solutions | Oakville, Canada | 6 days ago |
+| [Engineering AI Development Intern, Summer](https://go.vansh.nyc/1Jn) | Celestica | Toronto, Canada | Yesterday |
+| [Data Engineer Intern, Enterprise Analytics, Summer](https://go.vansh.nyc/1Jd) | Saputo | Mississauga, Canada | Yesterday |
+| [Data Engineering Intern, Winter](https://go.vansh.nyc/1IL) | Super | Toronto, Canada | 2 days ago |
+| [AI Software Development Engineer Intern, Summer](https://go.vansh.nyc/1Ih) | Altera | Toronto, Canada | 2 days ago |
+| [Data Engineering Intern, Summer](https://go.vansh.nyc/1G8) | Canadian Solar | Kitchener, Canada | 5 days ago |
+| [AI Engineer Co-op, Winter](https://go.vansh.nyc/1Gn) | Lumentum | Ottawa, Canada | 6 days ago |
+| [Data and Artificial Intelligence Student Intern, N/A](https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=ea375757-76a7-4b9e-81d0-478ed7beb2e1) | Meridian Credit Union | Etobicoke, ON, Canada, St. Catharines, ON, Canada | 6 days ago |
+| [Data and Artificial Intelligence Student Intern, Summer](https://go.vansh.nyc/1Fg) | Meridian Credit Union | Etobicoke, Canada, St. Catharines, Canada | 6 days ago |
+| [Artificial Intelligence Engineer Intern, N/A](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127878) | Honeywell Aerospace | Kanata, Ottawa, ON, Canada | 6 days ago |
+| [AI Program Intern, Winter 2027](https://careersen-mackenzieinvestments.icims.com/jobs/6446/job?mobile=true&needsRedirect=false) | Mackenzie Investments | Toronto, ON, Canada | 7 days ago |
+| [AI Program Intern, Winter](https://go.vansh.nyc/1F8) | Mackenzie Investments | Toronto, Canada | 7 days ago |
+| [Digital Graduate Program - Product Analyst - Data and AI Engineer](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/XMLNAME-2027-Digital-Graduate-Program--Product-Analyst--Data-and-AI-Engineer_R2876172-1) | Sanofi | Toronto, ON, Canada | 7 days ago |
+| [Associate AI-Enablement Developer Co-op, Winter 2027](https://euna.bamboohr.com/careers/822/) | EUNA Solutions | Oakville, ON, Canada | 7 days ago |
+| [Associate AI-Enablement Developer Co-op, Winter](https://go.vansh.nyc/1D7) | EUNA Solutions | Oakville, Canada | 7 days ago |
 
 ### Loose &middot; 24 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
-| [Engineering Data Analytics Intern, Summer](https://go.vansh.nyc/1Jm) | Celestica | Toronto, Canada | **Today** |
-| [Data and Business Intelligence Analyst Intern, Winter](https://go.vansh.nyc/1Ia) | Hitachi | Toronto, Canada | Yesterday |
-| [Junior Risk Analyst Intern, N/A](https://careers.kpmg.ca/jobs/38148?icims=1&lang=en-us) | KPMG | Toronto, ON, Canada, Victoria, BC, Canada, Saskatoon, SK, Canada, Calgary, AB, Canada, Vaughan, ON, Canada, Hamilton, ON, Canada, Edmonton, AB, Canada, St. John's, NL, Canada, Regina, SK, Canada, London, ON, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada, Prince George, BC, Canada, Fredericton, NB, Canada | Yesterday |
-| [Embedded Solutions Intern, Summer](https://go.vansh.nyc/1Ii) | Altera | Toronto, Canada | Yesterday |
-| [Data Foundations Intern - Data &amp; Analytics, Winter 2027](https://jobs-kinaxis.icims.com/jobs/36672/job?mobile=true&needsRedirect=false) | Kinaxis | Ottawa, ON, Canada, Remote in Canada | 2 days ago |
-| [Data Foundations Intern, Data &amp; Analytics, Winter](https://go.vansh.nyc/1IM) | Kinaxis | Ottawa, Canada, Remote, Canada | 2 days ago |
-| [Software Development Intern, Winter](https://go.vansh.nyc/1Hf) | Canadian Tire Corporation, Limited | Toronto, Canada | 2 days ago |
-| [Salesforce Developer 1 Intern, Summer](https://go.vansh.nyc/1FT) | Celestica | Toronto, Canada | 5 days ago |
-| [Product Management Intern, Summer 2027](https://job-boards.greenhouse.io/method/jobs/8207585003) | Method | Remote in USA, Santa Clara, CA, Charlotte, NC, NYC, Remote in Canada | 5 days ago |
-| [Engineering Resident Intern, N/A](https://job-boards.greenhouse.io/method/jobs/8208724003) | Method | Remote in USA, Santa Clara, CA, Charlotte, NC, NYC, Remote in Canada | 5 days ago |
-| [Engineering Resident Intern, Summer](https://go.vansh.nyc/1Fq) | Method | Remote, United States, Canada, Santa Clara, CA, Charlotte, NC, New York, NY | 5 days ago |
-| [Software Development Co-op, Winter](https://go.vansh.nyc/1FG) | Loblaw Companies | Toronto, Canada | 5 days ago |
-| [Researcher Intern - Mathematical Foundations of Differentiable World Models, N/A](https://huaweicanada.recruitee.com/o/intern-researcher-mathematical-foundations-of-differentiable-world-models) | Huawei | Ottawa, ON, Canada | 5 days ago |
-| [Electronics Engineering Technologist Co-op, Winter 2027](https://avnan.bamboohr.com/careers/125/) | Avnan | Mississauga, ON, Canada | 5 days ago |
-| [Embedded Engineer Intern, N/A](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127880) | Honeywell Aerospace | Kanata, Ottawa, ON, Canada | 5 days ago |
-| [Electrical Engineer Intern, N/A](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127344) | Honeywell Aerospace | Kanata, Ottawa, ON, Canada | 5 days ago |
-| [Engineering Student Intern, AI/ML Specialist, Winter](https://go.vansh.nyc/1DO) | MDA | Richmond, Canada | 6 days ago |
-| [FPGA Software Engineer Intern, Summer](https://go.vansh.nyc/1Et) | Altera | Toronto, Canada | 6 days ago |
-| [Software Engineer New Grad](https://jobs.ashbyhq.com/keplar/9da9bb8e-d7f1-4247-b6da-8392ebc852bd/application?embed=true) | Keplar | Toronto, ON, Canada, Waterloo, ON, Canada | 6 days ago |
-| [Junior Vulnerability Management Analyst Intern, Winter](https://go.vansh.nyc/1Fp) | TMX Group | Toronto, Canada | 6 days ago |
-| [Hardware Engineering Student Intern - Radar, N/A](https://bb.wd3.myworkdayjobs.com/Student/job/Waterloo-Ontario/Hardware-Engineering-Student--Radar_20260313) | Blackberry | Waterloo, ON, Canada | 6 days ago |
-| [Product Analyst New Grad](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/XMLNAME-2027-Digital-Graduate-Program--Product-Analyst-_R2879279-1) | Sanofi | Toronto, ON, Canada | 6 days ago |
-| [Digital New Grad - Product Analyst](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/XMLNAME-2027-Digital-Graduate-Program--Product-Analyst_R2878972-1) | Sanofi | Toronto, ON, Canada | 6 days ago |
-| [Software Engineering Intern, Viewer, Spring](https://go.vansh.nyc/1CX) | Peripheral | Toronto, Canada | 6 days ago |
+| [Engineering Data Analytics Intern, Summer](https://go.vansh.nyc/1Jm) | Celestica | Toronto, Canada | Yesterday |
+| [Data and Business Intelligence Analyst Intern, Winter](https://go.vansh.nyc/1Ia) | Hitachi | Toronto, Canada | 2 days ago |
+| [Junior Risk Analyst Intern, N/A](https://careers.kpmg.ca/jobs/38148?icims=1&lang=en-us) | KPMG | Toronto, ON, Canada, Victoria, BC, Canada, Saskatoon, SK, Canada, Calgary, AB, Canada, Vaughan, ON, Canada, Hamilton, ON, Canada, Edmonton, AB, Canada, St. John's, NL, Canada, Regina, SK, Canada, London, ON, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada, Prince George, BC, Canada, Fredericton, NB, Canada | 2 days ago |
+| [Embedded Solutions Intern, Summer](https://go.vansh.nyc/1Ii) | Altera | Toronto, Canada | 2 days ago |
+| [Data Foundations Intern - Data &amp; Analytics, Winter 2027](https://jobs-kinaxis.icims.com/jobs/36672/job?mobile=true&needsRedirect=false) | Kinaxis | Ottawa, ON, Canada, Remote in Canada | 3 days ago |
+| [Data Foundations Intern, Data &amp; Analytics, Winter](https://go.vansh.nyc/1IM) | Kinaxis | Ottawa, Canada, Remote, Canada | 3 days ago |
+| [Software Development Intern, Winter](https://go.vansh.nyc/1Hf) | Canadian Tire Corporation, Limited | Toronto, Canada | 3 days ago |
+| [Salesforce Developer 1 Intern, Summer](https://go.vansh.nyc/1FT) | Celestica | Toronto, Canada | 6 days ago |
+| [Product Management Intern, Summer 2027](https://job-boards.greenhouse.io/method/jobs/8207585003) | Method | Remote in USA, Santa Clara, CA, Charlotte, NC, NYC, Remote in Canada | 6 days ago |
+| [Engineering Resident Intern, N/A](https://job-boards.greenhouse.io/method/jobs/8208724003) | Method | Remote in USA, Santa Clara, CA, Charlotte, NC, NYC, Remote in Canada | 6 days ago |
+| [Engineering Resident Intern, Summer](https://go.vansh.nyc/1Fq) | Method | Remote, United States, Canada, Santa Clara, CA, Charlotte, NC, New York, NY | 6 days ago |
+| [Software Development Co-op, Winter](https://go.vansh.nyc/1FG) | Loblaw Companies | Toronto, Canada | 6 days ago |
+| [Researcher Intern - Mathematical Foundations of Differentiable World Models, N/A](https://huaweicanada.recruitee.com/o/intern-researcher-mathematical-foundations-of-differentiable-world-models) | Huawei | Ottawa, ON, Canada | 6 days ago |
+| [Electronics Engineering Technologist Co-op, Winter 2027](https://avnan.bamboohr.com/careers/125/) | Avnan | Mississauga, ON, Canada | 6 days ago |
+| [Embedded Engineer Intern, N/A](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127880) | Honeywell Aerospace | Kanata, Ottawa, ON, Canada | 6 days ago |
+| [Electrical Engineer Intern, N/A](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127344) | Honeywell Aerospace | Kanata, Ottawa, ON, Canada | 6 days ago |
+| [Engineering Student Intern, AI/ML Specialist, Winter](https://go.vansh.nyc/1DO) | MDA | Richmond, Canada | 7 days ago |
+| [FPGA Software Engineer Intern, Summer](https://go.vansh.nyc/1Et) | Altera | Toronto, Canada | 7 days ago |
+| [Software Engineer New Grad](https://jobs.ashbyhq.com/keplar/9da9bb8e-d7f1-4247-b6da-8392ebc852bd/application?embed=true) | Keplar | Toronto, ON, Canada, Waterloo, ON, Canada | 7 days ago |
+| [Junior Vulnerability Management Analyst Intern, Winter](https://go.vansh.nyc/1Fp) | TMX Group | Toronto, Canada | 7 days ago |
+| [Hardware Engineering Student Intern - Radar, N/A](https://bb.wd3.myworkdayjobs.com/Student/job/Waterloo-Ontario/Hardware-Engineering-Student--Radar_20260313) | Blackberry | Waterloo, ON, Canada | 7 days ago |
+| [Product Analyst New Grad](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/XMLNAME-2027-Digital-Graduate-Program--Product-Analyst-_R2879279-1) | Sanofi | Toronto, ON, Canada | 7 days ago |
+| [Digital New Grad - Product Analyst](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/XMLNAME-2027-Digital-Graduate-Program--Product-Analyst_R2878972-1) | Sanofi | Toronto, ON, Canada | 7 days ago |
+| [Software Engineering Intern, Viewer, Spring](https://go.vansh.nyc/1CX) | Peripheral | Toronto, Canada | 7 days ago |
 
 ### Sources
 
@@ -88,17 +88,17 @@ _Updated Wednesday 25 November, 19:27 Toronto &middot; 12/13 sources healthy &mi
 |---|---|---|
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
-| Canadian-Tech-Internships-2027 \[tracker\] | 214 | ok |
+| Canadian-Tech-Internships-2027 \[tracker\] | 219 | ok |
 | Cohere \[ashby\] | 122 | ok |
 | Faire \[greenhouse\] | 71 | ok |
-| New-Grad-Positions \[tracker\] | 3076 | ok |
-| Summer2027-Internships \[tracker\] | 5094 | ok |
-| Tenstorrent \[greenhouse\] | 153 | ok |
+| New-Grad-Positions \[tracker\] | 3072 | ok |
+| Summer2027-Internships \[tracker\] | 5087 | ok |
+| Tenstorrent \[greenhouse\] | 154 | ok |
 | Vector Institute \[html\] | 32 | ok |
-| Waabi \[lever\] | 81 | ok |
+| Waabi \[lever\] | 80 | ok |
 | Wealthsimple \[ashby\] | 37 | ok |
 | Xanadu \[html\] | 35 | ok |
-| vansh-Summer2027 \[tracker\] | 2503 | ok |
+| vansh-Summer2027 \[tracker\] | 2508 | ok |
 
 <!-- radar:listings:end -->
 
