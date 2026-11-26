@@ -32,12 +32,14 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Wednesday 25 November, 10:41 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Wednesday 25 November, 19:27 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 12 AI/ML matches
+### Strict &middot; 14 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Engineering AI Development Intern, Summer](https://go.vansh.nyc/1Jn) | Celestica | Toronto, Canada | **Today** |
+| [Data Engineer Intern, Enterprise Analytics, Summer](https://go.vansh.nyc/1Jd) | Saputo | Mississauga, Canada | **Today** |
 | [Data Engineering Intern, Winter](https://go.vansh.nyc/1IL) | Super | Toronto, Canada | Yesterday |
 | [AI Software Development Engineer Intern, Summer](https://go.vansh.nyc/1Ih) | Altera | Toronto, Canada | Yesterday |
 | [Data Engineering Intern, Summer](https://go.vansh.nyc/1G8) | Canadian Solar | Kitchener, Canada | 4 days ago |
@@ -51,10 +53,11 @@ _Updated Wednesday 25 November, 10:41 Toronto &middot; 12/13 sources healthy &mi
 | [Associate AI-Enablement Developer Co-op, Winter 2027](https://euna.bamboohr.com/careers/822/) | EUNA Solutions | Oakville, ON, Canada | 6 days ago |
 | [Associate AI-Enablement Developer Co-op, Winter](https://go.vansh.nyc/1D7) | EUNA Solutions | Oakville, Canada | 6 days ago |
 
-### Loose &middot; 29 to review
+### Loose &middot; 24 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Engineering Data Analytics Intern, Summer](https://go.vansh.nyc/1Jm) | Celestica | Toronto, Canada | **Today** |
 | [Data and Business Intelligence Analyst Intern, Winter](https://go.vansh.nyc/1Ia) | Hitachi | Toronto, Canada | Yesterday |
 | [Junior Risk Analyst Intern, N/A](https://careers.kpmg.ca/jobs/38148?icims=1&lang=en-us) | KPMG | Toronto, ON, Canada, Victoria, BC, Canada, Saskatoon, SK, Canada, Calgary, AB, Canada, Vaughan, ON, Canada, Hamilton, ON, Canada, Edmonton, AB, Canada, St. John's, NL, Canada, Regina, SK, Canada, London, ON, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada, Prince George, BC, Canada, Fredericton, NB, Canada | Yesterday |
 | [Embedded Solutions Intern, Summer](https://go.vansh.nyc/1Ii) | Altera | Toronto, Canada | Yesterday |
@@ -78,12 +81,6 @@ _Updated Wednesday 25 November, 10:41 Toronto &middot; 12/13 sources healthy &mi
 | [Product Analyst New Grad](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/XMLNAME-2027-Digital-Graduate-Program--Product-Analyst-_R2879279-1) | Sanofi | Toronto, ON, Canada | 6 days ago |
 | [Digital New Grad - Product Analyst](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/XMLNAME-2027-Digital-Graduate-Program--Product-Analyst_R2878972-1) | Sanofi | Toronto, ON, Canada | 6 days ago |
 | [Software Engineering Intern, Viewer, Spring](https://go.vansh.nyc/1CX) | Peripheral | Toronto, Canada | 6 days ago |
-| [Physical AI and Robotics Intern, Summer 2027](https://jobs.ashbyhq.com/georgian/62da47ff-0424-4e28-bffa-cff0de8ca228/application?embed=true) | Georgian Partners Growth | Toronto, ON, Canada | 7 days ago |
-| [Software Developer Co-op - Common Cloud Services, N/A](https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/Canada-Quebec-Montreal/Software-Developer---Common-Cloud-Services--Co-Op-_REQ-2026-3079) | Ribbon | Canada | 7 days ago |
-| [Software Developer Co-op, Common Cloud Services, Winter](https://go.vansh.nyc/1Gf) | Ribbon | Canada | 7 days ago |
-| [GPU Compiler Development Intern - Interim Engineering Intern - HW, Summer 2027](https://qualcomm.eightfold.ai/careers/job/446722198182) | Qualcomm | Markham, ON, Canada | 7 days ago |
-| [GPU Compiler Development Intern, HW, Summer](https://go.vansh.nyc/1Cy) | Qualcomm | Markham, Canada | 7 days ago |
-| [Global Analytic Financial Engineering (GAFE) Co-op, Global Banking and Markets, Summer](https://go.vansh.nyc/1Ch) | Scotiabank | Toronto, Canada | 7 days ago |
 
 ### Sources
 
@@ -91,17 +88,17 @@ _Updated Wednesday 25 November, 10:41 Toronto &middot; 12/13 sources healthy &mi
 |---|---|---|
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
 | BenchSci \[lever\] | - | ok |
-| Canadian-Tech-Internships-2027 \[tracker\] | 210 | ok |
+| Canadian-Tech-Internships-2027 \[tracker\] | 214 | ok |
 | Cohere \[ashby\] | 122 | ok |
-| Faire \[greenhouse\] | 72 | ok |
-| New-Grad-Positions \[tracker\] | 3073 | ok |
-| Summer2027-Internships \[tracker\] | 5066 | ok |
-| Tenstorrent \[greenhouse\] | 149 | ok |
+| Faire \[greenhouse\] | 71 | ok |
+| New-Grad-Positions \[tracker\] | 3076 | ok |
+| Summer2027-Internships \[tracker\] | 5094 | ok |
+| Tenstorrent \[greenhouse\] | 153 | ok |
 | Vector Institute \[html\] | 32 | ok |
-| Waabi \[lever\] | 85 | ok |
-| Wealthsimple \[ashby\] | 36 | ok |
+| Waabi \[lever\] | 81 | ok |
+| Wealthsimple \[ashby\] | 37 | ok |
 | Xanadu \[html\] | 35 | ok |
-| vansh-Summer2027 \[tracker\] | 2491 | ok |
+| vansh-Summer2027 \[tracker\] | 2503 | ok |
 
 <!-- radar:listings:end -->
 
