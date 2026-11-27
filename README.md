@@ -32,7 +32,7 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Friday 27 November, 07:34 Toronto &middot; 11/13 sources healthy &middot; last 7 days, newest first._
+_Updated Friday 27 November, 17:01 Toronto &middot; 11/13 sources healthy &middot; last 7 days, newest first._
 
 ### Strict &middot; 8 AI/ML matches
 
@@ -47,10 +47,11 @@ _Updated Friday 27 November, 07:34 Toronto &middot; 11/13 sources healthy &middo
 | [Data and Artificial Intelligence Student Intern, N/A](https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=ea375757-76a7-4b9e-81d0-478ed7beb2e1) | Meridian Credit Union | Etobicoke, ON, Canada, St. Catharines, ON, Canada | 7 days ago |
 | [Data and Artificial Intelligence Student Intern, Summer](https://go.vansh.nyc/1Fg) | Meridian Credit Union | Etobicoke, Canada, St. Catharines, Canada | 7 days ago |
 
-### Loose &middot; 15 to review
+### Loose &middot; 11 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
+| [Full Stack Software Developer Intern, Winter](https://go.vansh.nyc/1Lv) | The Home Depot | Canada | **Today** |
 | [Technical-Engineering Intern, Summer 2027](https://synopsys.avature.net/careers/JobDetail/19725) | Synopsys | Mississauga, ON, Canada | Yesterday |
 | [Software Intern, Winter](https://go.vansh.nyc/1Kd) | ABB | Dorval, Canada | 2 days ago |
 | [Engineering Data Analytics Intern, Summer](https://go.vansh.nyc/1Jm) | Celestica | Toronto, Canada | 2 days ago |
@@ -61,11 +62,6 @@ _Updated Friday 27 November, 07:34 Toronto &middot; 11/13 sources healthy &middo
 | [Data Foundations Intern, Data &amp; Analytics, Winter](https://go.vansh.nyc/1IM) | Kinaxis | Ottawa, Canada, Remote, Canada | 4 days ago |
 | [Software Development Intern, Winter](https://go.vansh.nyc/1Hf) | Canadian Tire Corporation, Limited | Toronto, Canada | 4 days ago |
 | [Salesforce Developer 1 Intern, Summer](https://go.vansh.nyc/1FT) | Celestica | Toronto, Canada | 7 days ago |
-| [Product Management Intern, Summer 2027](https://job-boards.greenhouse.io/method/jobs/8207585003) | Method | Remote in USA, Santa Clara, CA, Charlotte, NC, NYC, Remote in Canada | 7 days ago |
-| [Engineering Resident Intern, N/A](https://job-boards.greenhouse.io/method/jobs/8208724003) | Method | Remote in USA, Santa Clara, CA, Charlotte, NC, NYC, Remote in Canada | 7 days ago |
-| [Engineering Resident Intern, Summer](https://go.vansh.nyc/1Fq) | Method | Remote, United States, Canada, Santa Clara, CA, Charlotte, NC, New York, NY | 7 days ago |
-| [Software Development Co-op, Winter](https://go.vansh.nyc/1FG) | Loblaw Companies | Toronto, Canada | 7 days ago |
-| [Researcher Intern - Mathematical Foundations of Differentiable World Models, N/A](https://huaweicanada.recruitee.com/o/intern-researcher-mathematical-foundations-of-differentiable-world-models) | Huawei | Ottawa, ON, Canada | 7 days ago |
 
 ### Sources
 
@@ -75,15 +71,15 @@ _Updated Friday 27 November, 07:34 Toronto &middot; 11/13 sources healthy &middo
 | Vector Institute \[html\] | 32 | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://vectorinstitute.ai/careers/ |
 | BenchSci \[lever\] | - | ok |
 | Canadian-Tech-Internships-2027 \[tracker\] | 215 | ok |
-| Cohere \[ashby\] | 123 | ok |
-| Faire \[greenhouse\] | 73 | ok |
-| New-Grad-Positions \[tracker\] | 3049 | ok |
-| Summer2027-Internships \[tracker\] | 5081 | ok |
-| Tenstorrent \[greenhouse\] | 154 | ok |
+| Cohere \[ashby\] | 121 | ok |
+| Faire \[greenhouse\] | 71 | ok |
+| New-Grad-Positions \[tracker\] | 3046 | ok |
+| Summer2027-Internships \[tracker\] | 5060 | ok |
+| Tenstorrent \[greenhouse\] | 153 | ok |
 | Waabi \[lever\] | 80 | ok |
 | Wealthsimple \[ashby\] | 36 | ok |
-| Xanadu \[html\] | 35 | ok |
-| vansh-Summer2027 \[tracker\] | 2486 | ok |
+| Xanadu \[html\] | 39 | ok |
+| vansh-Summer2027 \[tracker\] | 2471 | ok |
 
 <!-- radar:listings:end -->
 
