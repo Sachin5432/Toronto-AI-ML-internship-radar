@@ -32,9 +32,9 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Thursday 26 November, 14:40 Toronto &middot; 12/13 sources healthy &middot; last 7 days, newest first._
+_Updated Thursday 26 November, 21:54 Toronto &middot; 11/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 14 AI/ML matches
+### Strict &middot; 9 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -47,13 +47,8 @@ _Updated Thursday 26 November, 14:40 Toronto &middot; 12/13 sources healthy &mid
 | [Data and Artificial Intelligence Student Intern, N/A](https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=ea375757-76a7-4b9e-81d0-478ed7beb2e1) | Meridian Credit Union | Etobicoke, ON, Canada, St. Catharines, ON, Canada | 6 days ago |
 | [Data and Artificial Intelligence Student Intern, Summer](https://go.vansh.nyc/1Fg) | Meridian Credit Union | Etobicoke, Canada, St. Catharines, Canada | 6 days ago |
 | [Artificial Intelligence Engineer Intern, N/A](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127878) | Honeywell Aerospace | Kanata, Ottawa, ON, Canada | 6 days ago |
-| [AI Program Intern, Winter 2027](https://careersen-mackenzieinvestments.icims.com/jobs/6446/job?mobile=true&needsRedirect=false) | Mackenzie Investments | Toronto, ON, Canada | 7 days ago |
-| [AI Program Intern, Winter](https://go.vansh.nyc/1F8) | Mackenzie Investments | Toronto, Canada | 7 days ago |
-| [Digital Graduate Program - Product Analyst - Data and AI Engineer](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/XMLNAME-2027-Digital-Graduate-Program--Product-Analyst--Data-and-AI-Engineer_R2876172-1) | Sanofi | Toronto, ON, Canada | 7 days ago |
-| [Associate AI-Enablement Developer Co-op, Winter 2027](https://euna.bamboohr.com/careers/822/) | EUNA Solutions | Oakville, ON, Canada | 7 days ago |
-| [Associate AI-Enablement Developer Co-op, Winter](https://go.vansh.nyc/1D7) | EUNA Solutions | Oakville, Canada | 7 days ago |
 
-### Loose &middot; 24 to review
+### Loose &middot; 17 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
@@ -74,31 +69,24 @@ _Updated Thursday 26 November, 14:40 Toronto &middot; 12/13 sources healthy &mid
 | [Electronics Engineering Technologist Co-op, Winter 2027](https://avnan.bamboohr.com/careers/125/) | Avnan | Mississauga, ON, Canada | 6 days ago |
 | [Embedded Engineer Intern, N/A](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127880) | Honeywell Aerospace | Kanata, Ottawa, ON, Canada | 6 days ago |
 | [Electrical Engineer Intern, N/A](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127344) | Honeywell Aerospace | Kanata, Ottawa, ON, Canada | 6 days ago |
-| [Engineering Student Intern, AI/ML Specialist, Winter](https://go.vansh.nyc/1DO) | MDA | Richmond, Canada | 7 days ago |
-| [FPGA Software Engineer Intern, Summer](https://go.vansh.nyc/1Et) | Altera | Toronto, Canada | 7 days ago |
-| [Software Engineer New Grad](https://jobs.ashbyhq.com/keplar/9da9bb8e-d7f1-4247-b6da-8392ebc852bd/application?embed=true) | Keplar | Toronto, ON, Canada, Waterloo, ON, Canada | 7 days ago |
-| [Junior Vulnerability Management Analyst Intern, Winter](https://go.vansh.nyc/1Fp) | TMX Group | Toronto, Canada | 7 days ago |
-| [Hardware Engineering Student Intern - Radar, N/A](https://bb.wd3.myworkdayjobs.com/Student/job/Waterloo-Ontario/Hardware-Engineering-Student--Radar_20260313) | Blackberry | Waterloo, ON, Canada | 7 days ago |
-| [Product Analyst New Grad](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/XMLNAME-2027-Digital-Graduate-Program--Product-Analyst-_R2879279-1) | Sanofi | Toronto, ON, Canada | 7 days ago |
-| [Digital New Grad - Product Analyst](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/XMLNAME-2027-Digital-Graduate-Program--Product-Analyst_R2878972-1) | Sanofi | Toronto, ON, Canada | 7 days ago |
 
 ### Sources
 
 | Source | Postings | Status |
 |---|---|---|
 | Clio \[html\] | - | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://www.clio.com/about/careers/search/ |
+| Vector Institute \[html\] | 32 | **FAIL** HTTPError: 403 Client Error: Forbidden for url: https://vectorinstitute.ai/careers/ |
 | BenchSci \[lever\] | - | ok |
 | Canadian-Tech-Internships-2027 \[tracker\] | 215 | ok |
 | Cohere \[ashby\] | 123 | ok |
-| Faire \[greenhouse\] | 72 | ok |
-| New-Grad-Positions \[tracker\] | 3055 | ok |
-| Summer2027-Internships \[tracker\] | 5079 | ok |
+| Faire \[greenhouse\] | 73 | ok |
+| New-Grad-Positions \[tracker\] | 3053 | ok |
+| Summer2027-Internships \[tracker\] | 5085 | ok |
 | Tenstorrent \[greenhouse\] | 154 | ok |
-| Vector Institute \[html\] | 32 | ok |
 | Waabi \[lever\] | 80 | ok |
-| Wealthsimple \[ashby\] | 37 | ok |
+| Wealthsimple \[ashby\] | 36 | ok |
 | Xanadu \[html\] | 35 | ok |
-| vansh-Summer2027 \[tracker\] | 2506 | ok |
+| vansh-Summer2027 \[tracker\] | 2523 | ok |
 
 <!-- radar:listings:end -->
 
