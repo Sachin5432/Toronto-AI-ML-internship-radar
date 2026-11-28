@@ -32,55 +32,54 @@ Everything between the markers is generated. Do not hand-edit it.
 
 <!-- radar:listings:start -->
 
-_Updated Friday 27 November, 22:57 Toronto &middot; 11/13 sources healthy &middot; last 7 days, newest first._
+_Updated Saturday 28 November, 08:07 Toronto &middot; 11/13 sources healthy &middot; last 7 days, newest first._
 
-### Strict &middot; 6 AI/ML matches
+### Strict &middot; 5 AI/ML matches
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
-| [Engineering AI Development Intern, Summer](https://go.vansh.nyc/1Jn) | Celestica | Toronto, Canada | 2 days ago |
-| [Data Engineer Intern, Enterprise Analytics, Summer](https://go.vansh.nyc/1Jd) | Saputo | Mississauga, Canada | 2 days ago |
-| [Data Engineering Intern, Winter](https://go.vansh.nyc/1IL) | Super | Toronto, Canada | 3 days ago |
-| [AI Software Development Engineer Intern, Summer](https://go.vansh.nyc/1Ih) | Altera | Toronto, Canada | 3 days ago |
-| [AI Specialist Intern, N/A](https://ia.wd3.myworkdayjobs.com/Professional/job/Toronto-Ontario/AI-Specialist_JR10028300) | iA Financial Group | Toronto, ON, Canada | 5 days ago |
-| [Data Engineering Intern, Summer](https://go.vansh.nyc/1G8) | Canadian Solar | Kitchener, Canada | 6 days ago |
+| [Engineering AI Development Intern, Summer](https://go.vansh.nyc/1Jn) | Celestica | Toronto, Canada | 3 days ago |
+| [Data Engineer Intern, Enterprise Analytics, Summer](https://go.vansh.nyc/1Jd) | Saputo | Mississauga, Canada | 3 days ago |
+| [Data Engineering Intern, Winter](https://go.vansh.nyc/1IL) | Super | Toronto, Canada | 4 days ago |
+| [AI Software Development Engineer Intern, Summer](https://go.vansh.nyc/1Ih) | Altera | Toronto, Canada | 4 days ago |
+| [AI Specialist Intern, N/A](https://ia.wd3.myworkdayjobs.com/Professional/job/Toronto-Ontario/AI-Specialist_JR10028300) | iA Financial Group | Toronto, ON, Canada | 6 days ago |
 
 ### Loose &middot; 32 to review
 
 | Role | Company | Location | Posted |
 |---|---|---|---|
-| [Associate Delivery Consultant Intern, AIML, AWS Professional Services, Summer](https://go.vansh.nyc/1M0) | Amazon | Toronto, Canada | **Today** |
-| [Developer Co-op, Winter 2027](https://carfaxcanada.bamboohr.com/careers/84/) | CARFAX Canada | London, ON, Canada | **Today** |
-| [Developer Co-op, Winter](https://go.vansh.nyc/1Ly) | CARFAX Canada | London, Canada | **Today** |
-| [Analytics &amp; Intelligence Co-op, Summer 2027](https://intercept.bamboohr.com/careers/50/) | Intercept | Toronto, ON, Canada | **Today** |
-| [Product Co-op, Summer 2027](https://intercept.bamboohr.com/careers/48/) | Intercept | Toronto, ON, Canada | **Today** |
-| [Solutions Engineer Co-op, Summer 2027](https://intercept.bamboohr.com/careers/49/) | Intercept | Toronto, ON, Canada | **Today** |
-| [Full Stack Software Developer Intern, Winter](https://go.vansh.nyc/1Lv) | The Home Depot | Canada | **Today** |
-| [Technical-Engineering Intern, Summer 2027](https://synopsys.avature.net/careers/JobDetail/19725) | Synopsys | Mississauga, ON, Canada | Yesterday |
-| [Automation Engineer – Global Technical Support Intern, Winter 2027](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Automation-engineer---Global-Technical-Support-Intern_R032186) | Ciena | Ottawa, ON, Canada | Yesterday |
-| [Business Analyst Co-op Intern, Summer 2027](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Business-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031168-3) | Bank of Montreal | Toronto, ON, Canada | Yesterday |
-| [Agile Center of Excellence Co-op Intern - 4 Months, Summer 2027](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Agile-Center-of-Excellence--Summer-2027--Co-op-Internship----4-Months_R260031148-3) | Bank of Montreal | Toronto, ON, Canada | Yesterday |
-| [Product Associate Co-op Intern, Summer 2027](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Product-Associate--Summer-2027--Co-op-Internship----4-Months_R260031145-2) | Bank of Montreal | Toronto, ON, Canada | Yesterday |
-| [Software Engineer New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering---New-Grad_R032171) | Ciena | Ottawa, ON, Canada | Yesterday |
-| [Systems Integration Specialist New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Systems-Integration-Specialist---New-Grad_R032209) | Ciena | Ottawa, ON, Canada | Yesterday |
-| [Automation Engineer Intern, Global Technical Support, Winter](https://go.vansh.nyc/1LK) | Ciena | Ottawa, Canada | Yesterday |
-| [Data Analyst Intern, Winter 2027](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Canadian-Capital-Markets---Data-Analyst-Intern_R-6758) | TMX Group | Toronto, ON, Canada | 2 days ago |
-| [Data Analyst Intern, Winter](https://go.vansh.nyc/1LJ) | TMX Group | Toronto, Canada | 2 days ago |
-| [Software Intern, Winter](https://go.vansh.nyc/1Kd) | ABB | Dorval, Canada | 2 days ago |
-| [Engineering Data Analytics Intern, Summer](https://go.vansh.nyc/1Jm) | Celestica | Toronto, Canada | 2 days ago |
-| [Data and Business Intelligence Analyst Intern, Winter](https://go.vansh.nyc/1Ia) | Hitachi | Toronto, Canada | 3 days ago |
-| [Junior Risk Analyst Intern, N/A](https://careers.kpmg.ca/jobs/38148?icims=1&lang=en-us) | KPMG | Toronto, ON, Canada, Victoria, BC, Canada, Saskatoon, SK, Canada, Calgary, AB, Canada, Vaughan, ON, Canada, Hamilton, ON, Canada, Edmonton, AB, Canada, St. John's, NL, Canada, Regina, SK, Canada, London, ON, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada, Prince George, BC, Canada, Fredericton, NB, Canada | 3 days ago |
-| [Embedded Solutions Intern, Summer](https://go.vansh.nyc/1Ii) | Altera | Toronto, Canada | 3 days ago |
-| [Data Foundations Intern - Data &amp; Analytics, Winter 2027](https://jobs-kinaxis.icims.com/jobs/36672/job?mobile=true&needsRedirect=false) | Kinaxis | Ottawa, ON, Canada, Remote in Canada | 4 days ago |
-| [Data Foundations Intern, Data &amp; Analytics, Winter](https://go.vansh.nyc/1IM) | Kinaxis | Ottawa, Canada, Remote, Canada | 4 days ago |
-| [Embedded Solutions Intern, N/A](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Embedded-Solutions-Intern_R03512) | Altera | Toronto, ON, Canada | 4 days ago |
-| [Software Developer Intern, N/A](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10735) | SOTI | Mississauga, ON, Canada | 4 days ago |
-| [Embedded Software Developer New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer---New-Grad_R032147) | Ciena | Ottawa, ON, Canada | 4 days ago |
-| [Embedded Software Engineer New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R032175) | Ciena | Ottawa, ON, Canada | 4 days ago |
-| [Software Development Intern, Winter](https://go.vansh.nyc/1Hf) | Canadian Tire Corporation, Limited | Toronto, Canada | 4 days ago |
-| [Software Development Student Intern, Winter 2027](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Software-Development-Student--4-Months----Winter-2027_JR168222) | Canadian Tire | Toronto, ON, Canada | 5 days ago |
-| [Software Developer Intern, N/A](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-12-Months-_R10703-2) | SOTI | Mississauga, ON, Canada | 5 days ago |
-| [Analog Design Intern, Fall 2027, Summer 2028](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Analog-Design-Intern_2604621) | Marvell | Ottawa, ON, Canada | 5 days ago |
+| [Associate Delivery Consultant Intern, AIML, AWS Professional Services, Summer](https://go.vansh.nyc/1M0) | Amazon | Toronto, Canada | Yesterday |
+| [Developer Co-op, Winter 2027](https://carfaxcanada.bamboohr.com/careers/84/) | CARFAX Canada | London, ON, Canada | Yesterday |
+| [Developer Co-op, Winter](https://go.vansh.nyc/1Ly) | CARFAX Canada | London, Canada | Yesterday |
+| [Analytics &amp; Intelligence Co-op, Summer 2027](https://intercept.bamboohr.com/careers/50/) | Intercept | Toronto, ON, Canada | Yesterday |
+| [Product Co-op, Summer 2027](https://intercept.bamboohr.com/careers/48/) | Intercept | Toronto, ON, Canada | Yesterday |
+| [Solutions Engineer Co-op, Summer 2027](https://intercept.bamboohr.com/careers/49/) | Intercept | Toronto, ON, Canada | Yesterday |
+| [Full Stack Software Developer Intern, Winter](https://go.vansh.nyc/1Lv) | The Home Depot | Canada | Yesterday |
+| [Technical-Engineering Intern, Summer 2027](https://synopsys.avature.net/careers/JobDetail/19725) | Synopsys | Mississauga, ON, Canada | 2 days ago |
+| [Automation Engineer – Global Technical Support Intern, Winter 2027](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Automation-engineer---Global-Technical-Support-Intern_R032186) | Ciena | Ottawa, ON, Canada | 2 days ago |
+| [Business Analyst Co-op Intern, Summer 2027](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Business-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031168-3) | Bank of Montreal | Toronto, ON, Canada | 2 days ago |
+| [Agile Center of Excellence Co-op Intern - 4 Months, Summer 2027](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Agile-Center-of-Excellence--Summer-2027--Co-op-Internship----4-Months_R260031148-3) | Bank of Montreal | Toronto, ON, Canada | 2 days ago |
+| [Product Associate Co-op Intern, Summer 2027](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Product-Associate--Summer-2027--Co-op-Internship----4-Months_R260031145-2) | Bank of Montreal | Toronto, ON, Canada | 2 days ago |
+| [Software Engineer New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering---New-Grad_R032171) | Ciena | Ottawa, ON, Canada | 2 days ago |
+| [Systems Integration Specialist New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Systems-Integration-Specialist---New-Grad_R032209) | Ciena | Ottawa, ON, Canada | 2 days ago |
+| [Automation Engineer Intern, Global Technical Support, Winter](https://go.vansh.nyc/1LK) | Ciena | Ottawa, Canada | 2 days ago |
+| [Data Analyst Intern, Winter 2027](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Canadian-Capital-Markets---Data-Analyst-Intern_R-6758) | TMX Group | Toronto, ON, Canada | 3 days ago |
+| [Data Analyst Intern, Winter](https://go.vansh.nyc/1LJ) | TMX Group | Toronto, Canada | 3 days ago |
+| [Software Intern, Winter](https://go.vansh.nyc/1Kd) | ABB | Dorval, Canada | 3 days ago |
+| [Engineering Data Analytics Intern, Summer](https://go.vansh.nyc/1Jm) | Celestica | Toronto, Canada | 3 days ago |
+| [Data and Business Intelligence Analyst Intern, Winter](https://go.vansh.nyc/1Ia) | Hitachi | Toronto, Canada | 4 days ago |
+| [Junior Risk Analyst Intern, N/A](https://careers.kpmg.ca/jobs/38148?icims=1&lang=en-us) | KPMG | Toronto, ON, Canada, Victoria, BC, Canada, Saskatoon, SK, Canada, Calgary, AB, Canada, Vaughan, ON, Canada, Hamilton, ON, Canada, Edmonton, AB, Canada, St. John's, NL, Canada, Regina, SK, Canada, London, ON, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada, Prince George, BC, Canada, Fredericton, NB, Canada | 4 days ago |
+| [Embedded Solutions Intern, Summer](https://go.vansh.nyc/1Ii) | Altera | Toronto, Canada | 4 days ago |
+| [Data Foundations Intern - Data &amp; Analytics, Winter 2027](https://jobs-kinaxis.icims.com/jobs/36672/job?mobile=true&needsRedirect=false) | Kinaxis | Ottawa, ON, Canada, Remote in Canada | 5 days ago |
+| [Data Foundations Intern, Data &amp; Analytics, Winter](https://go.vansh.nyc/1IM) | Kinaxis | Ottawa, Canada, Remote, Canada | 5 days ago |
+| [Embedded Solutions Intern, N/A](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Embedded-Solutions-Intern_R03512) | Altera | Toronto, ON, Canada | 5 days ago |
+| [Software Developer Intern, N/A](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10735) | SOTI | Mississauga, ON, Canada | 5 days ago |
+| [Embedded Software Developer New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer---New-Grad_R032147) | Ciena | Ottawa, ON, Canada | 5 days ago |
+| [Embedded Software Engineer New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R032175) | Ciena | Ottawa, ON, Canada | 5 days ago |
+| [Software Development Intern, Winter](https://go.vansh.nyc/1Hf) | Canadian Tire Corporation, Limited | Toronto, Canada | 5 days ago |
+| [Software Development Student Intern, Winter 2027](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Software-Development-Student--4-Months----Winter-2027_JR168222) | Canadian Tire | Toronto, ON, Canada | 6 days ago |
+| [Software Developer Intern, N/A](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-12-Months-_R10703-2) | SOTI | Mississauga, ON, Canada | 6 days ago |
+| [Analog Design Intern, Fall 2027, Summer 2028](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Analog-Design-Intern_2604621) | Marvell | Ottawa, ON, Canada | 6 days ago |
 
 ### Sources
 
@@ -92,13 +91,13 @@ _Updated Friday 27 November, 22:57 Toronto &middot; 11/13 sources healthy &middo
 | Canadian-Tech-Internships-2027 \[tracker\] | 213 | ok |
 | Cohere \[ashby\] | 121 | ok |
 | Faire \[greenhouse\] | 71 | ok |
-| New-Grad-Positions \[tracker\] | 3180 | ok |
-| Summer2027-Internships \[tracker\] | 5322 | ok |
+| New-Grad-Positions \[tracker\] | 3169 | ok |
+| Summer2027-Internships \[tracker\] | 5310 | ok |
 | Tenstorrent \[greenhouse\] | 153 | ok |
 | Waabi \[lever\] | 80 | ok |
 | Wealthsimple \[ashby\] | 36 | ok |
 | Xanadu \[html\] | 39 | ok |
-| vansh-Summer2027 \[tracker\] | 2492 | ok |
+| vansh-Summer2027 \[tracker\] | 2491 | ok |
 
 <!-- radar:listings:end -->
 
